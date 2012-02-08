@@ -1,4 +1,4 @@
-<?php $page_id = "home"; ?>
+<?php $page_id = "selectech-applicant-tracking-system"; ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <h1><?php echo $page_id ?></h1>
 

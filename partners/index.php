@@ -1,4 +1,4 @@
-<?php $page_id = "home"; ?>
+<?php $page_id = "partners"; ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <h1><?php echo $page_id ?></h1>
 
@@ -18,6 +18,4 @@
 	<dt>Description:</dt>
 	<dd><?php echo $seo[$page_id]["description"] ?></dd>
 </dl>
-
-
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php');?>

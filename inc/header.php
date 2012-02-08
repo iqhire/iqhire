@@ -1,3 +1,4 @@
+<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/seo.php');?>
 <!doctype html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
@@ -7,20 +8,20 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>
-		
-	</title>
-	<meta name="description" content="">
-	<meta name="author" content="">
+	<title><?php echo $seo[$page_id]["title"]; ?></title>
+	<meta name="keywords" content="<?php echo $seo[$page_id]["keywords"]; ?>">
+	<meta name="description" content="<?php echo $seo[$page_id]["description"]; ?>">
+	<meta name="author" content="Inquirehire">
 
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="/css/style.css">
 
-	<script src="js/libs/modernizr.h5bp.custom.js"></script>
+	<script src="/js/libs/modernizr.h5bp.custom.js"></script>
 </head>
-<body>
+<body id="<?php echo $seo[$page_id]["section"] ?>" class="<?php echo $page_id . " " . $seo[$page_id]["type"]; ?>">
 <header>
-
+	<h1 class="logo"><a href="/">Inquirehire</a></h1>
+	<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav.php');?>
 </header>
-<div role="main">
+<div role="main">	

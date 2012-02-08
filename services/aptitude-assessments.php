@@ -1,4 +1,4 @@
-<?php $page_id = "home"; ?>
+<?php $page_id = "aptitude-assessments"; ?>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <h1><?php echo $page_id ?></h1>
 
