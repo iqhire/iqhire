@@ -212,6 +212,14 @@ td {
   color: black;
   padding: 0.2em 0; }
 
+.container {
+  margin: 0 auto;
+  width: 96%;
+  /* 960px / 1000px */ }
+
+#template-header {
+  border-bottom: 1px solid #555c5e; }
+
 .ir {
   display: block;
   border: 0;
