@@ -3,12 +3,5 @@
 $iqgray: #555c5e;
 $iqred: #990000;
 
-
-
-
-@import 'template-reset';
-@import 'template-setup';
-@import 'template-layout';
-@import 'template-header';
-
-@import 'template-helpers';
+@import 'bootstrap';
+@import 'bootstrap-responsive';

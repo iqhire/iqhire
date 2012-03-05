@@ -20,7 +20,7 @@
 	<script src="/js/libs/modernizr.h5bp.custom.js"></script>
 </head>
 <body id="<?php echo $seo[$page_id]["section"] ?>" class="<?php echo $page_id . " " . $seo[$page_id]["type"]; ?>">
-<header id="template-header">
+<header id="template-header" class="container">
 	<h1 class="logo"><a href="/">Inquirehire</a></h1>
 	<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav.php');?>
 </header>
