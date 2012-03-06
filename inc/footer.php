@@ -1,6 +1,7 @@
 </div>
-<footer>
-
+<footer id="footer" class="clearfix container">
+	<p class="footernav">Navigation</p>
+	<p class="copyright">&copy; <?php print(Date("Y")); ?> Inquirehire, All Rights Reserved.</p>
 </footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>

@@ -3857,3 +3857,44 @@ a.thumbnail:hover {
 
   .thumbnails > li {
     margin-left: 30px; } }
+#template-header {
+  border-bottom: 1px solid #d6d6d6;
+  margin-bottom: 27px; }
+  #template-header .logo {
+    float: left; }
+  #template-header #nav {
+    float: right; }
+
+#footer {
+  border-top: 1px solid #d6d6d6;
+  padding-top: 18px; }
+  #footer .footernav {
+    float: left; }
+  #footer .copyright {
+    float: right; }
+
+#feature {
+  margin-bottom: 27px; }
+  #feature .main .img {
+    height: 300px; }
+  #feature .list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none; }
+    #feature .list ul li .img {
+      height: 82px;
+      margin-bottom: 27px; }
+    #feature .list ul li:last-child .img {
+      margin-bottom: 0; }
+
+#testimonials {
+  margin-bottom: 27px; }
+
+#banners {
+  margin-bottom: 27px; }
+  #banners .img {
+    height: 200px; }
+
+.img {
+  background-color: #eee;
+  width: 100%; }

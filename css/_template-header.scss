@@ -1,4 +1,13 @@
 #template-header {
 	
-	border-bottom:1px solid $iqgray;
+	border-bottom:1px solid $gray-light;
+	margin-bottom:27px;
+	
+	.logo {
+		float: left;
+	}
+	
+	#nav {
+		float:right;
+	}
 }

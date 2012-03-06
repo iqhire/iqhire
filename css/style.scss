@@ -1,7 +1,23 @@
 //colors
 
-$iqgray: #555c5e;
-$iqred: #990000;
+
+$gray-light: rgb(214,214,214); // #d6d6d6
+$gray-lighter: rgb(241,241,241); // #f1f1f1
+$gray-lightest: rgb(246,246,246); // #f6f6f6
+$gray: rgb(153,153,153); // #999999
+
+$logogray: #555c5e;
+$logored: #990000;
 
 @import 'bootstrap';
 @import 'bootstrap-responsive';
+
+@import 'template-header';
+@import 'template-footer';
+
+@import 'home-feature';
+@import 'home-testimonials';
+@import 'home-banners';
+@import 'home-sitemap';
+
+.img { background-color:#eee; width:100%; }
