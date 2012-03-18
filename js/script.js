@@ -5,4 +5,3 @@ $(document).ready(function() {
 	//enable dismissal of alert boxes
 	$(".alert").alert()
 });
-
