@@ -3967,6 +3967,18 @@ a.thumbnail:hover {
 #about #contact #comments {
   height: 180px; }
 
+.glossary .definitions dt a {
+  color: #555c5e;
+  cursor: default;
+  font-size: 14px; }
+.glossary .definitions dt a:hover {
+  color: #555c5e;
+  text-decoration: none; }
+.glossary .definitions dd {
+  margin: 0 0 1em 0; }
+  .glossary .definitions dd blockquote p {
+    font-size: 1em; }
+
 .img {
   background-color: #eee;
   width: 100%; }
