@@ -25,7 +25,7 @@
 				<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-about.php');?>
 			</ul>
 		</li>
-		<li id="nav-login"><a href="#login">Login</a>
+		<li id="nav-login"><a href="/login">Login</a>
 			<ul>
 				<li><a href="#">Login A</a></li>
 				<li><a href="#">Login B</a></li>

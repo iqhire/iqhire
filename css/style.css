@@ -3912,6 +3912,18 @@ a.thumbnail:hover {
             #template-header #nav ul li ul li a:hover {
               color: #555c5e;
               background-color: #f1f1f1; }
+      #template-header #nav ul li#nav-login a {
+        color: #fff;
+        background-color: #990000;
+        margin-left: 12px; }
+      #template-header #nav ul li#nav-login ul {
+        margin-left: 12px; }
+      #template-header #nav ul li#nav-login ul li a {
+        background-color: transparent;
+        color: #555c5e;
+        margin-left: 0; }
+      #template-header #nav ul li#nav-login ul li a:hover {
+        background-color: #f1f1f1; }
       #template-header #nav ul li:hover ul {
         left: auto; }
 

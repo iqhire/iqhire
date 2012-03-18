@@ -67,12 +67,28 @@
 				}
 			}
 			
+			li#nav-login {
+				a {
+					color:#fff;
+					background-color:$logored;
+					margin-left:12px;
+				}
+				
+				ul { margin-left:12px; }
+				
+				ul li a { background-color:transparent; color:$logogray; margin-left:0; }
+				ul li a:hover { background-color:$gray-lighter; }
+				
+			}
+			
 			li:hover {
 				
 				ul {
 					left:auto;
 				}
 			}
+			
+
 		}
 	}
 }
