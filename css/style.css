@@ -3875,6 +3875,10 @@ a.thumbnail:hover {
 
 .basic .pagehead {
   margin-bottom: 2em; }
+.basic .hr {
+  border-bottom: 1px solid #d6d6d6;
+  padding-bottom: 1em;
+  margin-bottom: 1em; }
 
 #feature {
   margin-bottom: 27px; }
