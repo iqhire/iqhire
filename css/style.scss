@@ -14,10 +14,13 @@ $logored: #990000;
 
 @import 'template-header';
 @import 'template-footer';
+@import 'template-type-basic';
 
 @import 'home-feature';
 @import 'home-testimonials';
 @import 'home-banners';
 @import 'home-sitemap';
+
+@import 'section-about';
 
 .img { background-color:#eee; width:100%; }

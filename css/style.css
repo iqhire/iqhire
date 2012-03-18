@@ -3873,6 +3873,9 @@ a.thumbnail:hover {
   #footer .copyright {
     float: right; }
 
+.basic .pagehead {
+  margin-bottom: 2em; }
+
 #feature {
   margin-bottom: 27px; }
   #feature .main .img {
@@ -3894,6 +3897,9 @@ a.thumbnail:hover {
   margin-bottom: 27px; }
   #banners .img {
     height: 200px; }
+
+#about #contact #comments {
+  height: 180px; }
 
 .img {
   background-color: #eee;

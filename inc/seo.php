@@ -10,6 +10,13 @@ $seo = array(
 	),
 
 	//about pages
+	"about" => array(
+		"section" => "about",
+		"type" => "basic",
+		"title" => "",
+		"keywords" => "",
+		"description" => ""
+	),
 	"careers" => array(
 		"section" => "about",
 		"type" => "basic",
@@ -45,7 +52,6 @@ $seo = array(
 		"keywords" => "",
 		"description" => ""
 	),
-	
 	
 	//partners page(s)
 	"partners" => array(
