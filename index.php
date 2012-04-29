@@ -21,7 +21,10 @@
 		<p>Inquirehire enables businesses to optimize their hiring process in order save time, money, and avoid costly hiring mistakes. Inquirehire solutions include, Applicant Tracking Systems, I9/E-Verify Systems, Aptitude and Behavioral Assessments, Skill Survey Professional Reference Checks, Pre-employment and Background Screening, Drug Testing, Substance Abuse Training, and Employment Tax Credit Processing (WOTC).  Inquirehire has partners and pre-integrated solutions with ERC, Honkamp Krueger, Escreen, Tazworks,  Anchor Planning and more.</p>
 	</div>
 	<div class="span6">
-		<p>Quotes</p>
+		<blockquote>
+			<p>“Our customers deserve the best, so it is important to make great hires with employees that can be trusted to do the job well.  These products allow me to do what once was nearly impossible -- and that is to obtain useful reference and background inquiries quickly!  I won’t be going back to the old way!”</p>
+			<p class="attribution">Donna J. Caldwell, SVP - Human Resources, Freestar Bank</p>
+		</blockquote>
 	</div>
 </section>
 <section id="banners" class="row">

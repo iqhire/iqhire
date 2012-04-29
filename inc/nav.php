@@ -10,7 +10,7 @@
 				<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-services.php');?>
 			</ul>
 		</li>
-		<li><a href="/resources">Resources</a>
+		<li><a>Resources</a>
 			<ul>
 				<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-resources.php');?>
 			</ul>

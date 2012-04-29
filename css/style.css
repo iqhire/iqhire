@@ -3893,7 +3893,7 @@ a.thumbnail:hover {
         #template-header #nav ul li ul {
           position: absolute;
           left: -999em;
-          margin-top: 1px;
+          margin-top: 0px;
           background-color: #fff;
           border: 1px solid #d6d6d6;
           -webkit-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
@@ -3941,6 +3941,10 @@ a.thumbnail:hover {
   border-bottom: 1px solid #d6d6d6;
   padding-bottom: 1em;
   margin-bottom: 1em; }
+.basic .intro {
+  font-size: 16px;
+  line-height: 24px;
+  color: #777; }
 
 #feature {
   margin-bottom: 27px; }
