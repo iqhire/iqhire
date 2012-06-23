@@ -1,5 +1,11 @@
 .basic {
 	
+	h2, h3, h4 {
+		color:#222222;
+		line-height:1em;
+		margin-bottom:8px;
+	}
+	
 	.pagehead {
 		margin-bottom:2em;
 	}
@@ -14,5 +20,22 @@
 		font-size:16px;
 		line-height:24px;
 		color:#777;
+	}
+	
+	.box {
+		border-bottom:1px solid $gray-light;
+		background-color:$gray-lightest;
+		@include rounded-corners(10px);
+		overflow:hidden;
+		margin-bottom:20px;
+		min-height:200px;
+
+		.text {
+			margin:20px;
+		}
+	}
+	
+	.box:hover {
+		
 	}
 }

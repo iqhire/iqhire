@@ -3921,6 +3921,10 @@ a.thumbnail:hover {
     border-bottom: 1px solid #0088cc;
     text-decoration: none; }
 
+.basic h2, .basic h3, .basic h4 {
+  color: #222222;
+  line-height: 1em;
+  margin-bottom: 8px; }
 .basic .pagehead {
   margin-bottom: 2em; }
 .basic .hr {
@@ -3931,6 +3935,17 @@ a.thumbnail:hover {
   font-size: 16px;
   line-height: 24px;
   color: #777; }
+.basic .box {
+  border-bottom: 1px solid #d6d6d6;
+  background-color: #f6f6f6;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  min-height: 200px; }
+  .basic .box .text {
+    margin: 20px; }
 
 #feature {
   margin-bottom: 27px; }
