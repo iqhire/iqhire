@@ -1,5 +1,17 @@
 #banners {
 	margin-bottom:27px;
 	
-	.img { height:200px; }
+	.banner {
+		border-bottom:1px solid $gray-light;
+		background-color:$gray-lightest;
+		@include rounded-corners(10px);
+		overflow:hidden;
+		
+		.image {
+		}
+		
+		.text {
+			padding:10px 20px;
+		}
+	}
 }

@@ -3913,6 +3913,13 @@ a.thumbnail:hover {
     float: left; }
   #footer .copyright {
     float: right; }
+  #footer a {
+    color: #555c5e;
+    border-bottom: 1px dotted #d6d6d6; }
+  #footer a:hover {
+    color: #0088cc;
+    border-bottom: 1px solid #0088cc;
+    text-decoration: none; }
 
 .basic .pagehead {
   margin-bottom: 2em; }
@@ -4039,8 +4046,15 @@ a.thumbnail:hover {
 
 #banners {
   margin-bottom: 27px; }
-  #banners .img {
-    height: 200px; }
+  #banners .banner {
+    border-bottom: 1px solid #d6d6d6;
+    background-color: #f6f6f6;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    overflow: hidden; }
+    #banners .banner .text {
+      padding: 10px 20px; }
 
 #sitemap {
   margin-bottom: 27px; }

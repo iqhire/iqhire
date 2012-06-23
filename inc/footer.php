@@ -1,7 +1,7 @@
 </div>
 <footer id="footer" class="clearfix container">
-	<p class="footernav">Navigation</p>
-	<p class="copyright">&copy; <?php print(Date("Y")); ?> Inquirehire, All Rights Reserved.</p>
+	<p class="footernav"><a href="/about/contact">Contact Us</a> or call <strong>1-800-494-5922</strong></p>
+	<p class="copyright">&copy; <?php print(Date("Y")); ?> <a href="http://inquirehire.com/">Inquirehire</a>, All Rights Reserved.</p>
 </footer>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>

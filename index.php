@@ -67,9 +67,39 @@
 	</div>
 </section>
 <section id="banners" class="row">
-	<div class="span4"><div class="img">Ad</div></div>
-	<div class="span4"><div class="img">Ad</div></div>
-	<div class="span4"><div class="img">Ad</div></div>
+	<div class="banner span4">
+		<div class="image">
+			<a href="/resources/webinars"><img src="/img/webinar.jpg" alt="Join a Webinar"/></a>
+		</div>
+		<div class="text">
+			<h2>Join A Webinar</h2>
+			<p>Inquirehire offers free, educational webinars designed to help employers stay abreast of the latest trends 
+				and best practices being utilized in today’s hiring process.</p>
+			<p><a href="/resources/webinars">Schedule a Webinar</a></p> 
+		</div>
+	</div>
+	<div class="banner span4">
+		<div class="image">
+			<a href="/resources/events"><img src="/img/events.jpg" alt="Upcoming Events"/></a>
+		</div>
+		<div class="text">
+			 <h2>Upcoming Events</h2>
+			<p>Inquirehire's professionals regularly speak on effective topics like effective hiring, background check mistakes,
+				re-engineering hiring, and social media screening.</p>
+			<p><a href="/resources/events">See our Events Calendar</a></p> 
+		</div>
+	</div>
+	<div class="banner span4">
+		<div class="image">
+			<a href="/about/contact"><img src="/img/contact-us.jpg" alt="Contact Us"/></a>
+		</div>
+		<div class="text">
+			<h2>Get in Touch</h2>
+			<p>At Inquirehire, customer service is priority number one. If you have comments or questions feel free to contact us 
+				any time by email or phone.</p>
+			<p><a href="/about/contact">Email Us</a> or <strong>1-800-494-5922</strong></p> 
+		</div>
+	</div>
 </section>
 <section id="sitemap" class="row">
 	<div class="span3">

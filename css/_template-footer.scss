@@ -11,4 +11,14 @@
 		float:right;
 	}
 	
+	a {
+		color:$logogray;
+		border-bottom:1px dotted $gray-light;
+	}
+	
+	a:hover {
+		color:$blue;
+		border-bottom:1px solid $blue;
+		text-decoration:none;
+	}
 }
