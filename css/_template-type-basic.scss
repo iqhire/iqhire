@@ -38,4 +38,32 @@
 	.box:hover {
 		
 	}
+	
+	
+	.nav {
+		margin:0 0 28px 0;
+		padding:0 0 0 20px;
+		list-style:none;
+		border-left:1px solid $gray-light;
+		
+		li {
+			
+			a {
+				display:block;
+				padding:6px;
+				border-bottom:1px dotted $gray-light;
+			}
+		}
+		
+		li:last-child {
+			a { border-bottom:none; }
+		}
+		
+		li.title { 
+			padding:6px;
+			font-size:16px;
+			font-weight:bold;
+		}
+		
+	}
 }

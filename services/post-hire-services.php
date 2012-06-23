@@ -15,7 +15,7 @@
 		<p>On average 15% of new hires qualify for a federal or state employment tax credit which can be as high as $9,000.00 per employee.  Our partner, Honkamp Krueger and Co. P.C., in an experienced processor of employment tax credits, and helps employers maximize this tax credit opportunity.</p>
 	</div>
 	<div class="span4">
-		<ul class="nav nav-tabs nav-stacked">
+		<ul class="nav">
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-services.php');?>
 		</ul>
 	</div>

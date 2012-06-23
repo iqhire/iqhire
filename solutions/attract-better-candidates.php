@@ -50,7 +50,7 @@
 		</div>
 	</div>
 	<div class="span4">
-		<ul class="nav nav-tabs nav-stacked">
+		<ul class="nav">
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-solutions.php');?>
 		</ul>
 	</div>

@@ -11,7 +11,7 @@
 		<p>Inquirehire partners with eScreen to provide a full range of drug testing solutions and a nationwide network of collection sites. eScreen offers rapid drug testing with their patented eCup, paperless chain of custody for non-DOT testing, and web-based program management.</p>
 	</div>
 	<div class="span4">
-		<ul class="nav nav-tabs nav-stacked">
+		<ul class="nav">
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-services.php');?>
 		</ul>
 	</div>

@@ -32,7 +32,7 @@
 			<p>All of our services are backed by state of the art technology designed to deliver exceptional value and results. Inquirehire offers a fully integrated applicant tracking and background screening solution that helps employers transform and optimize their hiring process.</p>
 		</div>
 		<div class="span4">
-			<ul class="nav nav-tabs nav-stacked">
+			<ul class="nav">
 				<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-about.php');?>
 			</ul>
 		</div>

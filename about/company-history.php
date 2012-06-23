@@ -13,7 +13,7 @@
 		<p>Since its beginning, Sweeney and Associates have helped hundreds of organizations implement solutions that make their organization more effective and efficient while managing the risk of a poor hiring decision.</p>
 	</div>
 	<div class="span4">
-		<ul class="nav nav-tabs nav-stacked">
+		<ul class="nav">
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-about.php');?>
 		</ul>
 	</div>

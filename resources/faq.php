@@ -22,7 +22,7 @@
 		<p>The FCRA has specific requirements for 3rd party providers when information is challenged.  We have a strict protocol for re-investigating and we take the burden off the employer.</p>
 	</div>
 	<div class="span4">
-		<ul class="nav nav-tabs nav-stacked">
+		<ul class="nav">
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-resources.php');?>
 		</ul>
 	</div>

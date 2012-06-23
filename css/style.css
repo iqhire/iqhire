@@ -3891,6 +3891,8 @@ a.thumbnail:hover {
             #template-header #nav ul li ul li a:hover {
               color: #555c5e;
               background-color: #f1f1f1; }
+          #template-header #nav ul li ul li.title {
+            display: none; }
       #template-header #nav ul li#nav-login a {
         color: #fff;
         background-color: #990000;
@@ -3946,6 +3948,21 @@ a.thumbnail:hover {
   min-height: 200px; }
   .basic .box .text {
     margin: 20px; }
+.basic .nav {
+  margin: 0 0 28px 0;
+  padding: 0 0 0 20px;
+  list-style: none;
+  border-left: 1px solid #d6d6d6; }
+  .basic .nav li a {
+    display: block;
+    padding: 6px;
+    border-bottom: 1px dotted #d6d6d6; }
+  .basic .nav li:last-child a {
+    border-bottom: none; }
+  .basic .nav li.title {
+    padding: 6px;
+    font-size: 16px;
+    font-weight: bold; }
 
 #feature {
   margin-bottom: 27px; }
@@ -4091,6 +4108,8 @@ a.thumbnail:hover {
       color: #0088cc; }
     #sitemap ul li:last-child a {
       border-bottom: 0; }
+    #sitemap ul li.title {
+      display: none; }
 
 #about #contact #comments {
   height: 180px; }

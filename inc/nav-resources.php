@@ -1,3 +1,4 @@
+<li class="title">Resources</li>
 <li><a href="/resources/legal-and-compliance">Legal and Compliance</a></li>
 <li><a href="/resources/white-papers">White Papers</a></li>
 <li><a href="/resources/advisories">Advisories</a></li>

@@ -19,7 +19,7 @@
 		<p>We use technology to improve your business results. Our solutions are built to enhance your customer experience with intuitive user interfaces, flexible customization options,&nbsp;time saving integrations, and air tight security.</p>
 	</div>
 	<div class="span4">
-		<ul class="nav nav-tabs nav-stacked">
+		<ul class="nav">
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-about.php');?>
 		</ul>
 	</div>
