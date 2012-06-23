@@ -45,7 +45,18 @@
 	</div>
 	<div class="row">
 		<div class="whatwedo span6">
-			<p>Inquirehire enables businesses to optimize their hiring process in order save time, money, and avoid costly hiring mistakes. Inquirehire solutions include, Applicant Tracking Systems, I9/E-Verify Systems, Aptitude and Behavioral Assessments, Skill Survey Professional Reference Checks, Pre-employment and Background Screening, Drug Testing, Substance Abuse Training, and Employment Tax Credit Processing (WOTC).  Inquirehire has partners and pre-integrated solutions with ERC, Honkamp Krueger, Escreen, Tazworks,  Anchor Planning and more.</p>
+			<p>Inquirehire enables businesses to optimize their hiring process in order save time, money, and avoid 
+				costly hiring mistakes. Inquirehire solutions include, 
+					<a href="services/selectech-applicant-tracking-system.php">Applicant Tracking Systems</a>, 
+					<a href="services/selectech-verification-system.php">I9/E-Verify Systems</a>, 
+					<a href="services/aptitude-assessments.php">Aptitude and Behavioral Assessments</a>, 
+					<a href="services/professional-reference-checks.php">Skill Survey Professional Reference Checks</a>, 
+					<a href="services/background-screening.php">Pre-employment and Background Screening</a>, 
+					<a href="services/drug-testing.php">Drug Testing</a>, 
+					Substance Abuse Training, and 
+					<a href="services/post-hire-services.php">Employment Tax Credit Processing (WOTC)</a>.  
+					Inquirehire has <a href="/partners">partners and pre-integrated solutions</a> with ERC, Honkamp Krueger, Escreen, Tazworks, 
+					Anchor Planning and more.</p>
 		</div>
 		<div class="span6">
 			<blockquote>

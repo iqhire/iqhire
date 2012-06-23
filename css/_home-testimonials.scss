@@ -7,6 +7,17 @@
 			font-size:14px;
 			line-height:22px;
 		}
+		
+		a {
+			color:$logogray;
+			border-bottom:1px dotted $gray-light;
+		}
+		
+		a:hover {
+			text-decoration:none;
+			border-bottom:1px solid $blue;
+			color:$blue;
+		}
 	}
 	
 	blockquote {
