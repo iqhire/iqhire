@@ -5,6 +5,7 @@ $gray-light: rgb(214,214,214); // #d6d6d6
 $gray-lighter: rgb(241,241,241); // #f1f1f1
 $gray-lightest: rgb(246,246,246); // #f6f6f6
 $gray: rgb(153,153,153); // #999999
+$blue:#08C;
 
 $logogray: #555c5e;
 $logored: #990000;
@@ -25,9 +26,43 @@ $logored: #990000;
 	box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
 }
 
+@mixin text-glow() {
+	text-shadow: 1px 1px 1px #ffffff;
+	filter: dropshadow(color=#ffffff, offx=1, offy=1)
+}
+
+
+@mixin headline() {
+	font-family: "camingodos-web",sans-serif;
+	font-style: normal;
+	font-weight: 700;
+}
+
+@mixin body() {
+	font-family: "nimbus-sans",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+
+@mixin italic() {
+	font-family: "nimbus-sans",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+}
+
+@mixin bold() {
+	font-family: "nimbus-sans",sans-serif;
+	font-style: normal;
+	font-weight: 700;
+}
+
+@mixin bolditalic() {
+	font-family: "nimbus-sans",sans-serif;
+	font-style: italic;
+	font-weight: 700;
+}
 
 //imports
-
 
 @import 'bootstrap';
 @import 'bootstrap-responsive';
@@ -46,3 +81,12 @@ $logored: #990000;
 
 .img { background-color:#eee; width:100%; }
 
+
+body {
+	@include body();
+}
+
+h1, h2, h3 {
+	@include headline();
+	color:$logored;
+}

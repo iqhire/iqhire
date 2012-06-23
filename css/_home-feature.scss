@@ -2,9 +2,66 @@
 	
 	margin-bottom:27px;
 	
-	.main {
+	#slides{
+		float:left;
+		margin-right:30px;
+	}
+
+	.slide {
+		@include rounded-corners(10px);
+		position:relative;
+		overflow:hidden;
 		
-		.img { height:300px; }
+		height:300px;
+		background-image:no-repeat;
+		background-position:top right;
+	
+		.text {
+			position:absolute;
+			margin:130px 0 0 30px;
+			width:50%;
+		
+			h1 { 
+				color:$logored;
+				margin-bottom:9px;
+			}
+		
+			h1, p {
+				@include text-glow;
+			}
+		
+		}
+		
+		.number {
+			position:absolute;
+			background-color:$logored;
+			color:white;
+			@include headline;
+			font-size:80px;
+			line-height:1;
+			width:80px;
+			padding:30px;
+			text-align:center;
+			@include rounded-corners(110px);
+			margin:-30px 0 0 -20px;
+			
+		}
+		
+
+	}
+	
+
+
+	#attract-better-candidates {
+		background-image:url('/img/home-1-attract.jpg');
+	}
+	
+	#avoid-hiring-mistakes {
+		background-image:url('/img/home-2-avoid.jpg');
+	}
+	
+	#streamline-the-hiring-process {
+		background-image:url('/img/home-3-streamline.jpg');
 	}
 	
 	.list {
@@ -16,12 +73,47 @@
 			
 			li {
 				
-				.img { height:82px; margin-bottom:27px; }
+				
+				a {
+					position:relative;
+					display:block;
+					@include rounded-corners(6px);
+					height:82px;
+					overflow:hidden;
+					text-align:right;
+					color:#ffffff;
+					font-size:13px;
+					line-height:1;
+					
+					span {
+						position:absolute;
+						right:0;
+						background-color:#222222;
+						background-color:rgba(0,0,0,0.8);
+						display:block;
+						margin-top:50px;
+						padding:6px 10px;
+					}
+				}
+				
+				a:hover {
+					text-decoration:none;
+					
+					span {
+						background-color:$logored;
+					}
+				}
+				
+				margin-bottom:27px;
 			}
 			
 			li:last-child {
-				.img { margin-bottom:0; }
+				margin-bottom:0;
 			}
+			
+			li#attract-better-candidates-thumb a { background-image:url('/img/home-1-attract-thumb.jpg'); }
+			li#avoid-hiring-mistakes-thumb a { background-image:url('/img/home-2-avoid-thumb.jpg'); }
+			li#streamline-the-hiring-process-thumb a { background-image:url('/img/home-3-streamline-thumb.jpg'); }
 		}
 	}
 }

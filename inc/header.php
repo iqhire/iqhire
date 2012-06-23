@@ -19,6 +19,8 @@
 	<link rel="stylesheet" href="/css/style.css">
 
 	<script src="/js/libs/modernizr.h5bp.custom.js"></script>
+	<script type="text/javascript" src="http://use.typekit.com/noc1gww.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body id="<?php echo $seo[$page_id]["section"] ?>" class="<?php echo $page_id . " " . $seo[$page_id]["type"]; ?>">
 <header id="template-header" class="container">

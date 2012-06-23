@@ -385,33 +385,11 @@ abbr {
   cursor: help; }
 
 blockquote {
-  padding: 0 0 0 15px;
-  margin: 0 0 18px;
-  border-left: 5px solid #eeeeee; }
-
-blockquote p {
-  margin-bottom: 0;
-  font-size: 16px;
-  font-weight: 300;
-  line-height: 22.5px; }
-
-blockquote small {
-  display: block;
-  line-height: 18px;
-  color: #999999; }
+  padding: 0;
+  margin: 0 0 18px; }
 
 blockquote small:before {
   content: '\2014 \00A0'; }
-
-blockquote.pull-right {
-  float: right;
-  padding-left: 0;
-  padding-right: 15px;
-  border-left: 0;
-  border-right: 5px solid #eeeeee; }
-
-blockquote.pull-right p, blockquote.pull-right small {
-  text-align: right; }
 
 q:before, q:after, blockquote:before, blockquote:after {
   content: ""; }
@@ -3948,25 +3926,130 @@ a.thumbnail:hover {
 
 #feature {
   margin-bottom: 27px; }
-  #feature .main .img {
-    height: 300px; }
+  #feature #slides {
+    float: left;
+    margin-right: 30px; }
+  #feature .slide {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    height: 300px;
+    background-image: no-repeat;
+    background-position: top right; }
+    #feature .slide .text {
+      position: absolute;
+      margin: 130px 0 0 30px;
+      width: 50%; }
+      #feature .slide .text h1 {
+        color: #990000;
+        margin-bottom: 9px; }
+      #feature .slide .text h1, #feature .slide .text p {
+        text-shadow: 1px 1px 1px #ffffff;
+        filter: dropshadow(color=white, offx=1, offy=1); }
+    #feature .slide .number {
+      position: absolute;
+      background-color: #990000;
+      color: white;
+      font-family: "camingodos-web",sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 80px;
+      line-height: 1;
+      width: 80px;
+      padding: 30px;
+      text-align: center;
+      -webkit-border-radius: 110px;
+      -moz-border-radius: 110px;
+      border-radius: 110px;
+      margin: -30px 0 0 -20px; }
+  #feature #attract-better-candidates {
+    background-image: url("/img/home-1-attract.jpg"); }
+  #feature #avoid-hiring-mistakes {
+    background-image: url("/img/home-2-avoid.jpg"); }
+  #feature #streamline-the-hiring-process {
+    background-image: url("/img/home-3-streamline.jpg"); }
   #feature .list ul {
     margin: 0;
     padding: 0;
     list-style: none; }
-    #feature .list ul li .img {
-      height: 82px;
+    #feature .list ul li {
       margin-bottom: 27px; }
-    #feature .list ul li:last-child .img {
+      #feature .list ul li a {
+        position: relative;
+        display: block;
+        -webkit-border-radius: 6px;
+        -moz-border-radius: 6px;
+        border-radius: 6px;
+        height: 82px;
+        overflow: hidden;
+        text-align: right;
+        color: #ffffff;
+        font-size: 13px;
+        line-height: 1; }
+        #feature .list ul li a span {
+          position: absolute;
+          right: 0;
+          background-color: #222222;
+          background-color: rgba(0, 0, 0, 0.8);
+          display: block;
+          margin-top: 50px;
+          padding: 6px 10px; }
+      #feature .list ul li a:hover {
+        text-decoration: none; }
+        #feature .list ul li a:hover span {
+          background-color: #990000; }
+    #feature .list ul li:last-child {
       margin-bottom: 0; }
+    #feature .list ul li#attract-better-candidates-thumb a {
+      background-image: url("/img/home-1-attract-thumb.jpg"); }
+    #feature .list ul li#avoid-hiring-mistakes-thumb a {
+      background-image: url("/img/home-2-avoid-thumb.jpg"); }
+    #feature .list ul li#streamline-the-hiring-process-thumb a {
+      background-image: url("/img/home-3-streamline-thumb.jpg"); }
 
 #testimonials {
   margin-bottom: 27px; }
+  #testimonials .whatwedo p {
+    font-size: 14px;
+    line-height: 22px; }
+  #testimonials blockquote {
+    border-left: 5px solid #d6d6d6;
+    padding-left: 20px;
+    font-family: "camingodos-web",sans-serif;
+    font-style: normal;
+    font-weight: 700; }
+    #testimonials blockquote .quote {
+      font-size: 16px;
+      line-height: 24px;
+      color: #666; }
+    #testimonials blockquote .attribution {
+      font-size: 12px;
+      line-height: 1;
+      color: #999; }
 
 #banners {
   margin-bottom: 27px; }
   #banners .img {
     height: 200px; }
+
+#sitemap h3 {
+  border-bottom: 1px solid #d6d6d6;
+  padding: 6px 4px; }
+#sitemap ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+  #sitemap ul li a {
+    display: block;
+    padding: 6px 4px;
+    border-bottom: 1px dotted #d6d6d6; }
+  #sitemap ul li a:hover {
+    text-decoration: none;
+    background-color: #f6f6f6; }
+  #sitemap ul li:last-child a {
+    border-bottom: 0; }
 
 #about #contact #comments {
   height: 180px; }
@@ -3986,3 +4069,14 @@ a.thumbnail:hover {
 .img {
   background-color: #eee;
   width: 100%; }
+
+body {
+  font-family: "nimbus-sans",sans-serif;
+  font-style: normal;
+  font-weight: 400; }
+
+h1, h2, h3 {
+  font-family: "camingodos-web",sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  color: #990000; }
