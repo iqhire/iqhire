@@ -2,32 +2,34 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 
 <section id="feature" class="row">
-		<div id="attract-better-candidates" class="slide span9">
-			<div class="text">
-			<h1>Attract Better Candidates</h1>
-			<p>Inquirehire helps employers find and attract better job candidates for their job openings with the Selectech® Applicant Tracking System.</p>
-			<p><a href="/solutions/attract-better-candidates">How to Attract Better Candidates</a></p>
+	<div class="span9">
+		<div id="slides" class="row">
+			<div id="attract-better-candidates" class="slide span9">
+				<div class="text">
+				<h1>Attract Better Candidates</h1>
+				<p>Inquirehire helps employers find and attract better job candidates for their job openings with the Selectech® Applicant Tracking System.</p>
+				<p><a href="/solutions/attract-better-candidates">How to Attract Better Candidates</a></p>
+				</div>
+				<div class="number">1</div>
 			</div>
-			<div class="number">1</div>
-		</div>
-<!--
-		<div id="avoid-hiring-mistakes" class="slide span9">
-			<div class="text">
-			<h1>Avoid Hiring Mistakes</h1>
-			<p>Inquirehire helps employers avoid costly hiring mistakes with a comprehensive suite of employment screening and selection services.</p>
-			<p><a href="/solutions/avoid-hiring-mistakes">How to Avoid Hiring Mistakes</a></p>
+			<div id="avoid-hiring-mistakes" class="slide span9">
+				<div class="text">
+				<h1>Avoid Hiring Mistakes</h1>
+				<p>Inquirehire helps employers avoid costly hiring mistakes with a comprehensive suite of employment screening and selection services.</p>
+				<p><a href="/solutions/avoid-hiring-mistakes">How to Avoid Hiring Mistakes</a></p>
+				</div>
+				<div class="number">2</div>
 			</div>
-			<div class="number">2</div>
-		</div>
-		<div id="streamline-the-hiring-process" class="slide span9">
-			<div class="text">
-			<h1>Streamline the Hiring Process</h1>
-			<p>Integrated solutions save time and reduce errors, and this results in a lower cost of hire and shorter time to hire.</p>
-			<p><a href="/solutions/streamline-the-hiring-process">How to Simplify and Streamline the Hiring Process</a></p>
+			<div id="streamline-the-hiring-process" class="slide span9">
+				<div class="text">
+				<h1>Streamline the Hiring Process</h1>
+				<p>Integrated solutions save time and reduce errors, and this results in a lower cost of hire and shorter time to hire.</p>
+				<p><a href="/solutions/streamline-the-hiring-process">How to Simplify and Streamline the Hiring Process</a></p>
+				</div>
+				<div class="number">3</div>
 			</div>
-			<div class="number">3</div>
 		</div>
--->
+	</div>
 	<div class="list span3">
 		<ul>
 			<li id="attract-better-candidates-thumb"><a href="/solutions/attract-better-candidates"><span>Attract Better Candidates</span></a></li>
