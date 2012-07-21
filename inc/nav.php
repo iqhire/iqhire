@@ -27,8 +27,8 @@
 		</li>
 		<li id="nav-login"><a href="/login">Login</a>
 			<ul>
-				<li><a href="#">Login A</a></li>
-				<li><a href="#">Login B</a></li>
+				<li><a href="#">Background Screening</a></li>
+				<li><a href="#">ATS/Assessments</a></li>
 			</ul>
 		</li>
 	</ul>

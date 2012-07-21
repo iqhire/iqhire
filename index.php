@@ -129,8 +129,13 @@
 		</ul>
 	</div>
 </section>
-
-
-
-
+<section id="affiliations" class="row">
+	<div class="graybox span12">
+		<h3>Our Affiliations</h3>
+		<ul class="clearfix">
+			<li><a href="http://www.napbs.com/"><img src="/img/nabps-248x100.png" alt="National Association of Professional Background Screeners"/></a></li>
+			<li class="last"><a href="http://www.concernedcras.com/"><img src="/img/ccra-291x101.png" alt="Concerned CRA's" /></a></li>
+		</ul>
+	</div>
+</section>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/footer.php');?>

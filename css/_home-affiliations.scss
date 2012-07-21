@@ -1,0 +1,38 @@
+#affiliations {
+	
+	.graybox {
+		border-bottom: 1px solid #D6D6D6;
+		background-color: #F6F6F6;
+		@include rounded-corners(10px);
+		overflow: hidden;
+		margin-bottom:32px;
+		
+		
+		h3 {
+			text-align:center;
+			margin:10px;
+			text-transform:uppercase;
+			color:#777777;
+			font-size:14px;
+			line-height:1;
+		}
+		
+		ul {
+			width:559px;
+			margin:auto;
+			margin-bottom:10px;
+			padding:0;
+			list-style:none;
+			
+			li {
+				margin:0 20px 0 0;
+				padding:0;
+				float:left;
+			}
+			
+			li.last {
+				margin-right:0;
+			}
+		}
+	}	
+}

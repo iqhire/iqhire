@@ -4088,6 +4088,34 @@ a.thumbnail:hover {
     #banners .banner .text {
       padding: 10px 20px; }
 
+#affiliations .graybox {
+  border-bottom: 1px solid #D6D6D6;
+  background-color: #F6F6F6;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 32px; }
+  #affiliations .graybox h3 {
+    text-align: center;
+    margin: 10px;
+    text-transform: uppercase;
+    color: #777777;
+    font-size: 14px;
+    line-height: 1; }
+  #affiliations .graybox ul {
+    width: 559px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 0;
+    list-style: none; }
+    #affiliations .graybox ul li {
+      margin: 0 20px 0 0;
+      padding: 0;
+      float: left; }
+    #affiliations .graybox ul li.last {
+      margin-right: 0; }
+
 #sitemap {
   margin-bottom: 27px; }
   #sitemap h3 {
