@@ -5,3 +5,5 @@
 <li><a href="/resources/fcra-forms">FCRA Forms</a></li>
 <li><a href="/resources/glossary">Glossary</a></li>
 <li><a href="/resources/faq">FAQ</a></li>
+<li><a href="/resources/events">Events Calendar</a></li>
+<li><a href="/resources/webinars">Webinars</a></li>

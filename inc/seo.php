@@ -113,6 +113,20 @@ $seo = array(
 		"keywords" => "",
 		"description" => ""
 	),
+	"webinars" => array(
+		"section" => "resources",
+		"type" => "basic",
+		"title" => "",
+		"keywords" => "",
+		"description" => ""
+	),
+	"events" => array(
+		"section" => "resources",
+		"type" => "basic",
+		"title" => "",
+		"keywords" => "",
+		"description" => ""
+	),
 	
 	
 	//services pages
