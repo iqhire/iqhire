@@ -8,6 +8,7 @@
 	$email = "";
 	$phone = "";
 	$comments = "";
+	$robot = "";
 
 	if (isset($_POST['submit'])) { $submit 		= $_POST['submit']; }	
 	if (isset($_POST['name'])) 	 { $name 		= $_POST['name']; }
@@ -15,35 +16,43 @@
 	if (isset($_POST['email']))  { $email 		= $_POST['email']; }
 	if (isset($_POST['phone'])) { $phone 		= $_POST['phone']; }
 	if (isset($_POST['comments'])) { $comments 	= $_POST['comments']; }
+	if (isset($_POST['robot'])) { $robot	 	= $_POST['robot']; }
 
 	if(isset($_POST['submit']))
 	{	
 				
-		if(!$name || !$company || !$email)
+		if(!$name || !$company || !$email || !$robot)
 		{
 
 			if(!$name) $name_null = true;	
 			if(!$company) $company_null = true;	
 			if(!$email) $email_null = true;
-			if(!$phone) $phone_null = true;
+			if(!$robot) $robot_null = true;
 
 			$display_message = true;
 
 		} else {
 			
-			$email_message = "The following person filled out the contact form on the Inquirehire website:\n\n";
-			$email_message .= "Name = $name\n";	
-			$email_message .= "Company = $company\n";
-			$email_message .= "Phone = $phone\n";				
-			$email_message .= "Email Address = $email\n\n";		
-			$email_message .= "Comments:\n\n$comments\n\n";
+			if($robot == "No" || $robot == "no") {
+				$email_message = "The following person filled out the contact form on the Inquirehire website:\n\n";
+				$email_message .= "Name = $name\n";	
+				$email_message .= "Company = $company\n";
+				$email_message .= "Phone = $phone\n";				
+				$email_message .= "Email Address = $email\n\n";		
+				$email_message .= "Comments:\n\n$comments\n\n";
 
-			$email_headers = "From: no-reply@inquirehire.com";
+				$email_headers = "From: no-reply@inquirehire.com";
 
-			//send email to recipients for processing
-			mail("dan@recreant.com", "Contact From Inquirehire Website", $email_message, $email_headers);
+				//send email to recipients for processing
+				mail("dan@recreant.com", "Contact From Inquirehire Website", $email_message, $email_headers);
 
-			$mail_success = true;
+				$mail_success = true;
+			} else {
+				
+				$robot_null = true;
+				$display_message = true;
+			}
+			
 			
 		}//end else		
 
@@ -96,9 +105,19 @@
 			  			<input type="text" class="span4" name="phone" id="phone" value="<?php echo $phone ?>" />
 					</div>
 				</div>
-				<label>Comment</label>
-				<textarea name="comments" id="comments" class="span8"><?php echo $comments ?></textarea>
-			
+				<div class="row">
+						<div class="span-8">
+							<label>Comment</label>
+							<textarea name="comments" id="comments" class="span8"><?php echo $comments ?></textarea>
+						</div>
+				</div>
+				<div class="row">
+					<div class="span-8 control-group<?php if($robot_null) echo " error"; ?>">
+						<label for="phone">Are you a robot? (Type "No", to help us cut down on spam)</label>
+		  				<input type="text" class="span8" name="robot" id="robot" value="<?php echo $robot ?>" />
+					</div>
+				</div>
+				
 			  	<button t type="submit" name="submit" class="btn btn-primary">Contact Us</button>
 			</form>
 			

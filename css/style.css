@@ -3980,14 +3980,19 @@ a.thumbnail:hover {
     background-position: top right; }
     #feature .slide .text {
       position: absolute;
-      margin: 130px 0 0 30px;
+      margin: 90px 0 0 30px;
       width: 50%; }
       #feature .slide .text h1 {
         color: #990000;
-        margin-bottom: 9px; }
+        margin-bottom: 9px;
+        line-height: 1; }
       #feature .slide .text h1, #feature .slide .text p {
         text-shadow: 1px 1px 1px #ffffff;
         filter: dropshadow(color=white, offx=1, offy=1); }
+      #feature .slide .text .look {
+        font-size: 18px;
+        color: #999999;
+        margin-bottom: 20px; }
     #feature .slide .number {
       position: absolute;
       background-color: #990000;

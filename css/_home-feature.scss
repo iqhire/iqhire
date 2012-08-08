@@ -18,16 +18,23 @@
 	
 		.text {
 			position:absolute;
-			margin:130px 0 0 30px;
+			margin:90px 0 0 30px;
 			width:50%;
 		
 			h1 { 
 				color:$logored;
 				margin-bottom:9px;
+				line-height:1;
 			}
 		
 			h1, p {
 				@include text-glow;
+			}
+			
+			.look {
+				font-size:18px;
+				color:#999999;
+				margin-bottom:20px;
 			}
 		
 		}
