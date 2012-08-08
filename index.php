@@ -61,9 +61,10 @@
 					Anchor Planning and more.</p>
 		</div>
 		<div class="span6">
+			<img src="/img/headshot-marcie.jpg" alt="Marcie Van Note" class="headshot" />
 			<blockquote>
-				<p class="quote">“Our customers deserve the best, so it is important to make great hires with employees that can be trusted to do the job well.  These products allow me to do what once was nearly impossible -- and that is to obtain useful reference and background inquiries quickly!  I won’t be going back to the old way!”</p>
-				<p class="attribution">Donna J. Caldwell, SVP - Human Resources, Freestar Bank</p>
+				<p class="quote">“I completed the Affirmative Action report for the last six months and using the system made it so easy.  I had a few positions that were hired prior to us using the system and they took longer to do than all of the other positions put together so; awesome, awesome, awesome!”</p>
+				<p class="attribution">Marcie Van Note, VP - Human Resources, Girl Scouts</p>
 			</blockquote>
 		</div>
 	</div>

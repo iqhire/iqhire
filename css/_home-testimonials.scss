@@ -37,4 +37,10 @@
 			color:#999;
 		}
 	}
+	
+	.headshot {
+		@include rounded-corners(6px);
+		margin:0 0 10px 10px;
+		float:right;
+	}
 }
