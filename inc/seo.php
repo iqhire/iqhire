@@ -165,6 +165,13 @@ $seo = array(
 		"keywords" => "",
 		"description" => ""
 	),
+	"social-media-screening" => array(
+		"section" => "services",
+		"type" => "basic",
+		"title" => "Social Media Screening",
+		"keywords" => "",
+		"description" => ""
+	),
 	
 	//solutions pages
 	"attract-better-candidates" => array(
