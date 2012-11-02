@@ -2529,12 +2529,12 @@ button.btn.small, input[type="submit"].btn.small {
   padding: 7px 14px;
   margin: 0 0 18px;
   background-color: #fbfbfb;
-  background-image: -moz-linear-gradient(top, white, #f5f5f5);
-  background-image: -ms-linear-gradient(top, white, #f5f5f5);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(white), to(#f5f5f5));
-  background-image: -webkit-linear-gradient(top, white, #f5f5f5);
-  background-image: -o-linear-gradient(top, white, #f5f5f5);
-  background-image: linear-gradient(top, white, #f5f5f5);
+  background-image: -moz-linear-gradient(top, white, whitesmoke);
+  background-image: -ms-linear-gradient(top, white, whitesmoke);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(white), to(whitesmoke));
+  background-image: -webkit-linear-gradient(top, white, whitesmoke);
+  background-image: -o-linear-gradient(top, white, whitesmoke);
+  background-image: linear-gradient(top, white, whitesmoke);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f5f5f5', GradientType=0);
   border: 1px solid #ddd;
@@ -3023,12 +3023,12 @@ a.thumbnail:hover {
   height: 18px;
   margin-bottom: 18px;
   background-color: #f7f7f7;
-  background-image: -moz-linear-gradient(top, #f5f5f5, #f9f9f9);
-  background-image: -ms-linear-gradient(top, #f5f5f5, #f9f9f9);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f5f5f5), to(#f9f9f9));
-  background-image: -webkit-linear-gradient(top, #f5f5f5, #f9f9f9);
-  background-image: -o-linear-gradient(top, #f5f5f5, #f9f9f9);
-  background-image: linear-gradient(top, #f5f5f5, #f9f9f9);
+  background-image: -moz-linear-gradient(top, whitesmoke, #f9f9f9);
+  background-image: -ms-linear-gradient(top, whitesmoke, #f9f9f9);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(whitesmoke), to(#f9f9f9));
+  background-image: -webkit-linear-gradient(top, whitesmoke, #f9f9f9);
+  background-image: -o-linear-gradient(top, whitesmoke, #f9f9f9);
+  background-image: linear-gradient(top, whitesmoke, #f9f9f9);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f5f5f5', endColorstr='#f9f9f9', GradientType=0);
   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
@@ -3304,7 +3304,7 @@ a.thumbnail:hover {
   display: none;
   visibility: hidden; }
 
-@media (max-width:480px) {
+@media (max-width: 480px) {
   .nav-collapse {
     -webkit-transform: translate3d(0, 0, 0); }
 
@@ -3360,7 +3360,7 @@ a.thumbnail:hover {
 
   .carousel-caption {
     position: static; } }
-@media (max-width:767px) {
+@media (max-width: 767px) {
   .container {
     width: auto;
     padding: 0 20px; }
@@ -3376,7 +3376,7 @@ a.thumbnail:hover {
     display: block;
     width: auto;
     margin: 0; } }
-@media (min-width:768px) and (max-width:979px) {
+@media (min-width: 768px) and (max-width: 979px) {
   .row {
     margin-left: -20px;
     *zoom: 1; }
@@ -3550,7 +3550,7 @@ a.thumbnail:hover {
 
   input.span12, textarea.span12, .uneditable-input.span12 {
     width: 714px; } }
-@media (max-width:979px) {
+@media (max-width: 979px) {
   body {
     padding-top: 0; }
 
@@ -3652,10 +3652,10 @@ a.thumbnail:hover {
   .nav-collapse {
     overflow: hidden;
     height: 0; } }
-@media (min-width:980px) {
+@media (min-width: 980px) {
   .nav-collapse.collapse {
     height: auto !important; } }
-@media (min-width:1200px) {
+@media (min-width: 1200px) {
   .row {
     margin-left: -30px;
     *zoom: 1; }
@@ -3910,7 +3910,8 @@ a.thumbnail:hover {
 
 #footer {
   border-top: 1px solid #d6d6d6;
-  padding-top: 18px; }
+  padding-top: 18px;
+  margin-bottom: 40px; }
   #footer .footernav {
     float: left; }
   #footer .copyright {
@@ -3927,12 +3928,20 @@ a.thumbnail:hover {
   color: #222222;
   line-height: 1em;
   margin-bottom: 8px; }
+.basic h2, .basic h3 {
+  margin-top: 40px; }
+.basic h2:first-child, .basic h3:first-child {
+  margin-top: 0; }
+.basic p {
+  margin-bottom: 2em; }
 .basic .pagehead {
   margin-bottom: 2em; }
 .basic .hr {
   border-bottom: 1px solid #d6d6d6;
   padding-bottom: 1em;
   margin-bottom: 1em; }
+.basic .content {
+  margin-bottom: 40px; }
 .basic .intro {
   font-size: 16px;
   line-height: 24px;
@@ -3963,6 +3972,17 @@ a.thumbnail:hover {
     padding: 6px;
     font-size: 16px;
     font-weight: bold; }
+.basic .fig {
+  border: 1px solid #d6d6d6;
+  border-radius: 6px;
+  padding: 10px;
+  width: 35%; }
+.basic .fig.right {
+  float: right;
+  margin: 0 0 30px 30px; }
+.basic .fig.left {
+  float: left;
+  margin: 0 30px 30px 0; }
 
 #feature {
   margin-bottom: 27px; }

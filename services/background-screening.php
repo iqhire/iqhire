@@ -7,8 +7,12 @@
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="content span8 cushycms" title="Content">
 		<h2>Identity Verification</h2>
+		
+			<div class="fig right">
+				<img src="../img/services/373515967379-ssn.png" alt="">
+			</div>
 
 			<h4>Social Security Number Verification</h4>
 			<p>The search may reveal a simple clerical error, or a more serious problem such as identity theft. If the search does not reveal a valid social security number, the remaining search elements will be held until the social security number can be verified.</p>
@@ -57,6 +61,10 @@
 
 		<h2>Education and Professional Certification Verification</h2>
 
+			<div class="fig right">
+				<img src="../img/services/15935079-diploma.jpg" alt="15935079">
+			</div>
+			
 			<h4>Education Verification</h4>
 			<p>Educational institutions, provided by the applicant, are contacted to determine degree completion, dates of attendance, class ranking and GPA. Transcripts will be obtained upon request.</p>
 
