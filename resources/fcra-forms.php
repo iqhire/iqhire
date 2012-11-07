@@ -34,7 +34,7 @@
 				<li>A statement that Inquirehire supplied the report but did not make the decision to take adverse action and cannot give specific reasons for it.</li>
 				<li>A notice of the individual's right to dispute the accuracy or completeness of any information Inquirehire furnished, and his or her right to an additional free consumer report from Inquirehire upon request within 60 days.</li>
 			</ul>
-			<p><a class="btn" href="/files/fcra/adverse-action-letter-sample.php"><i class="icon-download"></i> Adverse Action Sample Letter</a></p>
+			<p><a class="btn" href="/files/fcra/adverse-action-letter-2012.docx"><i class="icon-download"></i> Adverse Action Sample Letter</a></p>
 		</div>
 		
 		<div class="hr">
