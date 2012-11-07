@@ -39,8 +39,8 @@
 		
 		<div class="hr">
 			<p><strong>Certifications to Consumer Reporting Agencies</strong></p>
-			<p>Before giving you an individual's <a href="/resources/glossary#consumer_report">consumer report</a>, Inquirehire will require you to certify that you are in compliance with the FCRA and that you will not misuse any information in the report in violation of federal or state equal employment opportunity laws or regulations. A <a href="/files/fcra/certification.pdf">certification form</a> needs to be completed and on file with Inquirehire.</p>
-			<p><a class="btn" href="/files/fcra/certification.pdf"><i class="icon-download"></i> Download Certifications</a></p>
+			<p>Before giving you an individual's <a href="/resources/glossary#consumer_report">consumer report</a>, Inquirehire will require you to certify that you are in compliance with the FCRA and that you will not misuse any information in the report in violation of federal or state equal employment opportunity laws or regulations. A <a href="/files/fcra/certificate-of-permissable-purpose-2012.docx">Certification of Permissible Purpose form</a> needs to be completed and on file with Inquirehire.</p>
+			<p><a class="btn" href="/files/fcra/certificate-of-permissable-purpose-2012.docx"><i class="icon-download"></i> Download Certification of Permissible Purpose</a></p>
 		</div>
 	</div>
 	<div class="span4">
