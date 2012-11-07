@@ -39,7 +39,7 @@
 		
 		<div class="hr">
 			<p><strong>Certifications to Consumer Reporting Agencies</strong></p>
-			<p>Before giving you an individual's <a href="/about/glossary#consumer_report">consumer report</a>, Inquirehire will require you to certify that you are in compliance with the FCRA and that you will not misuse any information in the report in violation of federal or state equal employment opportunity laws or regulations. A <a href="/files/fcra/certification.pdf">certification form</a> needs to be completed and on file with Inquirehire.</p>
+			<p>Before giving you an individual's <a href="/resources/glossary#consumer_report">consumer report</a>, Inquirehire will require you to certify that you are in compliance with the FCRA and that you will not misuse any information in the report in violation of federal or state equal employment opportunity laws or regulations. A <a href="/files/fcra/certification.pdf">certification form</a> needs to be completed and on file with Inquirehire.</p>
 			<p><a class="btn" href="/files/fcra/certification.pdf"><i class="icon-download"></i> Download Certifications</a></p>
 		</div>
 	</div>
