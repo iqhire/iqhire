@@ -23,8 +23,8 @@
 			<p>If you take any <a href="/resources/glossary#adverse_action">adverse action</a> based in whole or in part on information supplied by Inquirehire, you must do the following:</p>
 			
 			<h4>Step 1</h4>
-			<p>Before you take the adverse action, you must give the individual a <a href="/files/fcra/pre-adverse-action-notice.pdf">pre-adverse action notice</a> that includes a copy of the individual's consumer report and a copy of <a href="/files/fcra/summary-of-rights.pdf">A Summary of Your Rights Under the Fair Credit Reporting Act</a> a document prescribed by the Federal Trade Commission. Inquirehire will provide you with the summary of consumer rights.</p>
-			<p><a class="btn" href="/files/fcra/pre-adverse-action-notice.pdf"><i class="icon-download"></i> Download Pre-Adverse Action Notice</a>
+			<p>Before you take the adverse action, you must give the individual a <a href="/files/fcra/sample-pre-adverse-action-notice-2012.doc">pre-adverse action notice</a> that includes a copy of the individual's consumer report and a copy of <a href="/files/fcra/summary-of-rights.pdf">A Summary of Your Rights Under the Fair Credit Reporting Act</a> a document prescribed by the Federal Trade Commission. Inquirehire will provide you with the summary of consumer rights.</p>
+			<p><a class="btn" href="/files/fcra/sample-pre-adverse-action-notice-2012.doc"><i class="icon-download"></i> Download Pre-Adverse Action Notice</a>
 				<a class="btn" href="/files/fcra/summary-of-rights.pdf"><i class="icon-download"></i> Download Summary of Rights</a></p>
 
 			<h4>Step 2</h4>
