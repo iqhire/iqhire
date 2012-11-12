@@ -60,18 +60,6 @@
 		<div class="partner hr">
 			<div class="row">
 				<div class="span2 logo">
-					<img src="/img/logo-anchor.png" alt="Anchor Planning Group" class="cushycms">
-				</div>
-				<div class="span6 description cushycms">
-					<h3><a href="http://www.anchorplanninggroup.com" name="anchor-planning-group">Anchor Planning Group</a></h3>
-					<p>Anchor was created on a vision to build a new firm that focuses on innovation in the executive search, benefits, insurance, training and HR consulting marketplace. As a company and as individuals, we value integrity, honesty, openness, personal excellence, continual self-improvement and mutual respect. All aspects of our business are based on the highest standards of both client and individual care.</p>
-					<p><a href="http://www.anchorplanninggroup.com">www.anchorplanninggroup.com</a></p>
-				</div>
-			</div>
-		</div>
-		<div class="partner hr">
-			<div class="row">
-				<div class="span2 logo">
 					<img src="/img/logo-jobtarget.png" alt="JobTarget" class="cushycms">
 				</div>
 				<div class="span6 description cushycms">
