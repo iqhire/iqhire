@@ -208,6 +208,29 @@ $seo = array(
 		"title" => "",
 		"keywords" => "",
 		"description" => ""
+	),
+	
+	//Dispute pages
+	"dispute-consumer-report" => array(
+		"section" => "dispute",
+		"type" => "basic",
+		"title" => "",
+		"keywords" => "",
+		"description" => ""
+	),
+	"applicant-dispute" => array(
+		"section" => "dispute",
+		"type" => "basic",
+		"title" => "",
+		"keywords" => "",
+		"description" => ""
+	),
+	"applicant-form" => array(
+		"section" => "dispute",
+		"type" => "basic",
+		"title" => "",
+		"keywords" => "",
+		"description" => ""
 	)
 	
 	
