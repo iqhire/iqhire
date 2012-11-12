@@ -15,7 +15,9 @@
 			facilitate audits. The Selectech® system meets all federal and state government requirements including the 
 			new requirements for federal contractors. With the system employers can avoid costly errors and minimize the 
 			risk of fines and penalties. Features include:</p>
-
+			<div class="fig right">
+				<img src="/img/services/svs.jpg" alt="">
+			</div>
 		<ul>
 			<li>Web-based application</li>
 			<li>Electronic Process, Signatures, Search, and Storage</li>
