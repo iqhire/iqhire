@@ -79,7 +79,7 @@
 	</div>
 	<div class="span4">
 		<div class="fig">
-			<img src="../img/solutions/avoid.jpg" alt="Avoid">
+			<img src="/img/solutions/avoid.jpg" alt="Avoid">
 		</div>
 		<ul class="nav">
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-solutions.php');?>

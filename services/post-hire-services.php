@@ -11,7 +11,7 @@
 
 		<h2>Workers Compensation Claim Check</h2>
 		<div class="fig right">
-			<img src="../img/services/14143250-handshake.jpeg" alt="14143250 Handshake">
+			<img src="/img/services/handshake.jpg" alt="Handshake">
 		</div>
 		<p>This is a state level check of worker’s compensation claim history for new hire. The search may reveal potential workers compensation fraud of misstates of physical capability during the interview process.</p>
 

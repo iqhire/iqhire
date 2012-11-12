@@ -11,7 +11,7 @@
 
 		<p class="intro">Research has found that assessment testing is 4 times more predictive of job performance than interviews, 3 times more predictive than job experience, and 2 times more predictive than education. Given the cost of a hiring mistake, pre-hire assessments can save both time and money.</p>
 		<div class="fig right">
-			<img src="../img/services/4904643-aptitude.jpg" alt="4904643 Aptitude">
+			<img src="/img/services/aptitude.jpg" alt="Aptitude Assessments">
 		</div>
 		<p>Inquirehire assessments are designed to accurately predict employee performance by measuring behavior, aptitude, and attitude. Key features include:</p>
 

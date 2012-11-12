@@ -11,7 +11,7 @@
 		
 		<p class="intro">Inquirehire partners with Skill Survey to provide the most effective way to collect important information about a candidate’s work history. The Skill Survey Professional Reference Check is a web-based professional reference gathering tool designed to help employers obtain comprehensive and objective professional reference information about an applicant without the time and expense of phone calls. Employers can expect to receive up to 8 comprehensive work history evaluations on their candidates in 1 or 2 business days with no time-consuming or fruitless phone calls.</p>
 		<div class="fig right">
-			<img src="../img/services/8402250-reference.jpeg" alt="8402250 Reference">
+			<img src="/img/services/reference.jpg" alt="Reference">
 		</div>
 		<h3>Key features include:</h3>
 

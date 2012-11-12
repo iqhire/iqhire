@@ -11,7 +11,7 @@
 		<h2>Identity Verification</h2>
 		
 			<div class="fig right">
-				<img src="../img/services/373515967379-ssn.png" alt="">
+				<img src="/img/services/ssn.jpg" alt="">
 			</div>
 
 			<h4>Social Security Number Verification</h4>
@@ -62,7 +62,7 @@
 		<h2>Education and Professional Certification Verification</h2>
 
 			<div class="fig right">
-				<img src="../img/services/15935079-diploma.jpg" alt="15935079">
+				<img src="/img/services/diploma.jpg" alt="">
 			</div>
 			
 			<h4>Education Verification</h4>

@@ -11,7 +11,7 @@
 		
 		<p class="intro">Selectech® ATS is a web-based solution that is powerful, modular, and user-friendly. With the Selectech® ATS, employers can fully automate their hiring process, resulting in lower cost of hiring, shorter time to hire, and improved quality of hire. Standard features include:</p>
 		<div class="fig right">
-			<img src="../img/services/ats.png" alt="Ats">
+			<img src="/img/services/ats.png" alt="Ats">
 		</div>
 		<ul>
 			<li>Branded Job Seeker Landing Page</li>

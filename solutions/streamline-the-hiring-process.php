@@ -37,7 +37,7 @@
 	</div>
 	<div class="span4">
 		<div class="fig">
-			<img src="../img/solutions/streamline.jpg" alt="Streamline">
+			<img src="/img/solutions/streamline.jpg" alt="Streamline">
 		</div>
 		
 		<ul class="nav">

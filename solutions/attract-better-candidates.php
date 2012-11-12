@@ -56,7 +56,7 @@
 	</div>
 	<div class="span4">
 		<div class="fig">
-			<img src="../img/solutions/attract.jpg" alt="Attract">
+			<img src="/img/solutions/attract.jpg" alt="Attract">
 		</div>
 		<ul class="nav">
 			<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav-solutions.php');?>
