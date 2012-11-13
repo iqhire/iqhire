@@ -13,24 +13,31 @@
 		<div class="row clearfix">
 			<div class="box span4">
 				<div class="text">
-					A pre-built integration to the Selectech® Verification System which manages electronic I9s and is integrated with the federal E-Verify system.
+					<h2>Electronic I9s</h2>
+					<p>A pre-built integration to the Selectech® Verification System which manages electronic I9s and is integrated with the federal E-Verify system.</p>
+					<p><a href="/services/selectech-verification-system">Learn More</a></p>
 				</div>
 			</div>
 			<div class="box span4">
 				<div class="text">
-					A pre-built integration to Inquirehire assessments services
+					<h2>Assessment Integration</h2>
+					<p>A pre-built integration to Inquirehire assessments services</p>
+					<p><a href="/services/selectech-verification-system">Learn More</a></p>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="box span4">
 				<div class="text">
-					A pre-built integration to Inquirehire background screening services
+					<h2>Background Screening</h2>
+					<p>A pre-built integration to Inquirehire background screening services</p>
+					<p><a href="/services/background-screening">Learn More</a></p>
 				</div>
 			</div>
 			<div class="box span4">
 				<div class="text">
-					The Selectech® system can be integrated with an employer’s payroll or HRIS system
+					<h2>Payroll Integration</h2>
+					<p>The Selectech® system can be integrated with an employer’s payroll or HRIS system</p>
 				</div>
 			</div>
 		</div>
