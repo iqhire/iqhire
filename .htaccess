@@ -353,6 +353,10 @@ FileETag None
   RewriteCond %{HTTPS} !=on
   RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
   RewriteRule ^ http://%1%{REQUEST_URI} [R=301,L]
+
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}\.php -f
+  RewriteRule ^(.*)$ $1.php
 </IfModule>
 
 # ----------------------------------------------------------------------
@@ -536,9 +540,3 @@ AddCharset utf-8 .css .js .xml .json .rss .atom
 </IfModule>
 
 
-
-#remove .php extensions
-
-RewriteEngine On
-RewriteCond %{SCRIPT_FILENAME} !-d
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
