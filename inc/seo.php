@@ -4,7 +4,7 @@ $seo = array(
 	"home" => array(
 		"section" => "home",
 		"type" => "home",
-		"title" => "Inquirehire",
+		"title" => "Inquirehire - Applicant Tracking, I9/E-Verify, Skill Survey, Reference Checks, Background and Pre-Employment Screeneing",
 		"keywords" => "Applicant Tracking",
 		"description" => "Other Stuff"
 	),
@@ -13,42 +13,35 @@ $seo = array(
 	"about" => array(
 		"section" => "about",
 		"type" => "basic",
-		"title" => "",
+		"title" => "About Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"careers" => array(
 		"section" => "about",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Jobs at Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"company-history" => array(
 		"section" => "about",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Inquirehire History",
 		"keywords" => "",
 		"description" => ""
 	),
 	"contact" => array(
 		"section" => "about",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Contact Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"values" => array(
 		"section" => "about",
 		"type" => "basic",
-		"title" => "",
-		"keywords" => "",
-		"description" => ""
-	),
-	"who-we-are" => array(
-		"section" => "about",
-		"type" => "basic",
-		"title" => "",
+		"title" => "Inquirehire Values",
 		"keywords" => "",
 		"description" => ""
 	),
@@ -57,7 +50,7 @@ $seo = array(
 	"partners" => array(
 		"section" => "partners",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Inquirehire Partners",
 		"keywords" => "",
 		"description" => ""
 	),
@@ -67,70 +60,56 @@ $seo = array(
 	"advisories" => array(
 		"section" => "resources",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Inquirehire Advisories",
 		"keywords" => "",
 		"description" => ""
 	),
 	"faq" => array(
 		"section" => "resources",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Inquirehire Frequently Asked Questions",
 		"keywords" => "",
 		"description" => ""
 	),
 	"fcra-forms" => array(
 		"section" => "resources",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Fair Credit Reporting Act (FCRA) Forms - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"glossary" => array(
 		"section" => "resources",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Inquirehire Glossary",
 		"keywords" => "",
 		"description" => ""
 	),
 	"legal-and-compliance" => array(
 		"section" => "resources",
 		"type" => "basic",
-		"title" => "",
-		"keywords" => "",
-		"description" => ""
-	),
-	"newsletter" => array(
-		"section" => "resources",
-		"type" => "basic",
-		"title" => "",
-		"keywords" => "",
-		"description" => ""
-	),
-	"white-papers" => array(
-		"section" => "resources",
-		"type" => "basic",
-		"title" => "",
+		"title" => "Inquirehire Legal and Compliance Links",
 		"keywords" => "",
 		"description" => ""
 	),
 	"webinars" => array(
 		"section" => "resources",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Inquirehire Webinars",
 		"keywords" => "",
 		"description" => ""
 	),
 	"webinar-signup" => array(
 		"section" => "resources",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Inquirehire Webinar Registration Form",
 		"keywords" => "",
 		"description" => ""
 	),
 	"events" => array(
 		"section" => "resources",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Upcoming Inquirehire Events",
 		"keywords" => "",
 		"description" => ""
 	),
@@ -140,56 +119,56 @@ $seo = array(
 	"aptitude-assessments" => array(
 		"section" => "services",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Aptitude Assessments - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"background-screening" => array(
 		"section" => "services",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Background Screening Services - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"drug-testing" => array(
 		"section" => "services",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Drug Testing - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"post-hire-services" => array(
 		"section" => "services",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Post-Hire Services - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"professional-reference-checks" => array(
 		"section" => "services",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Professional Reference Checks - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"selectech-applicant-tracking-system" => array(
 		"section" => "services",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Selectech Applicant Tracking System - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"selectech-verification-system" => array(
 		"section" => "services",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Selectech Verification System - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"social-media-screening" => array(
 		"section" => "services",
 		"type" => "basic",
-		"title" => "Social Media Screening",
+		"title" => "Social Media Screening - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
@@ -198,21 +177,21 @@ $seo = array(
 	"attract-better-candidates" => array(
 		"section" => "solutions",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Attract Better Candidates with Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"avoid-hiring-mistakes" => array(
 		"section" => "solutions",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Avoid Hiring Mistakes with Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"streamline-the-hiring-process" => array(
 		"section" => "solutions",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Streamline the Hiring Process with Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
@@ -221,21 +200,21 @@ $seo = array(
 	"dispute-consumer-report" => array(
 		"section" => "dispute",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Dispute Your Consumer Report - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"applicant-dispute" => array(
 		"section" => "dispute",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Applicant Dispute - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	),
 	"applicant-form" => array(
 		"section" => "dispute",
 		"type" => "basic",
-		"title" => "",
+		"title" => "Applicant Dispute Form - Inquirehire",
 		"keywords" => "",
 		"description" => ""
 	)
