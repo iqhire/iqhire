@@ -3,11 +3,11 @@
 
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Selectech<sup>®</sup> Applicant Tracking System</h1>
+		<h1 class="cushycms">Selectech<sup>®</sup> Applicant Tracking System</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="content span8 cushycms" title="Content">
+	<div class="content span8 cushycms">
 		
 		<p class="intro">Selectech® ATS is a web-based solution that is powerful, modular, and user-friendly. With the Selectech® ATS, employers can fully automate their hiring process, resulting in lower cost of hiring, shorter time to hire, and improved quality of hire. Standard features include:</p>
 		<div class="fig right">

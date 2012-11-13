@@ -3,11 +3,11 @@
 
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Selectech<sup>®</sup> Verification System</h1>
+		<h1 class="cushycms">Selectech<sup>®</sup> Verification System</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="content span8 cushycms" title="Content">
+	<div class="content span8 cushycms">
 
 		<p class="intro">The Selectech® Verification System is an electronic I9 management system that is integrated 
 			with E-Verify. It includes automatic tracking of expiration dates and re-verification dates, eliminating the 

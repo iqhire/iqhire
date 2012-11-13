@@ -3,11 +3,11 @@
 
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Simplify and Streamline the Hiring Process</h1>
+		<h1 class="cushycms">Simplify and Streamline the Hiring Process</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<p class="intro">The Selectech® Applicant Tracking System is the foundation for a fully integrated hiring solution.  Integrated solutions save time and reduce errors, and this results in a lower cost of hire and shorter time to hire. The Selectech® system includes the following integration choices:</p>
 
 		<div class="row clearfix">

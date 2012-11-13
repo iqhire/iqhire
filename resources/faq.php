@@ -2,11 +2,11 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Frequently Asked Questions</h1>
+		<h1 class="cushycms">Frequently Asked Questions</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<p>The following are Frequently Asked Questions about our background investigations. If you would like to submit a question please email us and we will respond as soon as possible.</p>
 
 		<p><strong>What is the turnaround time for a background investigation?</strong></p>

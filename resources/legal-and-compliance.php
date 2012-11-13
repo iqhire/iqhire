@@ -2,11 +2,11 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Legal &amp; Compliance Links</h1>
+		<h1 class="cushycms">Legal &amp; Compliance Links</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<p>Use the following links to find information about the latest legal and compliance developments.</p>
 
 		<h2>FCRA Links</h2>

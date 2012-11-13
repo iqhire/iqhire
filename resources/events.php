@@ -2,11 +2,11 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Inquirehire Events Calendar</h1>
+		<h1 class="cushycms">Inquirehire Events Calendar</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<h4>January 2, 2013</h4>
 		<p>
 			Event: Mississippi Valley HR Association Chapter Meeting<br/>

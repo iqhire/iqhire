@@ -3,11 +3,11 @@
 
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Social Media Screening</h1>
+		<h1 class="cushycms">Social Media Screening</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="content span8 cushycms" title="Content">
+	<div class="content span8 cushycms">
 
 		<p class="intro">Traditional background checks protect employers by revealing an applicant’s past behavior. Social media screening provides additional protection by revealing an applicant’s current behavior. The Inquirehire social media screen can identify several areas of concern for employers including violent activity, illegal activity, racism/intolerance, and sexually explicit material. Social media screening is offered in 3 levels to suit each employer’s specific needs; basic, comprehensive, and executive.</p>
 		

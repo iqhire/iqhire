@@ -61,11 +61,11 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Dispute Your Consumer Report</h1>
+		<h1 class="cushycms">Dispute Your Consumer Report</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<?php if ($mail_success) {?>
 
 			<div class="well">

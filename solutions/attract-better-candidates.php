@@ -3,11 +3,11 @@
 
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Attract Better Candidates</h1>
+		<h1 class="cushycms">Attract Better Candidates</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<p class="intro">Inquirehire helps employers find and attract better job candidates for their job openings with 
 			the Selectech® Applicant Tracking System. The Selectech® ATS is a flexible web-based system that 
 			fully automates the hiring process. Employers can attract top candidates with several key system features.</p>

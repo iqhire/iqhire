@@ -2,11 +2,11 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Values</h1>
+		<h1 class="cushycms">Values</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<h2>Expertise</h2>
 		<p>Inquirehire is known for deep and substantial expertise in enterprise level security, risk management, and loss prevention. Our investigative expertise spans not only U.S. jurisdictions, but includes international capabilities.<br />
 		&nbsp;<br />

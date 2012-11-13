@@ -3,11 +3,11 @@
 
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Partners</h1>
+		<h1 class="cushycms">Partners</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8" title="Content">
+	<div class="span8">
 		<div class="partner hr">
 			<div class="row">
 				<div class="span2 logo">

@@ -62,7 +62,7 @@
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<?php if ($mail_success) {?>
 
 			<div class="well">

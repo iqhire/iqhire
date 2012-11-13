@@ -2,11 +2,11 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Glossary</h1>
+		<h1 class="cushycms">Glossary</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<dl class="definitions">
 			<dt><a name="">Adjudication</a></dt>
 			<dd>The ability to automate a judgment based on background screening outcome. This judgment often results in “meets requirements” or “does not meet requirements” outcome. Once adjudication takes place automatic distribution and/or adverse action can occur.</dd>

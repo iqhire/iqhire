@@ -2,11 +2,11 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Advisories</h1>
+		<h1 class="cushycms">Advisories</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<h2>E-Verify Federal and Sub-Contractor Rules</h2>
 		<p>Effective January 15, 2009, Federal contractors and subcontractors will be required to begin 
 			using the U.S. Citizenship and Immigration Services' E-Verify system to verify their employees'

@@ -2,11 +2,11 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Fair Credit Reporting Act (FCRA)</h1>
+		<h1 class="cushycms">Fair Credit Reporting Act (FCRA)</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<p>The FCRA is designed primarily to protect the privacy of consumer report information and to guarantee that the information supplied by a consumer reporting agency (CRA) is as accurate as possible. Amendments to the FCRA which went into effect September 30, 1997 significantly increase the legal obligations of employers who use consumer reports. Congress expanded employer responsibilities because of concern that inaccurate or incomplete consumer reports could cause applicants to be denied jobs or cause employees to be denied promotions unjustly. The amendments ensure (1) that individuals are aware that consumer reports may be used for employment purposes and agree to such use, and (2) that individuals are notified promptly if information in a consumer report may result in a negative employment decision.</p>
 
 		<h2>Key Provisions of the FCRA</h2>

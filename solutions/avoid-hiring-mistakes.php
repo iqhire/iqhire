@@ -3,11 +3,11 @@
 
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Avoid Hiring Mistakes</h1>
+		<h1 class="cushycms">Avoid Hiring Mistakes</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<p class="intro">Inquirehire helps employers avoid costly hiring mistakes with a comprehensive suite of employment screening and selection services. Inquirehire provides third party background screening services in full compliance with all federal and state laws.</p>
 
 		<div class="row">

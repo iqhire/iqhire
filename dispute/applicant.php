@@ -2,11 +2,11 @@
 <?php include($_SERVER['DOCUMENT_ROOT'].'/inc/header.php');?>
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Applicant Disputes</h1>
+		<h1 class="cushycms">Applicant Disputes</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="span8 cushycms" title="Content">
+	<div class="span8 cushycms">
 		<p>You have the right to dispute incomplete or inaccurate information. If you identify information in your 
 			consumer report that is incomplete or inaccurate you should contact Inquirehire immediately.  Inquirehire 
 			is obligated to re-investigate unless it is determined that your dispute is frivolous.</p>

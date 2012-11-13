@@ -3,11 +3,11 @@
 
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Drug Testing</h1>
+		<h1 class="cushycms">Drug Testing</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="content span8 cushycms" title="Content">
+	<div class="content span8 cushycms">
 		<div class="fig right">
 			<img src="/img/services/drug.jpg" alt="Drug Testing">
 		</div>

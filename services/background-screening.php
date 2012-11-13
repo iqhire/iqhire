@@ -3,11 +3,11 @@
 
 <div class="row pagehead">
 	<div class="span12">
-		<h1 class="cushycms" title="Heading">Background Screening</h1>
+		<h1 class="cushycms">Background Screening</h1>
 	</div>
 </div>
 <div class="row">
-	<div class="content span8 cushycms" title="Content">
+	<div class="content span8 cushycms">
 		<h2>Identity Verification</h2>
 		
 			<div class="fig right">
