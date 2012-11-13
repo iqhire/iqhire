@@ -120,6 +120,13 @@ $seo = array(
 		"keywords" => "",
 		"description" => ""
 	),
+	"webinar-signup" => array(
+		"section" => "resources",
+		"type" => "basic",
+		"title" => "",
+		"keywords" => "",
+		"description" => ""
+	),
 	"events" => array(
 		"section" => "resources",
 		"type" => "basic",

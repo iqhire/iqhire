@@ -55,6 +55,15 @@
 	}
 	
 	
+	.button {
+		display:inline-block;
+		background-color:$logored;
+		color:white;
+		padding:10px 20px;
+		border-radius:30px;
+		border:none;
+	}
+	
 	.nav {
 		margin:0 0 28px 0;
 		padding:0 0 0 20px;
