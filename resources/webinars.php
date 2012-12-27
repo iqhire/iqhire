@@ -7,36 +7,44 @@
 </div>
 <div class="row">
 	<div class="span8 cushycms">
-		<p class="intro">Inquirehire offers free, educational webinars designed to help employers stay abreast of the latest trends and best practices being utilized in today&rsquo;s hiring process. Each webinar is structured to last no more than 30 minutes so employers can work them into their busy schedules.</p>
+		<p class="intro">Inquirehire offers free, educational webinars designed to help employers stay abreast of the latest trends and best practices being utilized in today&rsquo;s hiring process. Each webinar is structured to last no more than 45 minutes so employers can work them into their busy schedules.</p>
 
-		<h3>Enhance Your Personal HR Brand by Delivering Real Bottom Line Results</h3>
-		<p>Most HR departments are considered cost centers in their organization, and most organizations try to maintain or reduce costs. Would you like to change your image from cost center to bottom line contributor? In this session we will discuss how re-engineering your hiring process can produce tangible bottom line results including real hard-dollar cost reduction, top line revenue improvement and reduced cycle time. If you&#39;re ready to change how you&#39;re perceived in your organization, this webinar is for you.</p>
+
+		<h3>Layers of Protection</h3>
+		<p>Criminal records are stored in a variety of jurisdictions and repositories, and no single search can provide a full and comprehensive view of an applicant's prior criminal record. This webinar reviews the essential components of a criminal record check including where criminal records are stored, the key differences in sources of information and how to design a criminal record check protocol that properly protects your organization.</p>
 		<p><strong>Next Webinar</strong><br/>
-			January 9th, 2013<br/>
-			1:30 pm Central Time</p>
+			Friday, January 25, 2013<br/>
+			1:30 pm central<br/>
+			Duration: 45 minutes</p>
 		<form action="webinar-signup" method="post" accept-charset="utf-8">
-			<input type="hidden" name="webinar" value="Enhance Your Personal HR Brand by Delivering Real Bottom Line Results" id="webinar">
+			<input type="hidden" name="webinar" value="Layers of Protection" id="webinar">
 			<p><input type="submit" value="Sign Up for this Webinar" class="button"></p>
 		</form>
 
-		<h3>EEOC and Employment Screening</h3>
-		<p>The U.S. Equal Employment Opportunity Commission (EEOC) is responsible for enforcing Title VII of the Civil Rights Act. Title VII prohibits discrimination against applicants and employees on the basis of race, color, sex, religion, or national origin. Recently the EEOC has increased focus on pre-employment screening policies and practices. In this webinar we will discuss four specific areas targeted by the EEOC.</p>
 
-		<ol>
-			<li>The use of credit checks to screen job applicants</li>
-			<li>The use of criminal record checks to screen job applicants</li>
-			<li>Family responsibility discrimination</li>
-			<li>Blanket policies and/or practices in the hiring process</li>
-		</ol>
-		
-		<p>If you would like to learn more about the EEOC&rsquo;s potential impact on employment screening, this webinar is for you.</p>
+		<h3>Advanced Employment Screening – Social Media</h3>
+		<p>Why should I consider social media screening as part of our pre-employment screening protocol? Social media screening can reveal applicant behavior that may be embarrassing or damaging to your organization. Many organizations use internal resources to conduct some form of social media screening, but this can be time-consuming, yet incomplete and inconsistent. In this webinar we will discuss a more effective approach to social media screening that is also comprehensive and compliant.</p>
 		<p><strong>Next Webinar</strong><br/>
-			January 16th, 2013<br/>
-			1:30 pm Central Time</p>
+			Friday, January 11, 2013<br/>
+			1:30 pm central<br/>
+			Duration:  30 minutes</p>
 		<form action="webinar-signup" method="post" accept-charset="utf-8">
-			<input type="hidden" name="webinar" value="EEOC and Employment Screening" id="webinar">
+			<input type="hidden" name="webinar" value="Advanced Employment Screening – Social Media" id="webinar">
 			<p><input type="submit" value="Sign Up for this Webinar" class="button"></p>
 		</form>
+
+
+		<h3>Advanced Employment Screening – Professional Reference Checks</h3>
+		<p>Historically 40% of candidates falsify their work history by embellishing responsibilities or accomplishments. Most employers will not provide non-neutral reference information to prospective employers. As a result, a critical “blind spot” can exist for many job applicants. In this webinar we will discuss a solution that will produce 3 or more professional references in 1 or 2 business days without time-consuming, fruitless phone calls.</p>
+		<p><strong>Next Webinar</strong><br/>
+			Friday, January 18, 2013<br/>
+			1:30 pm central<br/>
+			Duration: 30 minutes</p>
+		<form action="webinar-signup" method="post" accept-charset="utf-8">
+			<input type="hidden" name="webinar" value="Advanced Employment Screening – Professional Reference Checks" id="webinar">
+			<p><input type="submit" value="Sign Up for this Webinar" class="button"></p>
+		</form>
+
 		
 	</div>
 	<div class="span4">
