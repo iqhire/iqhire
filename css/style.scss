@@ -28,7 +28,6 @@ $logored: #990000;
 
 @mixin text-glow() {
 	text-shadow: 1px 1px 1px #ffffff;
-	filter: dropshadow(color=#ffffff, offx=1, offy=1)
 }
 
 

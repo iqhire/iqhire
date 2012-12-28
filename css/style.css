@@ -4016,8 +4016,7 @@ a.thumbnail:hover {
         margin-bottom: 9px;
         line-height: 1; }
       #feature .slide .text h1, #feature .slide .text p {
-        text-shadow: 1px 1px 1px #ffffff;
-        filter: dropshadow(color=white, offx=1, offy=1); }
+        text-shadow: 1px 1px 1px #ffffff; }
       #feature .slide .text .look {
         font-size: 18px;
         color: #999999;
