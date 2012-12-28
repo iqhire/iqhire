@@ -16,7 +16,7 @@
 
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 
-	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/style.css?v=20121228103100">
 
 	<script src="/js/libs/modernizr.h5bp.custom.js"></script>
 	<script type="text/javascript" src="http://use.typekit.com/noc1gww.js"></script>
