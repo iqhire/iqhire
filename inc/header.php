@@ -27,4 +27,4 @@
 	<h1 class="logo"><a href="/">Inquirehire</a></h1>
 	<?php include($_SERVER['DOCUMENT_ROOT'].'/inc/nav.php');?>
 </header>
-<div role="main" class="container">	
+<div role="main" class="main container">	

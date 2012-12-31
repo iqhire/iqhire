@@ -1,8 +1,16 @@
 </div>
-<footer id="footer" class="clearfix container">
-	<p class="footernav"><a href="/about/contact">Contact Us</a> or call <strong>1-800-494-5922</strong></p>
+<div id="footer">
+<footer id="footersplit" class="clearfix container">
 	<p class="copyright">&copy; <?php print(Date("Y")); ?> <a href="http://inquirehire.com/">Inquirehire</a>, All Rights Reserved. <a href="/privacy-policy">Privacy Policy</a>.</p>
+	<div class="social">
+		<ul>
+			<li><a href="http://facebook.com/inquirehire" class="facebook">Facebook</a></li>
+			<li><a href="http://twitter.com/inquirehire" class="twitter">Twitter</a></li>
+			<li><a href="/about/contact" class="email">Contact Us</a></li>
+		</ul>
+	</div>
 </footer>
+</div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>

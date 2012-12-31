@@ -3909,20 +3909,56 @@ a.thumbnail:hover {
         left: auto; }
 
 #footer {
-  border-top: 1px solid #d6d6d6;
-  padding-top: 18px;
-  margin-bottom: 40px; }
-  #footer .footernav {
-    float: left; }
-  #footer .copyright {
-    float: right; }
-  #footer a {
-    color: #555c5e;
-    border-bottom: 1px dotted #d6d6d6; }
-  #footer a:hover {
-    color: #0088cc;
-    border-bottom: 1px solid #0088cc;
-    text-decoration: none; }
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+  width: 100%; }
+  #footer #footersplit {
+    border-top: 1px solid #d6d6d6;
+    padding: 18px 0;
+    margin: auto; }
+    #footer #footersplit .copyright {
+      float: left; }
+    #footer #footersplit p, #footer #footersplit ul, #footer #footersplit ul li {
+      margin: 0; }
+    #footer #footersplit a {
+      color: #555c5e;
+      border-bottom: 1px dotted #d6d6d6; }
+    #footer #footersplit a:hover {
+      color: #0088cc;
+      border-bottom: 1px solid #0088cc;
+      text-decoration: none; }
+    #footer #footersplit .social {
+      float: right; }
+      #footer #footersplit .social ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        float: right; }
+        #footer #footersplit .social ul li {
+          float: left;
+          margin-right: 10px; }
+          #footer #footersplit .social ul li a {
+            border: none;
+            display: block;
+            overflow: hidden;
+            height: 0;
+            width: 26px;
+            padding-top: 26px;
+            background-image: url("/img/footer_social_icons.png");
+            background-repeat: no-repeat; }
+          #footer #footersplit .social ul li a.facebook {
+            background-position: 0 0; }
+          #footer #footersplit .social ul li a.twitter {
+            background-position: -26px 0; }
+          #footer #footersplit .social ul li a.youtube {
+            background-position: -52px 0; }
+          #footer #footersplit .social ul li a.rss {
+            background-position: -78px 0; }
+          #footer #footersplit .social ul li a.email {
+            background-position: -104px 0; }
+        #footer #footersplit .social ul li:last-child {
+          margin-right: 0; }
 
 .basic h2, .basic h3, .basic h4 {
   color: #222222;
@@ -4220,3 +4256,6 @@ h1, h2, h3 {
   font-style: normal;
   font-weight: 700;
   color: #990000; }
+
+.main {
+  padding-bottom: 80px; }

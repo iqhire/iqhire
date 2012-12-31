@@ -91,3 +91,7 @@ h1, h2, h3 {
 	@include headline();
 	color:$logored;
 }
+
+.main {
+	padding-bottom:80px;
+}
