@@ -28,7 +28,7 @@
 		<li id="nav-login"><a href="https://inquirehire.instascreen.net/">Login</a>
 			<ul>
 				<li><a href="https://inquirehire.instascreen.net/">Background Screening</a></li>
-				<li><a href="http://inquirehire.ercdataplus.com/">ATS/Assessments</a></li>
+				<li><a href="http://inquirehire1.ercdataplus.com/">ATS/Assessments</a></li>
 			</ul>
 		</li>
 	</ul>
