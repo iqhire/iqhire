@@ -37,6 +37,14 @@
 			Location: Ames, Iowa<br/>
 			Topic: Fraud Prevention<br/>
 			Speaker: Jim Sweeney</p>
+			
+		<h4>April 25, 2013</h4>
+		<p>
+			Event: IACUBO/Iowa CUPA-HR Joint Annual Conference<br/>
+			Location: Ames, Iowa<br/>
+			Topic: Top 10 Background Check Mistakes<br/>
+			Speaker: Alan Kinsey</p>
+			
 	</div>
 	<div class="span4">
 		<ul class="nav">
