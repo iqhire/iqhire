@@ -30,6 +30,14 @@
 			Location: West Des Moines, Iowa<br/>
 			Topic: Employment Branding<br/>
 			Speaker: Alan Kinsey</p>
+			
+		<h4>February 19, 2013</h4>
+		<p>
+			Event: HRMA of Northwest Missouri Chapter Meeting<br/>
+			Sponsor: HRMA of Northwest Missouri<br/>
+			Location: St. Joseph, Missouri<br/>
+			Topic: Top 10 Background Check Mistakes<br/>
+			Speaker: Alan Kinsey</p>
 
 		<h4>April 18, 2013</h4>
 		<p>
