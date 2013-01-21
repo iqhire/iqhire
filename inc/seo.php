@@ -113,6 +113,13 @@ $seo = array(
 		"keywords" => "",
 		"description" => ""
 	),
+	"presentations" => array(
+		"section" => "resources",
+		"type" => "basic",
+		"title" => "Presentations",
+		"keywords" => "",
+		"description" => ""
+	),
 	
 	
 	//services pages

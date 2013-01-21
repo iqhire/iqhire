@@ -6,5 +6,6 @@
 <li><a href="/resources/glossary">Glossary</a></li>
 <li><a href="/resources/faq">FAQ</a></li>
 <li><a href="/resources/events">Events Calendar</a></li>
+<li><a href="/resources/presentations">Presentations</a></li>
 <li><a href="/resources/webinars">Webinars</a></li>
 <li><a href="/files/searches-and-product-library.docx">Searches and Products Catalog [Doc]</a></li>
