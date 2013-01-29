@@ -35,8 +35,9 @@
 			<h4>Statewide Criminal Record Search</h4>
 			<p>This search provides a complete picture of an applicant's records at the state reporting level, which may contain data not found at the county level, and encompasses all counties within the state providing a more comprehensive search.. The statewide search offers an additional layer of security to the recruitment process.</p>
 
-			<h4>National Criminal Record Search</h4>
-			<p>This nationwide search contains records from more than 40 states and multiple data sources including Departments of Corrections, state courts, law enforcement agencies, traffic courts, county courts, and prison parole and release files. Like the statewide search, the national search casts a wider net, and provides an extra layer of security to the recruitment process.</p>
+			<h4>Nationwide Criminal Database Search</h4>
+			<p>This nationwide search contains records from multiple data sources from all 50 states including Departments of Corrections, state courts, law enforcement agencies, traffic courts, county courts, and prison parole and release files. It does not include all criminal records but does cast a wide net and provides an extra layer of security to the background  process.</p>
+			
 
 			<h4>Registered Sex Offender Search</h4>
 			<p>This database search is conducted for all applicable states which report and release sex offender data.</p>
