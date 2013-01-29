@@ -38,6 +38,14 @@
 			Location: St. Joseph, Missouri<br/>
 			Topic: Top 10 Background Check Mistakes<br/>
 			Speaker: Alan Kinsey</p>
+			
+		<h4>March 26, 2013</h4>
+		<p>
+			Event: Bloomington-Normal HR Council Meeting<br/>
+			Sponsor: Bloomington-Normal Human Resource Council<br/>
+			Location: Illinois State University - Normal, Illinois<br/>
+			Topic: Advanced Screening Techniques<br/>
+			Speaker: Alan Kinsey</p>
 
 		<h4>April 18, 2013</h4>
 		<p>
