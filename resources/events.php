@@ -23,6 +23,7 @@
 			Topic: Top 10 Background Check Mistakes<br/>
 			Speaker: Alan Kinsey</p>
 
+
 		<h4>February 12, 2013</h4>
 		<p>
 			Event: Central Iowa SHRM Chapter Meeting<br/>
@@ -30,6 +31,14 @@
 			Location: West Des Moines, Iowa<br/>
 			Topic: Employment Branding<br/>
 			Speaker: Alan Kinsey</p>
+
+		<h4>February 12, 2013</h4>
+		<p>
+			Event: EIHRA Chapter Meeting<br/>
+			Sponsor: Eastern Iowa Human Resources Association<br/>
+			Location: Cedar Rapids, Iowa<br/>
+			Topic: Top 10 Background Check Mistakes<br/>
+			Speaker: Jim Sweeney</p>
 			
 		<h4>February 19, 2013</h4>
 		<p>
