@@ -47,6 +47,15 @@
 			Location: St. Joseph, Missouri<br/>
 			Topic: Top 10 Background Check Mistakes<br/>
 			Speaker: Alan Kinsey</p>
+
+		<h4>March 20, 2013</h4>
+		<p>
+			Event: Illinois Valley SHRM Chapter Meeting<br/>
+			Sponsor: Illinois Valley SHRM<br/>
+			Location: Peru, Illinois<br/>
+			Topic: Advanced Screening Techniques<br/>
+			Speaker: Alan Kinsey</p>
+
 			
 		<h4>March 26, 2013</h4>
 		<p>
@@ -68,6 +77,24 @@
 			Event: IACUBO/Iowa CUPA-HR Joint Annual Conference<br/>
 			Location: Ames, Iowa<br/>
 			Topic: Top 10 Background Check Mistakes<br/>
+			Speaker: Alan Kinsey</p>
+
+
+		<h4>October 4, 2013</h4>
+		<p>
+			Event: Iowa State SHRM Conference<br/>
+			Sponsor: Iowa State SHRM Council<br/>
+			Location: Coralville Marriott – Coralville, Iowa<br/>
+			Topic: Top 10 Background Check Mistakes<br/>
+			Speaker: Alan Kinsey</p>
+
+
+		<h4>October 4, 2013</h4>
+		<p>
+			Event: Iowa State SHRM Conference<br/>
+			Sponsor: Iowa State SHRM Council<br/>
+			Location: Coralville Marriott – Coralville, Iowa<br/>
+			Topic: Advanced Screening Techniques<br/>
 			Speaker: Alan Kinsey</p>
 			
 	</div>
