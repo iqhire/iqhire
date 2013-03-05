@@ -76,9 +76,8 @@
 		<p>
 			Event: IACUBO/Iowa CUPA-HR Joint Annual Conference<br/>
 			Location: Ames, Iowa<br/>
-			Topic: Top 10 Background Check Mistakes<br/>
+			Topic: Advanced Screening Techniques<br/>
 			Speaker: Alan Kinsey</p>
-
 
 		<h4>October 4, 2013</h4>
 		<p>
