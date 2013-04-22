@@ -14,7 +14,7 @@
 		<div class="hr">		
 			<h3>Written Notice and Authorization</h3>
 			<p>Before you can request a consumer report for <a href="/resources/glossary#employment_purposes">employment purposes</a>, you must notify the individual in writing in a document consisting solely of this notice that a report may be used. You also must get the person's written authorization before you request the report.</p>
-			<p><a class="btn" href="/files/fcra/main-disclosure-and-authorization-2012.pdf"><i class="icon-download"></i> Download Employment Form</a>
+			<p><a class="btn" href="/files/fcra/main-disclosure-and-authorization-2012.pdf"><i class="icon-download"></i> Download Authorization Form</a>
 				<a class="btn" href="/files/fcra/tenant-disclosure-and-authorization-2012.pdf"><i class="icon-download"></i> Download Tenant Form</a></p>
 		</div>
 		
