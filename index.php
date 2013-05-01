@@ -57,7 +57,7 @@
 					<a href="services/drug-testing.php">Drug Testing</a>, 
 					Substance Abuse Training, and 
 					<a href="services/post-hire-services.php">Employment Tax Credit Processing (WOTC)</a>.  
-					Inquirehire has <a href="/partners">partners and pre-integrated solutions</a> with ERC, Honkamp Krueger, Escreen, Tazworks and more.</p>
+					Inquirehire has <a href="/partners">partners and pre-integrated solutions</a> with PeopleStrategy, Honkamp Krueger, Escreen, Tazworks and more.</p>
 		</div>
 		<div class="span6">
 			<img src="/img/headshot-marcie.jpg" alt="Marcie Van Note" class="headshot" />

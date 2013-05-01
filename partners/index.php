@@ -11,12 +11,12 @@
 		<div class="partner hr">
 			<div class="row">
 				<div class="span2 logo">
-					<img src="/img/logo-erc.png" alt="ERC Dataplus" class="cushycms">
+					<img src="/img/logo-peoplestrategy.png" alt="PeopleStrategy" class="cushycms">
 				</div>
 				<div class="span6 description cushycms">
-					<h3><a href="http://www.ercdataplus.com" name="erc-datapluss">ERC Dataplus</a></h3>
-					<p>Since 1993, ERC Dataplus has been helping organizations with their most pressing business challenge: finding and keeping qualified talent. With its comprehensive and integrated technology solutions, ERC enables clients to save time, reduce costs and reduce the administrative burdens associated with the recruiting, selection, development and retention of talented employees.</p>
-					<p><a href="http://www.ercdataplus.com">www.ercdataplus.com</a></p>
+					<h3><a href="http://www.peoplestrategy.com/" name="peoplestrategy">PeopleStrategy</a></h3>
+					<p>Since 1993, PeopleStrategy has been helping organizations with their most pressing business challenge: finding and keeping qualified talent. With its comprehensive and integrated technology solutions, PeopleStrategy enables clients to save time, reduce costs and reduce the administrative burdens associated with the recruiting, selection, development and retention of talented employees.</p>
+					<p><a href="http://www.peoplestrategy.com/">www.peoplestrategy.com/</a></p>
 				</div>
 			</div>
 		</div>
