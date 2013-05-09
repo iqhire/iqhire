@@ -15,7 +15,7 @@
 				<div class="text">
 					<h2>Aptitude and Behavioral Assessments</h2>
 					<p>Inquirehire provides a number of validated assessments. Assessments are more predictive of future success than education or work history. Custom assessments are also available.</p>
-					<p><a href="/services/aptitude-assessment">Learn More</a></p>
+					<p><a href="/services/aptitude-assessments">Learn More</a></p>
 					</div>
 				</div>
 				<div class="box span4">
