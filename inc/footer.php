@@ -26,6 +26,18 @@
 	g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
 	s.parentNode.insertBefore(g,s)}(document,'script'));
 </script>
-
+<script type="text/javascript">
+	/* <![CDATA[ */
+	document.write (
+	  '<img src="http://ci40.actonsoftware.com/acton/bn/5598/visitor.gif?ts='+
+	  new Date().getTime()+
+	  '&ref='+escape(document.referrer) + '">'
+	);
+	var aoAccountId = '5598';
+	var aoCookieMode = 'STANDARD';
+	var aoCookieDomain = 'actonsoftware.com';
+	var aoServerContext = 'http://ci40.actonsoftware.com/acton';
+	/* ]]> */
+</script>
 </body>
 </html>
