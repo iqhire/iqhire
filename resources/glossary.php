@@ -65,8 +65,8 @@
 			<dt><a name="">Conditional Discharge – Non-conviction</a></dt>
 			<dd>The defendant has no finding of guilt. The court is discharging him/her from trial on special conditions that they must follow. If they do not abide by these conditions, the discharge may be revoked and the finding may become guilty.</dd>
 			
-			<dt><a name="">Consent Decree – Conviction</a></dt>
-			<dd>This is found in New Mexico. It is designed as a disposition for juvenile cases in which the defendant pleads guilty and is placed on the decree / probation for six months.</dd>
+			<dt><a name="">Consent Decree</a></dt>
+			<dd>Relating to juvenile offenses, the State/Child has proposed that proceedings in this matter be continued for purposes of entering into what is called a consent decree.  There is no determination of guilt of innocence on the petition and no finding or adjudication of delinquency.  Instead the case would be continued for 6 months on the terms and conditions of the consent degree.  If a child successfully completes all terms and conditions of the decree, the case would be dismissed.</dd>
 			
 			<dt><a name="">Consumer</a></dt>
 			<dd>A consumer, for our purposes, is the applicant or employee on whom background information is being gathered. </dd>
