@@ -11,6 +11,54 @@
 		<div class="partner hr">
 			<div class="row">
 				<div class="span2 logo">
+					<img src="/img/logo-escreen.png" alt="eScreen" class="cushycms">
+				</div>
+				<div class="span6 description cushycms">
+					<h3><a href="http://www.escreen.com" name="escreen">eScreen</a></h3>
+					<p>eScreen, Inc. is a technology-enabled Third-Party Administrator that provides next-generation employment screening applications for hiring and maintaining efficient workforces. eScreen reduces program costs, incorporates a paperless process, and automates compliance management.</p>
+					<p><a href="http://www.escreen.com">www.escreen.com</a></p>
+				</div>
+			</div>
+		</div>
+		<div class="partner hr">
+			<div class="row">
+				<div class="span2 logo">
+					<img src="/img/logo-honkamp.png" alt="Honkamp Krueger &amp; Co., P.C." class="cushycms">
+				</div>
+				<div class="span6 description cushycms">
+					<h3><a href="http://www.honkamp.com" name="honkamp-krueger-and-co">Honkamp Krueger &amp; Co., P.C.</a></h3>
+					<p>For over 60 years, Honkamp Krueger &amp; Co., P.C. has been helping businesses ranging from small family-owned businesses to Fortune 500 companies reach their goals.   With our vast experience, we will recognize the unique challenges and circumstances of your business. Also, our deep menu of services allows us to meet your specific needs. We will listen to you, build a healthy, productive business relationship with you, and help your business reach the next level.</p>
+					<p><a href="http://www.honkamp.com">www.honkamp.com</a></p>
+				</div>
+			</div>
+		</div>
+		<div class="partner hr">
+			<div class="row">
+				<div class="span2 logo">
+					<img src="/img/logo-hrtesting.png" alt="HR Testing" class="cushycms">
+				</div>
+				<div class="span6 description cushycms">
+					<h3><a href="http://www.hrtesting.com" name="hr-testing">HR Testing</a></h3>
+					<p>HRT’s mission is simple, to help organizations identify and select the best person for the job…the first time… through the use of professionally developed, valid, reliable and legally defensible pre-employment testing tools.  Backed by validity research and founded on industrial/organizational psychology principles, HRT assessments offer a cost effective solution for increased job fit, increased productivity and reduced turnover.</p>
+					<p><a href="http://www.hrtesting.com">www.hrtesting.com</a></p>
+				</div>
+			</div>
+		</div>
+		<div class="partner hr">
+			<div class="row">
+				<div class="span2 logo">
+					<img src="/img/logo-jobtarget.png" alt="JobTarget" class="cushycms">
+				</div>
+				<div class="span6 description cushycms">
+					<h3><a href="http://www.jobtarget.com" name="job-target">JobTarget</a></h3>
+					<p>JobTarget is the largest third-party operator of niche job boards in the world and the first company to offer an integrated cross-posting/job distribution and strategy optimization technology solution. We have been rapidly expanding in the past few years and have won numerous awards, including being named 871 on the Inc. 5000 list of America’s Fastest Growing companies. Our suite of Products &amp; Services provide solutions for job seekers, employers, media / website publishers, and many other organizations on a daily basis.</p>
+					<p><a href="http://www.jobtarget.com">www.jobtarget.com</a></p>
+				</div>
+			</div>
+		</div>
+		<div class="partner hr">
+			<div class="row">
+				<div class="span2 logo">
 					<img src="/img/logo-peoplestrategy.png" alt="PeopleStrategy" class="cushycms">
 				</div>
 				<div class="span6 description cushycms">
@@ -36,18 +84,6 @@
 		<div class="partner hr">
 			<div class="row">
 				<div class="span2 logo">
-					<img src="/img/logo-honkamp.png" alt="Honkamp Krueger &amp; Co., P.C." class="cushycms">
-				</div>
-				<div class="span6 description cushycms">
-					<h3><a href="http://www.honkamp.com" name="honkamp-krueger-and-co">Honkamp Krueger &amp; Co., P.C.</a></h3>
-					<p>For over 60 years, Honkamp Krueger &amp; Co., P.C. has been helping businesses ranging from small family-owned businesses to Fortune 500 companies reach their goals.   With our vast experience, we will recognize the unique challenges and circumstances of your business. Also, our deep menu of services allows us to meet your specific needs. We will listen to you, build a healthy, productive business relationship with you, and help your business reach the next level.</p>
-					<p><a href="http://www.honkamp.com">www.honkamp.com</a></p>
-				</div>
-			</div>
-		</div>
-		<div class="partner hr">
-			<div class="row">
-				<div class="span2 logo">
 					<img src="/img/logo-tazworks.png" alt="" class="cushycms">
 				</div>
 				<div class="span6 description cushycms">
@@ -57,39 +93,15 @@
 				</div>
 			</div>
 		</div>
-		<div class="partner hr">
-			<div class="row">
-				<div class="span2 logo">
-					<img src="/img/logo-jobtarget.png" alt="JobTarget" class="cushycms">
-				</div>
-				<div class="span6 description cushycms">
-					<h3><a href="http://www.jobtarget.com" name="job-target">JobTarget</a></h3>
-					<p>JobTarget is the largest third-party operator of niche job boards in the world and the first company to offer an integrated cross-posting/job distribution and strategy optimization technology solution. We have been rapidly expanding in the past few years and have won numerous awards, including being named 871 on the Inc. 5000 list of America’s Fastest Growing companies. Our suite of Products &amp; Services provide solutions for job seekers, employers, media / website publishers, and many other organizations on a daily basis.</p>
-					<p><a href="http://www.jobtarget.com">www.jobtarget.com</a></p>
-				</div>
-			</div>
-		</div>
-		<div class="partner hr">
-			<div class="row">
-				<div class="span2 logo">
-					<img src="/img/logo-hrtesting.png" alt="HR Testing" class="cushycms">
-				</div>
-				<div class="span6 description cushycms">
-					<h3><a href="http://www.hrtesting.com" name="hr-testing">HR Testing</a></h3>
-					<p>HRT’s mission is simple, to help organizations identify and select the best person for the job…the first time… through the use of professionally developed, valid, reliable and legally defensible pre-employment testing tools.  Backed by validity research and founded on industrial/organizational psychology principles, HRT assessments offer a cost effective solution for increased job fit, increased productivity and reduced turnover.</p>
-					<p><a href="http://www.hrtesting.com">www.hrtesting.com</a></p>
-				</div>
-			</div>
-		</div>
 		<div class="partner">
 			<div class="row">
 				<div class="span2 logo">
-					<img src="/img/logo-escreen.png" alt="eScreen" class="cushycms">
+					<img src="/img/logo-tms.png" alt="" class="cushycms">
 				</div>
 				<div class="span6 description cushycms">
-					<h3><a href="http://www.escreen.com" name="escreen">eScreen</a></h3>
-					<p>eScreen, Inc. is a technology-enabled Third-Party Administrator that provides next-generation employment screening applications for hiring and maintaining efficient workforces. eScreen reduces program costs, incorporates a paperless process, and automates compliance management.</p>
-					<p><a href="http://www.escreen.com">www.escreen.com</a></p>
+					<h3><a href="http://tmsolutionsllc.wix.com/ondemand" name="tms">Talent Management Solutions</a></h3>
+					<p>Talent Management Solutions, LLC, is a consulting firm that provides small to medium-sized businesses with on demand human resources support, customized recruiting strategies, supervisor training on HR issues, compliance audits, employee handbook/policy updating or creation, and Six Sigma methodologies for streamlining processes. From attracting the talent to developing their growth within your organization, TMS can help you work smarter, not harder, in managing your workforce.</p>
+					<p><a href="http://tmsolutionsllc.wix.com/ondemand">tmsolutionsllc.wix.com/ondemand</a></p>
 				</div>
 			</div>
 		</div>
