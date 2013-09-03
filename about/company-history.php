@@ -7,10 +7,9 @@
 </div>
 <div class="row">
 	<div class="span8 cushycms">
-		<p>In 1994, Jim Sweeney formed James M. Sweeney and Associates, Inc. to assist organizations in the management of losses associated with employee misconduct and other forms of risk. A former police lieutenant, Jim Sweeney built an organization with deep investigative expertise, technological excellence, and a commitment to superior service.</p>
-		<p>The passage of the Fair Credit Reporting Act in 1996 created an opportunity for organizations to deploy a preventative strategy to combat employee misconduct in the workplace. Sweeney and Associates launched Inquirehire, a division dedicated to helping employers identify high risk candidates with thorough, fast, and compliant background investigations. A leader in the industry, Inquirehire was a founding member of the National Association of Professional Background Screeners (NAPBS).</p>
-		<p>In 2007, Inquirehire launched one of the nations first pre-integrated applicant tracking and background screening solutions. With the Inquirehire solution employers can transform and optimize their hiring process to save time, money, and avoid hiring mistakes.</p>
-		<p>Since its beginning, Sweeney and Associates have helped hundreds of organizations implement solutions that make their organization more effective and efficient while managing the risk of a poor hiring decision.</p>
+		<p>In 1997, Inquirehire was established as a resource for those employers with a desire to identify high risk candidates with thorough, fast, and compliant background investigations.  It became Inquirehire’s mission to help employers avoid costly mistakes of a bad hiring decision.  Inquirehire has since evolved into an organization that helps manage and automate the entire hiring process while delivering the solutions that eliminate risk.</p>
+		<p>A leader in the industry, Inquirehire was a founding member of the National Association of Professional Background Screeners (NAPBS). In 2007, Inquirehire launched one of the nation’s finest pre-integrated applicant tracking and background screening solutions. In 2013 Inquirehire became an NAPBS Accredited firm.   This recognition stands as the industry “seal” representing a background screening organization’s commitment to excellence, accountability, high professional standards and continued institutional improvement.</p>
+		<p>With the Inquirehire solution employers can transform and optimize their hiring process to save time, money, and avoid hiring mistakes.</p>
 	</div>
 	<div class="span4">
 		<ul class="nav">

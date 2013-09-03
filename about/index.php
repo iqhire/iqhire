@@ -8,7 +8,7 @@
 	</div>
 	<div class="row">
 		<div class="span8 cushycms">
-			<p>Inquirehire, a division of James M. Sweeney and Associates, Inc. is a leading provider of integrated hiring solutions for business, government and non-profit organizations. We offer our clients best in class solutions backed by in-depth subject matter expertise, innovative technology, and unparalleled service. This powerful combination enables our clients to transform and optimize their hiring process&nbsp;in order save time, money, and avoid costly hiring mistakes.</p>
+			<p>Inquirehire, is a leading provider of integrated hiring solutions for business, government and non-profit organizations. We offer our clients best in class solutions backed by in-depth subject matter expertise, innovative technology, and unparalleled service. This powerful combination enables our clients to transform and optimize their hiring process in order save time, money, and avoid costly hiring mistakes.</p>
 			<h2>Services</h2>
 			<p>As a key strategic provider to hundreds of businesses and organizations, Inquirehire provides a full range of integrated hiring solutions:</p>
 			<ul>
