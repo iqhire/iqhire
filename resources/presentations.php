@@ -43,6 +43,9 @@
 		<h3>Skill Survey Professional References - Banking</h3>
 		<p><a href="/files/presentations/skill-survey-professional-references-banking.pptx">Skill Survey Professional References - Banking (PPT)</a></p>
 
+		<h3>Inquirehire HR Learning Series</h3>
+		<p><a href="/files/presentations/Inquirehire-HR-Learning-Series.doc">Inquirehire HR Learning Series (DOC)</a></p>
+
 
 	</div>
 	<div class="span4">
