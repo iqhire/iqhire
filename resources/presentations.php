@@ -7,6 +7,10 @@
 </div>
 <div class="row">
 	<div class="span8 cushycms">
+		<h3>Inquirehire HR Learning Series</h3>
+		<p><a href="/files/presentations/Inquirehire-HR-Learning-Series.doc">Inquirehire HR Learning Series (DOC)</a></p>
+
+
 		<h3>Advanced Screening Techniques</h3>
 		<p>Employment screening has become a standard practice for most employers and more than 85% conduct some form of employment screening in their hiring process. Most human resources professionals are familiar with the basics; criminal record checks, employment verification, education verification, and driving records. In this session we will go beyond the basics, and attendees will learn how and when to utilize advanced screening techniques. These new techniques can help employers mitigate greater risk and be more confident in their hiring decisions. Specific techniques covered include:</p>
 		<ul>
@@ -43,8 +47,6 @@
 		<h3>Skill Survey Professional References - Banking</h3>
 		<p><a href="/files/presentations/skill-survey-professional-references-banking.pptx">Skill Survey Professional References - Banking (PPT)</a></p>
 
-		<h3>Inquirehire HR Learning Series</h3>
-		<p><a href="/files/presentations/Inquirehire-HR-Learning-Series.doc">Inquirehire HR Learning Series (DOC)</a></p>
 
 
 	</div>
