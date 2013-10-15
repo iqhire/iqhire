@@ -8,4 +8,5 @@ $(document).ready(function() {
 	
 	//cycle home page slides
 	$('#slides').cycle();
+	$('.quotes').cycle();
 });

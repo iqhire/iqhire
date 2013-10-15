@@ -59,12 +59,20 @@
 					<a href="services/post-hire-services.php">Employment Tax Credit Processing (WOTC)</a>.  
 					Inquirehire has <a href="/partners">partners and pre-integrated solutions</a> with PeopleStrategy, Honkamp Krueger, Escreen, Tazworks and more.</p>
 		</div>
-		<div class="span6">
-			<img src="/img/headshot-marcie.jpg" alt="Marcie Van Note" class="headshot" />
-			<blockquote>
-				<p class="quote">“I completed the Affirmative Action report for the last six months and using the system made it so easy.  I had a few positions that were hired prior to us using the system and they took longer to do than all of the other positions put together so; awesome, awesome, awesome!”</p>
-				<p class="attribution">Marcie Van Note, VP - Human Resources, Girl Scouts</p>
-			</blockquote>
+		<div class="span6 quotes">
+			<div class="quote">
+				<img src="/img/headshot-marcie.jpg" alt="Marcie Van Note" class="headshot" />
+				<blockquote>
+					<p class="quote">“I completed the Affirmative Action report for the last six months and using the system made it so easy.  I had a few positions that were hired prior to us using the system and they took longer to do than all of the other positions put together so; awesome, awesome, awesome!”</p>
+					<p class="attribution">Marcie Van Note, VP - Human Resources, Girl Scouts</p>
+				</blockquote>
+			</div>
+			<div class="quote">
+				<blockquote>
+					<p class="quote">I would like to take a moment to let you know how much I appreciate the services your company provides in the areas of assessments and background checks.  I have found utilizing the assessments has helped improve our applicant selection process and using the background check service has helped streamline this process for me as well as keep us compliant.</p>
+					<p class="attribution">Patricia A. Frankenstein - Sr. VP &amp; Cashier, The American National Bank</p>
+				</blockquote>
+			</div>
 		</div>
 	</div>
 </section>
