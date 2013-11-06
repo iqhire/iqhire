@@ -95,7 +95,30 @@
 			Location: Coralville Marriott – Coralville, Iowa<br/>
 			Topic: Advanced Screening Techniques<br/>
 			Speaker: Alan Kinsey</p>
-			
+		
+		<h4>November 20, 2013</h4>
+		<p>Event: Tri-State SHRM Chapter Meeting<br/>
+			Sponsor: Tri-State SHRM Chapter<br/>
+			Location: Holiday Inn – Joplin, Missouri<br/>
+			Topic: Advanced Screening Techniques<br/>
+			Speaker: Alan Kinsey</p>
+
+
+		<h4>December 12, 2013</h4>
+		<p>Event: Verisight HR Roundtable<br/>
+			Sponsor: Verisight,Inc.<br/>
+			Location: Cedar Rapids Country Club – Cedar Rapids, Iowa<br/>
+			Topic: Advanced Screening Techniques<br/>
+			Speaker: Alan Kinsey</p>
+
+		 
+
+		<h4>December 13, 2013</h4>
+		<p>Event: Verisight HR Roundtable<br/>
+			Sponsor: Verisight,Inc.<br/>
+			Location: Cedar Rapids Country Club – Cedar Rapids, Iowa<br/>
+			Topic: Advanced Screening Techniques<br/>
+			Speaker: Alan Kinsey</p>
 	</div>
 	<div class="span4">
 		<ul class="nav">
