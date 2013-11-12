@@ -35,14 +35,14 @@
 			Sponsor: Mississippi Valley HR Association<br/>
 			Location: Burlington, Iowa<br/>
 			Topic: How HR Can Have a Larger Role in Setting Strategy<br/>
-			Speaker: Alan Kinsey
+			Speaker: Alan Kinsey</p>
 
 		<h4>January 14, 2014</h4>
 		Event: Quincy Area SHRM Chapter Meeting<br/>
 			Sponsor: Quincy Area Chapter of SHRM<br/>
 			Location: Quincy, IL<br/>
 			Topic: How HR Can Have a Larger Role in Setting Strategy<br/>
-			Speaker: Alan Kinsey
+			Speaker: Alan Kinsey</p>
 
 			 
 		<h4>January 28, 2014</h4>
