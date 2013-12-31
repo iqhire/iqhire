@@ -97,6 +97,13 @@
 			Speaker: Alan Kinsey</p>
 
 
+		<h4>June 17, 2014</h4>
+		<p>Event: HRMA of Northwest Missouri Chapter Meeting<br/>
+			Sponsor: HRMA of Northwest Missouri<br/>
+			Location: St. Joseph, Missouri<br/>
+			Topic: How HR Can Have a Larger Role in Setting Strategy<br/>
+			Speaker: Alan Kinsey</p>
+
 	</div>
 	<div class="span4">
 		<ul class="nav">
