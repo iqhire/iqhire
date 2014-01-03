@@ -31,6 +31,7 @@
 			<li><a href="/files/fcra/notice-to-users-of-consumer-reports-2013.docx">Notice To Users of Consumer Reports</a></li>
 			<li><a href="/files/fcra/remedying-the-effects-of-identity-theft-2013.docx">Remedying the Effects of Identity Theft</a></li>
 			<li><a href="/files/fcra/notice-to-furnishers-2013.docx">Notice to Furnishers of Information</a></li>
+			<li><a href="/files/fcra/2014-compliance-packet-employment-with-credit.pdf">2014 Compliance Packet - Employment with credit</a></li>
 		</ul>
 	</div>
 	<div class="span4">
