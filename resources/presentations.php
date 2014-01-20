@@ -7,6 +7,12 @@
 </div>
 <div class="row">
 	<div class="span8 cushycms">
+
+		<h3>Finding a Seat at the Table</h3>
+ 		<p>Participants in the session will learn how to broaden their view of organizational strategy to be more in line with CEOs and CFOs. Participants will learn how to identify specific areas where their knowledge and ability can be leveraged to improve their strategic value to their organization. They will also learn how to identify key organizational performance drivers where more in depth knowledge can improve their ability to make an important strategic contribution.</p>
+ 		<p><a href="/files/presentations/finding-a-seat-at-the-table.pdf">Download Finding a Seat at the Table (PDF)</a></p>
+
+
 		<h3>Inquirehire HR Learning Series</h3>
 		<p><a href="/files/presentations/Inquirehire-HR-Learning-Series.doc">Inquirehire HR Learning Series (DOC)</a></p>
 
