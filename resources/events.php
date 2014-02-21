@@ -21,15 +21,6 @@
 			Location: Quincy, IL<br/>
 			Topic: How HR Can Have a Larger Role in Setting Strategy<br/>
 			Speaker: Alan Kinsey</p>
-
-			 
-		<h4>January 28, 2014</h4>
-		<p>Event: Rock River Human Resources Association Chapter Meeting<br/>
-			Sponsor: Rock River HRA<br/>
-			Location: Dixon, IL<br/>
-			Topic: To Be Determined<br/>
-			Speaker: Alan Kinsey<p>
-
 			 
 		<h4>February 5, 2014</h4>
 		<p>Event: Alabama Bankers Association HR Conference<br/>
@@ -65,7 +56,13 @@
 			Topic: Advanced Screening Techniques<br/>
 			Speaker: Alan Kinsey</p>
 
-			 
+		<h4>March 25, 2014</h4>
+		<p>Event: Rock River Human Resources Association Chapter Meeting<br/>
+			Sponsor: Rock River HRA<br/>
+			Location: Dixon, IL<br/>
+			Topic: To Be Determined<br/>
+			Speaker: Alan Kinsey<p>
+
 
 		<h4>May 9, 2014</h4>
 		<p>Event: West Central Wisconsin SHRM Chapter Meeting<br/>
