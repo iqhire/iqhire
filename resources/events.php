@@ -21,7 +21,7 @@
 			Location: Quincy, IL<br/>
 			Topic: How HR Can Have a Larger Role in Setting Strategy<br/>
 			Speaker: Alan Kinsey</p>
-			 
+
 		<h4>February 5, 2014</h4>
 		<p>Event: Alabama Bankers Association HR Conference<br/>
 			Sponsor: Alabama Bankers Association<br/>
@@ -31,14 +31,12 @@
 
 
 		<h4>February 13, 2014</h4>
- 
+
 		<p>Event: Cyclone Area SHRM Chapter Meeting<br/>
 			Sponsor: Cyclone Area Chapter of SHRM<br/>
 			Location: Ames, IA<br/>
 			Topic: How HR Can Have a Larger Role in Setting Strategy<br/>
 			Speaker: Alan Kinsey</p>
- 
-			 
 
 		<h4>March 18, 2014</h4>
 		<p>Event: Great River HR Association Chapter Meeting<br/>
@@ -46,8 +44,6 @@
 			Location: Davenport, Iowa<br/>
 			Topic: Advanced Screening Techniques<br/>
 			Speaker: Alan Kinsey</p>
-
-			 
 
 		<h4>March 19, 2014</h4>
 		<p>Event: Central Illinois SHRM Chapter Meeting<br/>
@@ -71,6 +67,12 @@
 			Topic: Advanced Screening Techniques<br/>
 			Speaker: Alan Kinsey</p>
 
+    <h4>May 13, 2014</h4>
+    <p>Event: HRMA of West Central Missouri Chapter Meeting<br/>
+      Sponsor: HRMA of West Central Missouri<br/>
+      Location: Sedalia, MO<br/>
+      Topic: Top 10 Background Check Mistakes<br/>
+      Speaker: Alan Kinsey</p>
 
 		<h4>June 17, 2014</h4>
 		<p>Event: HRMA of Northwest Missouri Chapter Meeting<br/>
