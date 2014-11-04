@@ -73,6 +73,13 @@
 					<p class="attribution">Marcie Van Note, VP - Human Resources, Girl Scouts</p>
 				</blockquote>
 			</div>
+			<div class="quote">
+				<!--<img src="/img/headshot-marcie.jpg" alt="Marcie Van Note" class="headshot" />-->
+				<blockquote>
+					<p class="quote">“With bank branches and loan offices in several states I have worked with scores of  businesses that supplied goods and services to the bank and you and your staff are right at the top of my list for fast, accurate, friendly service. It has been a great pleasure working with everyone there.”</p>
+					<p class="attribution">Rick Mineck, VP - Human Resources, Valley Bank</p>
+				</blockquote>
+			</div>
 		</div>
 	</div>
 </section>
