@@ -31,9 +31,15 @@
 			<li><a href="/files/fcra/notice-to-users-of-consumer-reports-2013.docx">Notice To Users of Consumer Reports</a></li>
 			<li><a href="/files/fcra/remedying-the-effects-of-identity-theft-2013.docx">Remedying the Effects of Identity Theft</a></li>
 			<li><a href="/files/fcra/notice-to-furnishers-2013.docx">Notice to Furnishers of Information</a></li>
-			<li><a href="/files/fcra/2014-compliance-packet-employment-with-credit.pdf">2014 Compliance Packet - Employment with credit</a></li>
+			<li><a href="/files/fcra/2015-compliance-packet-employment-with-credit.pdf">2014 Compliance Packet - Employment with credit</a></li>
       <li><a href="/files/fcra/ia-adult-and-child-abuse-registry-forms.pdf">Iowa Adult and Child Abuse Registry Forms</a></li>
-      <li><a href="/files/fcra/2014-revised-da-form.doc">Disclosure &amp; Authorization</a></li>
+      <li><a href="/files/fcra/disclosure-and-authorization-nov-2015.doc">Disclosure &amp; Authorization</a></li>
+		</ul>
+
+		<h2>En Español</h2>
+		<ul>
+			<li><a href="/files/fcra/adverse-action-notice-2015--spanish.doc">Adverse Action Notice (en Español)</a></li>
+			<li><a href="/files/fcra/pre-adverse-action-notice-2015--spanish.doc">Pre-Adverse Action Notice (en Español)</a></li>
 		</ul>
 	</div>
 	<div class="span4">

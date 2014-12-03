@@ -12,10 +12,10 @@
 		<h2>Key Provisions of the FCRA</h2>
 		
 		<div class="hr">		
-			<h3>Written Notice and Authorization</h3>
+			<h3>Written Disclosure &amp; Authorization</h3>
 			<p>Before you can request a consumer report for <a href="/resources/glossary#employment_purposes">employment purposes</a>, you must notify the individual in writing in a document consisting solely of this notice that a report may be used. You also must get the person's written authorization before you request the report.</p>
-			<p><a class="btn" href="/files/fcra/main-disclosure-and-authorization-2012.pdf"><i class="icon-download"></i> Download Authorization Form</a>
-				<a class="btn" href="/files/fcra/tenant-disclosure-and-authorization-2012.pdf"><i class="icon-download"></i> Download Tenant Form</a></p>
+			<p><a class="btn" href="/files/fcra/disclosure-and-authorization-nov-2015.doc"><i class="icon-download"></i> Download Authorization Form</a>
+				<a class="btn" href="/files/fcra/disclosure-and-authorization-tenant-nov-2015.doc"><i class="icon-download"></i> Download Tenant Form</a></p>
 		</div>
 		
 		<div class="hr">
