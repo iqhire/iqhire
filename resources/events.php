@@ -16,12 +16,20 @@
 			Speaker: Alan Kinsey</p>
 
 			 
+		<h4>March 6, 2015</h4>
+		<p>Event: IL Bankers Association ONE Conference<br/>
+			Sponsor: IL Bankers Association<br/>
+			Location: East Peoria, IL<br/>
+			Topic: Finding a Seat at the Table<br/>
+			Speaker: Alan Kinsey</p>
+
 		<h4>March 10, 2015</h4>
 		<p>Event: HRMA of West Central Missouri Chapter Meeting<br/>
 			Sponsor: HRMA of West Central Missouri<br/>
 			Location: Sedalia, Missouri<br/>
 			Topic: Advanced Screening Techniques<br/>
 			Speaker: Alan Kinsey</p>
+
 
 	</div>
 	<div class="span4">
