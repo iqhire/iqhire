@@ -31,6 +31,13 @@
 			Speaker: Alan Kinsey</p>
 
 
+		<h4>March 12, 2015</h4>
+		<p>Event: Metro East Illinois SHRM Chapter Meeting<br/>
+			Sponsor: : Metro East Illinois SHRM<br/>
+			Location: Collinsville, Illinois<br/>
+			Topic: Top 10 Background Check Mistakes<br/>
+			Speaker: Alan Kinsey</p>
+
 	</div>
 	<div class="span4">
 		<ul class="nav">
