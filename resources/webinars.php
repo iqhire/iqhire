@@ -7,8 +7,8 @@
 </div>
 <div class="row">
 	<div class="span8 cushycms">
-		<p class="intro">Inquirehire offers free, educational webinars designed to help employers stay abreast of the latest trends and best practices being utilized in today&rsquo;s hiring process. Each webinar is structured to last no more than 45 minutes so employers can work them into their busy schedules.</p>
-
+		<p class="intro">Inquirehire offers free, educational webinars designed to help employers stay abreast of the latest trends and best practices being utilized in today’s hiring process. Each webinar is structured to last no more than 30 minutes so employers can work them into their busy schedules.</p>
+		<p>If you would like a custom webinar for your staff or organization, please contact solutionsupport@inquirehire.com or click the button below.</p>
 
 		<h3>Layers of Protection</h3>
 		<p>Criminal records are stored in a variety of jurisdictions and repositories, and no single search can provide a full and comprehensive view of an applicant's prior criminal record. This webinar reviews the essential components of a criminal record check including where criminal records are stored, the key differences in sources of information and how to design a criminal record check protocol that properly protects your organization.</p>
@@ -18,7 +18,7 @@
 			Duration: 45 minutes</p>
 		<form action="webinar-signup" method="post" accept-charset="utf-8">
 			<input type="hidden" name="webinar" value="Layers of Protection" id="webinar">
-			<p><input type="submit" value="Sign Up for this Webinar" class="button"></p>
+			<p><input type="submit" value="Request a Webinar" class="button"></p>
 		</form>
 
 
@@ -30,7 +30,7 @@
 			Duration:  30 minutes</p>
 		<form action="webinar-signup" method="post" accept-charset="utf-8">
 			<input type="hidden" name="webinar" value="Advanced Employment Screening – Social Media" id="webinar">
-			<p><input type="submit" value="Sign Up for this Webinar" class="button"></p>
+			<p><input type="submit" value="Request a Webinar" class="button"></p>
 		</form>
 
 
@@ -42,7 +42,7 @@
 			Duration: 30 minutes</p>
 		<form action="webinar-signup" method="post" accept-charset="utf-8">
 			<input type="hidden" name="webinar" value="Advanced Employment Screening – Professional Reference Checks" id="webinar">
-			<p><input type="submit" value="Sign Up for this Webinar" class="button"></p>
+			<p><input type="submit" value="Request a Webinar" class="button"></p>
 		</form>
 
 		
