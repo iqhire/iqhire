@@ -38,6 +38,13 @@
 			Topic: Top 10 Background Check Mistakes<br/>
 			Speaker: Alan Kinsey</p>
 
+        <h4>June 18,  2015</h4>
+        <p>Event: Racine-Kenosha SHRM Chapter Meeting<br/>
+            Sponsor: SHRM Racine and Kenosha Area Chapter<br/>
+            Location: Kenosha, WI<br/>
+            Topic: Finding a Seat at the Table<br/>
+            Speaker: Alan Kinsey</p>
+        
 	</div>
 	<div class="span4">
 		<ul class="nav">
