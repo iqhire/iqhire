@@ -1,0 +1,1 @@
+eScreen, Inc. is a technology-enabled Third-Party Administrator that provides next-generation employment screening applications for hiring and maintaining efficient workforces. eScreen reduces program costs, incorporates a paperless process, and automates compliance management.

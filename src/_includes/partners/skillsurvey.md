@@ -1,0 +1,3 @@
+SkillSurvey was formed in 2001 to help organizations around the world make better hiring decisions more efficiently and cost-effectively.
+
+The premise behind our enterprise solution is that traditional phone reference-checks are an outmoded and inadequate way for recruiters and hiring managers to seek objective feedback on a job candidate's past performance.  Our clients believe that it is much better to gather a "360-degree" assessment of a candidate's behaviors, skills and developmental needs, by using a survey that operates automatically and all through email.</p>

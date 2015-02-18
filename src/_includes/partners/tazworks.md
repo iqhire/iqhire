@@ -1,0 +1,1 @@
+InstaScreen Premiere 2.0™ meets and exceeds the diverse background screening requirements of the business, property management, volunteer organization, student/intern, and healthcare industries.  Our Simple. Powerful.™ technology ensures that no matter the market segment, your clients receive accurate data quickly, securely, and in an easy-to-understand format.

@@ -1,0 +1,27 @@
+- id: escreen
+  name: eScreen
+  url: http://www.escreen.com
+
+- id: honkamp
+  name: "Honkamp Krueger & Co., P.C."
+  url: http://www.honkamp.com
+
+- id: hrtesting
+  name: HR Testing
+  url: http://www.hrtesting.com
+
+- id: jobtarget
+  name: JobTarget
+  url: http://www.jobtarget.com
+
+- id: peoplestrategy
+  name: PeopleStrategy
+  url: http://www.peoplestrategy.com/
+
+- id: skillsurvey
+  name: SkillSurvey
+  url: http://www.skillsurvey.com
+
+- id: tazworks
+  name: TazWorks
+  url: http://www.tazworks.com
