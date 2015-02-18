@@ -6,3 +6,5 @@ node_modules
 build
 .sass-cache/
 src/assets/css/styles.css
+src/assets/css/vendor/jeet/.svn
+
