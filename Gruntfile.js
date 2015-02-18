@@ -8,7 +8,7 @@ module.exports = function(grunt) {
     // =====================================
     autoprefixer: {
       target: {
-        src: './src/css/*.css'
+        src: './src/assets/css/*.css'
       }
     },
 
@@ -17,6 +17,9 @@ module.exports = function(grunt) {
     clean: {
       dev: {
         src: [ './build/dev' ]
+      },
+      stage: {
+        src: [ './build/stage' ]
       },
       prod: {
         src: [ './build/prod']
@@ -54,8 +57,8 @@ module.exports = function(grunt) {
     // =====================================
     copy: {
       css: {
-        src: './src/css/styles.css',
-        dest: './build/dev/css/styles.css',
+        src: './src/css/assets/styles.css',
+        dest: './build/dev/assets/css/styles.css',
       },
     },
 
@@ -64,9 +67,18 @@ module.exports = function(grunt) {
     // =====================================
 
     'ftp-deploy': {
+      stage: {
+        auth: {
+          host: 'staging.inquirehire.com',
+          port: 21,
+          authKey: 'staging-key'
+        },
+        src: './build/prod',
+        dest: 'html/',
+      },
       prod: {
         auth: {
-          host: 'recreant.net',
+          host: 'inquirehire.com',
           port: 21,
           authKey: 'production-key'
         },
@@ -84,7 +96,7 @@ module.exports = function(grunt) {
         files: [{
           expand: true,
           cwd: 'src/',
-          src: ['img/**/*.{png,jpg,gif}'],
+          src: ['assets/img/**/*.{png,jpg,gif}'],
           dest: 'src/'
         }]
       }
@@ -98,6 +110,12 @@ module.exports = function(grunt) {
         options: {
           src: './src',
           dest: './build/dev'
+        }
+      },
+      stage: {
+        options: {
+          src: './src',
+          dest: './build/stage'
         }
       },
       prod: {
@@ -117,7 +135,15 @@ module.exports = function(grunt) {
             style: 'compact'
         },
         files: {
-            './src/css/styles.css': './src/css/styles.sass'
+            './src/assets/css/styles.css': './src/assets/css/styles.sass'
+        }
+      },
+      stage: {
+        options: {
+            style: 'compressed'
+        },
+        files: {
+            './src/assets/css/styles.css': './src/assets/css/styles.sass'
         }
       },
       prod: {
@@ -125,23 +151,10 @@ module.exports = function(grunt) {
             style: 'compressed'
         },
         files: {
-            './src/css/styles.css': './src/css/styles.sass'
+            './src/assets/css/styles.css': './src/assets/css/styles.sass'
         }
       }
     },
-
-
-    // Compress Javascript
-    // =====================================
-    uglify: {
-      prod: {
-        files: {
-          './build/prod/js/index.js': ['./build/prod/js/index.js'],
-          './build/prod/js/angular.headroom.js': ['./build/prod/js/angular.headroom.js']
-        }
-      }
-    },
-
 
     // Watch files for changes
     // =====================================
@@ -154,7 +167,7 @@ module.exports = function(grunt) {
         }
       },
       jekyll: {
-        files: ['./src/**/*.html', './src/**/*.md', './src/**/*.js', './src/**/*.yml'],
+        files: ['./src/**/*.html', './src/**/*.js', './src/**/*.md', './src/**/*.svg', './src/**/*.yml',],
         tasks: ['jekyll:dev'],
         options: {
           spawn: false,
@@ -170,12 +183,11 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-contrib-sass');
-  grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-ftp-deploy');
   grunt.loadNpmTasks('grunt-jekyll');
 
   grunt.registerTask('dev', ['clean:dev', 'sass:dev', 'autoprefixer', 'jekyll:dev', 'concurrent:dev']);
-  grunt.registerTask('prod', ['clean:prod', 'sass:prod', 'autoprefixer', 'jekyll:prod', 'uglify:prod']);
+  grunt.registerTask('prod', ['clean:prod', 'sass:prod', 'autoprefixer', 'jekyll:prod']);
 
 };

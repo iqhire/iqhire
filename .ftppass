@@ -2,5 +2,9 @@
   "staging-key": {
     "username": "",
     "password": ""
-  }
+  },
+  "production-key": {
+    "username": "",
+    "password": ""
+  },
 }

@@ -2,3 +2,7 @@
 css/.sass-cache/
 codekit-config.json
 _old-php
+node_modules
+build
+.sass-cache/
+src/assets/css/styles.css
