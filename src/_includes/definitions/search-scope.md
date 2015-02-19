@@ -1,0 +1,2 @@
+1. Of a search request: the period of time to be covered by that search, from starting date to through date;
+2. Of a search result: the period of time that was covered by that search, from starting date to through date.

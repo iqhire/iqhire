@@ -1,0 +1,23 @@
+---
+layout: page
+section-id: resources
+title: Events
+---
+
+<dd class="definitions">
+  {% for definition in site.data.definitions %}
+  <div class="definition">
+    <dt class="definition__title">{{ definition.term }}</div>
+    <dd class="definition__definition">
+      {% if definition.definition %}
+        {{ definition.definition }}
+      {% endif %}
+      {% if definition.markdown %}
+        {% capture mdpath %}definitions/{{ definition.id }}.md{% endcapture %}
+        {% capture md %}{% include {{mdpath}} %}{% endcapture %}
+        {{ md | markdownify }}
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</dd>

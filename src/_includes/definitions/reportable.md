@@ -1,0 +1,2 @@
+1. Refers to which results can be legally reported to an End-User—the standard being whether the information complies with applicable law, such as the FCRA and state consumer reporting laws;
+2. From a Research Provider’s perspective, unusable records are typically considered or referred to as “unreportable” in the context of a criminal search (unless specifically negotiated for by their customer).

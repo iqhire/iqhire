@@ -1,0 +1,437 @@
+- term: "Adjudication"
+  definition: "The ability to automate a judgment based on background screening outcome. This judgment often results in “meets requirements” or “does not meet requirements” outcome. Once adjudication takes place automatic distribution and/or adverse action can occur."
+
+- term: "Adjudication Withheld – Non-conviction"
+  definition: "The court does not give a final judgment regarding the case. The defendant is given probation, a program or community service in which they have a specified amount of time to complete. If the defendant complies, the case may be dismissed, depending on the county/state. If they do not dismiss in that particular county / state, then the disposition remains adjudication withheld and the case is closed. However, if the defendant is found in violation, the case disposition may be changed and the defendant can be found guilty."
+
+- term: "Admitted Record"
+  definition: "A record the subject has admitted to having. Admitted record information can prove valuable for the research provider in conducting a search, and ideally customers would include any such information up front with their search requests as matter of course."
+
+- id: adverse-action
+  term: "Adverse Action"
+  definition: "The term adverse action means: 1) a denial or cancellation of, an increase in any charge for, or a reduction or other adverse or unfavorable change in the terms of coverage or amount of, any insurance, existing or applied for, in connection with underwriting of insurance; 2) a denial of employment or any other decision for employment purposes that adversely affects any current or prospective employee; or 3) a denial or cancellation of, an increase in any change for, or any other adverse or unfavorable change in the terms of, any license or benefit described in Section 604, Subsection (A), Subsection (3), Subsection (D)."
+
+- term: "Applicant"
+  definition: "The subject of the inquiry—a job applicant or current employee who is the subject of an employment verification or reference."
+
+- term: "Applicant Tracking System (ATS)"
+  definition: "Any software program, that manages both an organization’s job posting and data collection (i.e., resume/applications) process to efficiently process prospective applicants. Generally feature rich to handle various aspects of the hiring cycle."
+
+- term: "ATS"
+  definition: "See Applicant Tracking System"
+
+- term: "Authorization &amp; Disclosure"
+  definition: "Utilized as defined in FCRA section 604: Permissible purpose of consumer reports."
+
+- term: "Available Record"
+  definition: "Any record which has not been lost, sealed, expunged, destroyed or otherwise rendered unavailable for public viewing."
+
+- term: "Bulk Criminal History Data"
+  definition: "Large numbers of offenders’ records usually provided in an electronic format."
+
+- term: "Call History"
+  definition: "A record, made at or about the time of each call, of whom made the call, when the call was made, the results of the call, if there is any delay in making or completing a verification or reference, the reasons why, the efforts made to complete the assignment and any future date in which an event is expected to occur."
+
+- term: "Central Abuse Registry"
+  definition: "Iowa: The Iowa Central Abuse Registry is a handled by Dept of Human Services. As a third party we can fax in a request to search the Dependent Adult Abuse Registry and or the Child Abuse Registry on behalf of companies but they don’t have to be qualified entities. However, the applicant must sign a specific form for each of those searches."
+
+- term: "Central Court"
+  definition: "In counties with multiple courts that include smaller, local, lower level, outlying or remote municipal or justice-of-the-peace courts, the Central Court is considered that court in which felonies and most misdemeanors are adjudicated. The Central Court index may not include all cases that can be found in these smaller local courts, as such courts may not report all convictions to the Central Court—or 'County Seat' Court as it is sometimes referred to."
+
+- term: "Code of Federal Regulations (CFR)"
+  definition: "The codification of the general and permanent rules and regulations published by the executive departments and agencies of the Federal Government of the United States."
+
+- term: "Collection site"
+  definition: "A place selected by the employer where employees present themselves for the purpose of providing a urine specimen for a drug test."
+
+- term: "Common Name"
+  definition: "Any name that is found to have a Matching Logic of Partial Name Match Only or Full Name Match Only with at least 5 different subjects listed on any single Predominately Used Index. For example, if the research provider is given a Robert L. Smith to check on an index with no DOBs, and discovers at least five different listings for a Robert Smith with no middle, Robert L. Smith would constitute a Common Name on that index. "
+
+- term: "Common Search"
+  definition: "See Seven-Year Search."
+
+- term: "Common Search Guideline"
+  definition: "A formal, written guideline specifically outlining how a common search is to be performed. Such a guideline could be originated by the research provider or the customer. A provider’s Common Search Guideline is equivalent to a description of their default search product for a common search, which, when disclosed, provides their customer with an expectation of how that provider will perform their common search requests. "
+
+- term: "Conditional Discharge – Non-conviction"
+  definition: "The defendant has no finding of guilt. The court is discharging him/her from trial on special conditions that they must follow. If they do not abide by these conditions, the discharge may be revoked and the finding may become guilty."
+
+- term: "Consent Decree"
+  definition: "Relating to juvenile offenses, the State/Child has proposed that proceedings in this matter be continued for purposes of entering into what is called a consent decree. There is no determination of guilt of innocence on the petition and no finding or adjudication of delinquency. Instead the case would be continued for 6 months on the terms and conditions of the consent degree. If a child successfully completes all terms and conditions of the decree, the case would be dismissed."
+
+- term: "Consumer"
+  definition: "A consumer, for our purposes, is the applicant or employee on whom background information is being gathered. "
+
+- id: consumer-report
+  term: "Consumer Report"
+  markdown: true
+
+- id: consumer-reporting-agency
+  term: "Consumer Reporting Agency (CRA)"
+  definition: "Any person which, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports."
+
+- term: "CRA"
+  definition: "See Consumer Reporting Agency"
+
+- term: "Credentialing"
+  definition: "The process of obtaining and reviewing documentation (licensure, certifications, insurance, et cetera) provided by individuals, businesses or organizations. Generally this will include reviewing the information provided by the source and verifying that the information is accurate and complete."
+
+- term: "Cryptography"
+  definition: "A field of mathematics and computer science concerned with information security and related issues, particularly encryption and authentication."
+
+- term: "Cryptographic protocol"
+  definition: "An abstract or concrete protocol that performs a security-related function and applies cryptographic methods. Cryptographic protocols are widely used for secure application-level data transport"
+
+- term: "Customer"
+  definition: "The direct client of a Research Provider—either a Retail Screening Company or another Research Provider, but not an End-User. "
+
+- term: "Database Provider"
+  definition: "a CRA that is engaged in the collection, management, and distribution of public records data via an on-line computerized database."
+
+- term: "Dead Docket – Non-conviction"
+  definition: "Often seen in Fulton, Georgia, there is not enough evidence that shows the defendant is guilty or that he is innocent. The case is set aside. If not brought back up, case is closed."
+
+- term: "Default Search Product"
+  definition: "The search product the research provider will, by default, routinely perform for any given customer unless specifically negotiated with to do otherwise (see enhanced search product). A provider’s rates would typically be based upon their default search products (see default search product rate). "
+
+- term: "Default Search Product Rate"
+  definition: "The rate a research provider charges for their default search product."
+
+- term: "Deferred judgment"
+  definition: "Occurs after you admit to all or part of the charges against you but before that plea is entered on the record. You are not sentenced and instead serve a period of probation, deferring judgment. In some states like Maryland, this is called probation before judgment (PBJ). NOTE: The implementation for deferred judgment/deferred prosecution programs vary widely from state to state, and even between courts in the same state."
+
+- term: "Deferred prosecution"
+  definition: "Does not require a guilty plea. You are simply required to serve the probation before you are taken to court on the charges. NOTE: The implementation for deferred judgment/deferred prosecution programs vary widely from state to state, and even between courts in the same state."
+
+- term: "Derogatory Information"
+  definition: "A result that could be classified as adverse to the subject under FCRA or other applicable laws. "
+
+- term: "Disposition"
+  definition: "The court’s final determination or adjudication of a criminal charge. "
+
+- term: "Disposition Date"
+  definition: "The date of final adjudication - i.e., either the date of conviction or the date of dismissal or acquittal. "
+
+- term: "DMV"
+  definition: "Department of Motor Vehicle."
+
+- term: "DPPA"
+  definition: "Drivers Privacy Protection Act."
+
+- term: "Due Diligence"
+  definition: "Diligence is defined as vigilant activity, attentiveness or care, of which there are infinite shades, from the slightest momentary thought to the most vigilant anxiety. Due Diligence is defined as reasonable care or attention to a matter, which is good enough to avoid a claim of negligence, or is a fair attempt (as in due diligence in a process server’s attempt to locate someone). "
+
+- term: "Educational Verification"
+  definition: "Contacting an educational institution to verify an applicant's past or current attendance and completion of any degree or certificate. Schools can include colleges or universities, secondary schools, or trade or vocational schools."
+
+- term: "EEOC: Equal Employment Opportunity Commission"
+  definition: "The federal agency responsible for administration of several statutes that prohibit discrimination; has power to subpoena witnesses, issue guidelines that have the force of law, render decisions, provide technical assistance to employers, and provide legal assistance to complainants."
+
+- id: employment-purposes
+  term: "Employment Purposes"
+  definition: "The term “employment purposes”, when used in connection with a Consumer Report, means a report used for the purpose of evaluating a consumer for employment, promotion, reassignment or retention as an employee."
+
+- term: "Employment Reference"
+  definition: "Obtaining qualitative information from a past or current employer typically dealing with job performance and/or workplace behavior. Examples of such information include questions about the quality of a job applicant’s work, attendance, leadership potential, areas of improvement, etc. Reference Questions are generally defined under the Federal Fair Credit Reporting Act (FCRA) as an Investigative Consumer Report section 606."
+
+- term: "Employment Verification"
+  definition: "Obtaining factual information from a past or current employer, such as job title, start date, end date, and salary if the employer will provide such."
+
+- term: "Encryption"
+  definition: "The act of fact of converting computer data and messages to something incomprehensible by means of a key, so that it can be reconverted only by and authorized recipient holding the matching key."
+
+- term: "Enhanced Search Product"
+  definition: "Any search product a research provider is willing or able to provide which surpasses the depth, level or scope of their default search product. An example of an enhanced search product might be an extended search or unlimited search, where that provider’s default search product is limited to a seven or ten year search. Another example might be the routine inclusion of copies on any criminal records found, where that provider’s default search product does not include such copies. An enhanced search product would not necessarily be provided by default to any given customer—unless that customer specifically requested such and negotiated with their researcher to obtain it. (Compare with default search product.) "
+
+- term: "End-User"
+  definition: "The entity—typically an employer in the case of employment screening, a property owner in the case of tenant screening—that originally requests and ultimately receives the qualified search results in the form of a consumer report. "
+
+- term: "Et seq."
+  definition: "A Latin abbreviation meaning 'and the following.' Here it specifically refers to a statutory section or subsection and the sections or subsections that follow it. "
+
+- term: "ETA: Estimated Time of Arrival"
+  definition: "Defined here as the time or date by which a search is estimated to be completed and delivered to the customer. An ETA by definition is not a guarantee, but rather an estimate—particularly in view of the fact that public record agencies can impose access barriers or delays beyond the control of a provider. "
+
+- term: "Expunged and Sealed Records"
+  definition: "Those consumer criminal records that are deemed not reportable by the jurisdiction."
+
+- term: "Extended Search"
+  definition: "Any search with a search scope that extends beyond 7-10 years."
+
+- term: "Fair Credit Reporting Act"
+  definition: "The federal law of the United States that regulates the collection, dissemination and use of consumer credit information. It regulates entities in the business of providing reports on consumers’ credit standing, character and reputation (consumer reports). It should be noted that the Act has been expanded to regulate not only credit reports, as the name would suggest, but information derived from public records associated with consumers’ criminal records and civil litigation histories as well. In fact it would be more aptly named the Federal Fair Credit and Employment Reporting Act. "
+
+- term: "False Positives"
+  definition: "A consumer report that incorrectly reports negative information about a consumer, typically due to missing or incorrect personal identifiers, such as middle name, SSN, etc."
+
+- term: "FCRA"
+  definition: "See Fair Credit Reporting Act "
+
+- term: "Federal Trade Commission"
+  definition: "An independent agency of the United States government. One of its principal missions is the promotion of consumer protection. "
+
+- id: felony
+  term: "Felony"
+  markdown: true
+
+- term: "FTC"
+  definition: "See Federal Trade Commission"
+
+- term: "Full Name Match Only"
+  definition: "Only a full match of the subject’s name is established—with no additional matching identifiers also established, such as a DOB, DLN or SSN (see Matching Logic). "
+
+- term: "Furnishers of Information"
+  definition: "Anyone providing information about consumers to a CRA is considered a “furnisher” of information under the FCRA. "
+
+- term: "GLBA"
+  definition: "Gramm-Leach-Bliley Act"
+
+- term: "Guideline(s)"
+  definition: "An official recommendation indicating how something should be done or what sort of action should be taken in a particular circumstance. "
+
+- term: "Guilty in Absentia – Conviction"
+  definition: "The jury has found the defendant guilty without them having appeared in court."
+
+- term: "Identifier(s)"
+  definition: "Facts used to determine whether a public record belongs to a subject—e.g., full name, DOB (Date of Birth), SSN (Social Security Number), DLN (Driver’s License Number), address, gender, physical description, identifying marks, et cetera. "
+
+- term: "Ignored – Non-conviction"
+  definition: "The case never went to trial. It was ignored by the state."
+
+- term: "Illinois 410 Probation"
+  definition: "When you are sentenced to 1410 or 410 Probation, you plead guilty to the drug offense at the time of sentencing.  A Motion to Vacate your plea is entered and continued until the termination date.  Once you successfully complete your probation, your conviction is vacated, as if it never happened.  So, when someone runs your criminal record, it doesn't show a conviction. "
+
+- term: "Inquirehire"
+  definition: "The best pre-employment screening company in America "
+
+- term: "Investigation"
+  definition: "A systematic, minute and thorough attempt to ascertain the facts about something complex or hidden. It is often formal and official. In an investigation the investigator (who may, depending upon jurisdictional licensure requirements, be licensed as a private investigator) will develop independent leads and conduct independent inquires as the facts and situation warrant. Most Background Screening/Verification Companies are not conducting investigations but are providing verification services for the purpose of background screening. "
+
+- id: investigative-consumer-report
+  term: "Investigative Consumer Report"
+  definition: "The term investigative consumer report means a consumer report or portion thereof in which information on a consumer's character, general reputation, personal characteristics, or mode of living is obtained through personal interviews with neighbors, friends, or associates of the consumer reported on, or with others with whom he is acquainted or who may have knowledge concerning any such items of information. However, such information shall not include specific factual information on a consumer's credit record obtained directly from a creditor of the consumer or from a consumer reporting agency when such information was obtained directly from a creditor of the consumer or from the consumer."
+
+- term: "IP address"
+  definition: "In computer networking, an IP address (internet protocol address) is a unique number that devices use in order to identify and communicate with each other on a network. Any participating network device—including routers, computers, printers, internet fax machines, et cetera—must have its own unique IP address. The uniqueness of IP addresses makes it possible in many situations to track which computer has sent a message or engaged in some other activity on the Internet."
+
+- term: "Jurisdictions"
+  definition: "The areas from which criminal data was sourced."
+
+- term: "Literal Research"
+  definition: "The practice of neglecting similarities in identifiers found when performing research; pursuing full or exact identifier matches only. "
+
+- term: "Logistics"
+  definition: "See Search Logistics. "
+
+- term: "Malware"
+  definition: "Short for “malicious software”: software designed to infiltrate or damage a computer system without the owner's consent, commonly taken to include computer viruses, Trojan horses, spyware and adware."
+
+- term: "Matching Logic"
+  definition: "The use of identifiers provided with a search request to determine whether a record belongs to a subject. Retail Screening Companies are ultimately responsible for determining the level of Matching Logic that will meet FCRA rules before reporting a result. Strict Matching Logic should be applied, if possible, to Derogatory Information. There are three levels of Matching Logic: Partial Name Match Only, Full Name Match Only and Strict Match. "
+
+- term: "Medical Review Officer (MRO)"
+  definition: "A person who is a licensed physician and who is responsible for receiving and reviewing laboratory results generated by an employer's drug testing program and evaluating medical explanations for certain drug test results."
+
+- term: "Mention"
+  definition: "To mention a record or possible record means just that: to merely mention or disclose, in writing, the fact of its existence to the customer, as opposed to providing a formal record report on it. "
+
+- term: "Misdemeanor"
+  definition: "A lesser crime punishable by a fine and/or county jail time for up to one year. Misdemeanors are distinguished from felonies, which can be punished by a state prison term. They are tried in the lowest local court such as municipal, police or justice courts. Typical misdemeanors include: petty theft, disturbing the peace, simple assault and battery, drunk driving without injury to others, drunkenness in public, various traffic violations, public nuisances and some crimes which can be charged either as a felony or misdemeanor depending on the circumstances and the discretion of the District Attorney. Typically there are multiple classes of misdemeanors and that varies from state to state."
+
+- term: "Misdemeanor Intervention Program – Non-conviction"
+  definition: "A program designated only for misdemeanor offenses in which the defendant may comply to the conditions of the program in order to avoid conviction. "
+
+- term: "Motor Vehicle Report"
+  definition: "A report procured from a State Agency that contains information pertaining to a consumer’s driving status and driving record."
+
+- term: "MVR"
+  definition: "Motor Vehicle Record."
+
+- term: "NAPBS: National Association of Professional Background Screeners"
+  definition: "A non-profit trade association founded in 2003 to represent the interest of companies offering employment and background screening. "
+
+- term: "NAPBS Provider Data Security &amp; Privacy Guidelines"
+  definition: "Guidelines established by the NAPBS for Providers of information or technology to the Background Screening Industry, for the purpose of regulating the secure transportation, transmission, retention or disposal of the PII with which they are commonly entrusted. "
+
+- term: "National Research Provider"
+  definition: "See Research Providers. "
+
+- term: "Negative Result"
+  definition: "A result indicating a subject is clear of reportable records for the search type and jurisdiction searched. "
+
+- term: "Nolle Prosse – Non-conviction"
+  definition: "Latin for “Not Prosecuted.” This means there was not enough evidence to convict the defendant. The case is dropped."
+
+- term: "Nolo Contendre – Conviction"
+  definition: "Latin for “No Contest.” The defendant has pled no contest to the charges against him or her, therefore the court finds them guilty."
+
+- term: "Non-Adjudication of Guilt – Non-conviction"
+  definition: "Same as adjudication withheld."
+
+- id: non-readily-available-record
+  term: "Non-Readily Available Record"
+  markdown: true
+
+- term: "Normalized Database"
+  definition: "a database that has transformed data from multiple sources (e.g. agencies) into common formats, for the purpose of providing complete and accurate responses to queries."
+
+- term: "OFAC"
+  definition: "Office of Foreign Asset Control"
+
+- term: "Offender"
+  definition: "A consumer with a criminal record."
+
+- term: "Partial Name Match Only"
+  definition: "Only a partial match of the subject’s name is established—with no additional matching identifiers also established, such as a DOB, DLN or SSN (see Matching Logic). "
+
+- term: "Personally Identifiable Information (PII)"
+  definition: "“Personally identifiable information”, or “personally identifying information”, is any piece of information along with the consumer’s name which can potentially be used to uniquely identify, contact or locate a single person. PII can also be exploited by criminals to steal the identity of a person, among other crimes. "
+
+- term: "PII"
+  definition: "See Personally Identifiable Information"
+
+- term: "Positive Result"
+  definition: "A result indicating a subject has matching reportable records for the search type and jurisdiction searched."
+
+- term: "Possible Record"
+  definition: "A potential record requiring further research, due to the fact that it may or may not be a Strict Match with the subject, or may or may not otherwise be reportable. "
+
+- term: "Prayer for Judgment – Non-conviction"
+  definition: "Often seen in North Carolina, it falls under deferred prosecution, meaning the state did not prosecute. For example, with worthless checks it gives the defendant a chance to pay the check before being charged."
+
+- term: "Pre-employment screening"
+  definition: "Pre-employment screening services can include background screening, drug screening, skills assessment and behavioral assessment. A thorough background screen verifies important factual information about a prospective employee (i.e. identity, employment history, education credentials). It also helps gain critical information about an applicant’s character and past history that isn’t always apparent in an interview or application, such as criminal history, credit history, and driving record. "
+
+- term: "Pre-indexed"
+  definition: "A search request on a subject who has been pre-indexed has been pre-researched by the requestor, the requestor’s customer, et cetera, on either the same index (or some version thereof) that the provider is now being requested to search. While a pre-indexed search does not necessarily equate to prescreening (e.g., see salted search), all prescreened searches have by definition been pre-indexed. "
+
+- term: "Predominantly Used Index (PUI)"
+  definition: "That portion or portions of a county’s index at the Central Court which is commonly considered adequate to use exclusively in performing a Common Search. For example, in a county with three separate criminal index sections—such as: a section of the felony/misdemeanor index on computer which extends 10 years back; another section of the felony/misdemeanor index on microfiche which extends from 10 to 20 years back; and a felony-only index that extends 60 years back—only that 10 year section of the felony/misdemeanor index on computer would constitute the Predominantly Used Index, if indeed it is the section of public index predominately and exclusively used by the local research community to perform a Common Search in that county. Another example would be a county with a computer index that extends only 5 years back; then another microfiche index which extends from 5 to 10 years back; and a card index that extends 10 to 25 years back. The 5 year computer index plus the 5-10 year microfiche index would constitute the Predominantly Used Index, if indeed those are the sections of public index predominately and exclusively used by the local research community to perform a Common Search in that county. "
+
+- term: "Prescreened Search"
+  definition: "Any search on a subject that has been prescreened from a greater group of subjects, with the intent being to eliminate from that original group most or all subjects with Negative Results, so that only subjects with Positive Results need be submitted to the provider. If a subject has been prescreened the customer is fully expected to disclose the fact up front. A prescreened search is not to be confused with a salted search, or with a regular search on a subject who has admitted to having a record. (The customer’s inclusion with a regular search request of any additional information on the subject, obtained my means other than prescreening and simply meant to aid the provider in performing their search, would not constitute a prescreened search). "
+
+- term: "Prescreening"
+  definition: "See Prescreened Search. "
+
+- term: "Process Server"
+  definition: "The individual engaged to give legal notice to a person (defendant etc.) of a legal proceeding involving them, so as to enable that person to respond to the proceeding before the court. Usually the notice is furnished by delivering a set of court documents to the person to be served. "
+
+- term: "Pursue"
+  definition: "To pursue a possible record means just that: to pursue or further research it in order to discover more about it. "
+
+- term: "QuickApp"
+  definition: "Allows our clients to initiate orders by entering the applicant’s name and e-mail address. The applicant then receives an instructional e-mail and link to an online application. The online application is customizable and includes a disclosure authorization, digital signature, and input of the applicant identifiers or a secure SSL encrypted Internet connection. The applicant may then enter his or her own information after which the application is submitted and ready for processing in InstaScreen."
+
+- term: "Reasonable Procedures"
+  definition: "Procedures to assure maxim possible accuracy as defined in FCRA Section 607(b)."
+
+- term: "Regional Research Provider"
+  definition: "See Research Providers"
+
+- term: "Regular Search"
+  definition: "A search on a subject that has not been pre-indexed for any reason. A regular search is not to be confused with a prescreened or salted search. "
+
+- term: "Regularly Incurred Mandatory Court Fee(s)"
+  definition: "Any mandatory court fee regularly incurred by the research provider on behalf of their customer—e.g., a mandatory court clerk search fee regularly imposed by a court which does not allow direct public access to its index. "
+
+- term: "Reportability"
+  definition: "See Reportable"
+
+- id: reportable
+  term: "Reportable"
+  markdown: true
+
+- term: "Research Provider"
+  definition: "Research Providers for the Background Screening Industry are classified as follows: In-court, Regional, National and International. An In-Court Provider performs research directly, whether the region they directly cover is comprised of one county or five. A Mom & Pop would be considered an In-Court Research Provider so long as they perform research directly. A Regional Provider utilizes one or more In-Court Providers to cover any size region short of an entire nation. By contrast, a Mom &amp; Pop who hire one or more In-Court Providers to cover any portion of their region would re-classify as a Regional Provider. A National Provider utilizes In-Court and/or Regional Providers to cover an entire nation. An International Provider utilizes any of the above to provide coverage internationally. A Research Provider is not considered a Consumer Reporting Agency. "
+
+- term: "Reseller"
+  definition: "A CRA (generally an employment or tenant screening firm) who is purchasing data wholesale and is providing it to the end-user for the purpose of making an employment or rental decision under the FCRA."
+
+- term: "Responsible – Non-conviction"
+  definition: "The defendant is responsible for the payment of the fines or fees of the crime. They are not found in guilt, however, must pay what they are ordered. Often found on traffic tickets or minor violation. "
+
+- term: "Result"
+  definition: "Either the outcome of an index check on a subject (Index Result); the record information obtained on a subject (Case or Record Result); or both. "
+
+- term: "Retail Screening Company"
+  definition: "A company that conducts background checks using public records and other information to furnish a consumer report for an End-User (i.e. employer or property owner), in which capacity it must comply with the Federal Fair Credit Reporting Act (FCRA), under which a Retail Screening Company is considered a Consumer Reporting Agency (CRA). It is the ultimate responsibility of the screening company to ensure any information they provide to an End-User is in compliance with the FCRA and any other applicable consumer reporting laws (see NAPBS Criminal Research Provider Guideline #20). Taken from The Safe Hiring Manual by Lester S. Rosen, published by BRB Publications, Inc."
+
+- term: "Record Retrieval Request"
+  definition: "A request to retrieve case information, copies, et cetera on a record that is known to exist by the customer. In that a provider’s default search product rate is typically based on a regular search, it should be fully appreciated that the provider has a right to surcharge for a record retrieval request. A prescreened search that has been submitted in the guise of a regular search is nonetheless a record retrieval request in fact, and the provider has the right to surcharge their customer accordingly for it. "
+
+- term: "§1681s-2"
+  definition: "This designation references the section of the FCRA entitled “Responsibilities of furnishers of information to consumer reporting agencies”. "
+
+- term: "Salted Search"
+  definition: "A search on a subject that has been otherwise pre-indexed and found to have a legally reportable record, and as a quality assurance measure is now being requested of the unwitting provider in order to test their ability to discover and accurately report the known record. A salted search is not to be confused with a prescreened search or a regular search. "
+
+- id: screening-vs-investigation
+  term: "Screening vs. Investigation"
+  markdown: true
+
+- term: "Search Logistics"
+  definition: "The details about the manner in which a search was performed—e.g., the date the search as completed; the jurisdiction it was performed in; the type of search performed; the Search Scope; the key identifiers with which the search was conducted; et cetera. "
+
+- id: search-scope
+  term: "Search Scope"
+  markdown: true
+
+- term: "Second Chance Deferral Program (Illinois)"
+  definition: "The second chance program is designed for first-time offenders who are willing to take responsibility for their conduct and want to keep a felony conviction off their record.  The defendant must complete an intake interview, take an initial assessment tool, and if accepted complete the requirements placed upon them by the State's Attorney's Office.  The requirements are tailored to each case but often include community service hours, obtaining a high school diploma or G.E.D., completing counseling, writing a letter of apology to the victim, paying restitution, holding a full-time job. If the defendant completes the program, the charges are dismissed with prejudice."
+
+- term: "Sensitive Data"
+  definition: "Any information about the applicant obtained as a result of a verification or reference."
+
+- term: "Seven-Year Search"
+  definition: "Historically the Seven-Year Search is the most common and predominately requested search product in the Background Screening Industry. However it is not the only product. The Ten-Year Search is probably the second most commonly requested search product. There can be varying search scopes beyond a Ten-Year Search, extending up to an unlimited search. Research providers typically base their default search rates upon a Seven- to Ten-Year Search product, and commonly charge a per-year surcharge to search beyond that. "
+
+- term: "SING"
+  definition: "Iowa- The Single Contact Repository (SING) is an internet application developed and sponsored by the State Department of Administrative Services / Information Technology Enterprise that allows registered users to perform background checks on potential employees, volunteers, and students doing clinicals, from a single web screen. The application lets a user check Iowa criminal history, three abuse registries (child, dependent adult, and sex offender), and over 40 Public Health professional license types from one click on the screen."
+
+- term: "Skill Survey"
+  definition: "An automated tool for gathering 360° assessments from job candidates’ managers, peers, subordinates, clients, and business partners. The software then tabulates and charts the results so that you can compare candidates’ suitability using empirical data."
+
+- id: starting-date
+  term: "Starting Date"
+  markdown: true
+
+- term: "Stricken Off Leave – Non-conviction"
+  definition: "Often seen in Illinois, the case has been stricken off docket with the ability to reinstate at a later date if deemed that the case can be prosecuted. This is often because the prosecutors run out of time to prosecute."
+
+- term: "Strict Match"
+  definition: "At least two, and whenever possible three, matching subject identifiers are established. For example, a Name Match plus a DOB match would constitute a Strict Match (see Matching Logic)."
+
+- term: "Strong Password"
+  definition: "A password that is difficult to detect by both humans and computer programs, effectively protecting data from unauthorized access. A strong password consists of at least six characters (and the more characters, the stronger the password) that are a combination of letters, numbers and symbols (@, #, $, %, etc.) if allowed. Passwords are typically case-sensitive, so a strong password contains letters in both uppercase and lowercase. Strong passwords also do not contain words that can be found in a dictionary or parts of the user’s own name."
+
+- term: "Subject"
+  definition: "The applicant or employee on whom background information is being gathered. "
+
+- term: "Surcharges"
+  definition: "A research provider’s rates are typically based on their default search products. Surcharges may apply to additional services that extend beyond the depth, level or scope of their default search products (see enhanced search products)—such as an extended search; unlimited search; copies; rush requests; record retrieval requests; prescreened requests; pursuing possible records on common names; pursuing non-readily available records; rechecks not pursuant to a consumer dispute; et cetera. "
+
+- id: through-date
+  term: "Through Date"
+  markdown: true
+
+- term: "Title 15 U.S.C."
+  definition: "The U.S.C., or United States Code, is a compilation and codification of the general and permanent federal law of the United States. The code is made up of 50 distinct sections or “Titles”. Title 15 pertains to Commerce and Trade, under which the FCRA is to be found at §1681 et seq. "
+
+- term: "Title 16 CFR"
+  definition: "The CFR, or Code of Federal Regulations, is the codification of the general and permanent rules and regulations published by the executive departments and agencies of the Federal Government of the United States. The code is made up of 50 distinct sections or “Titles”. Title 16 pertains to Commercial Practices. "
+
+- term: "Traffic Court Cases"
+  definition: "Traffic court cases are just that—cases that are filed in a traffic court as opposed to a criminal court. Although sometimes traffic court cases are included on a criminal index, they are traffic court cases all the same, and are generally considered unusable records in the context of a criminal search. A traffic court case however is not to be confused with a traffic-related criminal record. "
+
+- term: "Unlimited Search"
+  definition: "A search with a search scope that minimally constitutes the subject’s DOB plus 18 years. "
+
+- term: "Unreportable"
+  definition: "Not reportable. See Reportable."
+
+- term: "Unusable Records"
+  definition: "Unusable records in the Background Screening Industry conventionally include: infraction cases; traffic court cases that happen to appear on a criminal index; and dismissed cases to some extent—although the latter should not be taken for granted as some customers may require dismissed records either be reported on or at least mentioned. "
+
+- term: "Verification"
+  definition: "A step during the due diligence process in which a specialist will attempt to confirm the validity of claims made by an applicant concerning their criminal history, education, licensure or experience using information provided to the CRA by the consumer. Most Background Screening/Verification Companies are not conducting investigations but are providing verification services for the purpose of background screening."
