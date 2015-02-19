@@ -7,4 +7,5 @@ build
 .sass-cache/
 src/assets/css/styles.css
 src/assets/css/vendor/jeet/.svn
-
+Gemfile.lock
+src/assets/css/styles.css.map
