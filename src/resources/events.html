@@ -1,17 +1,18 @@
 ---
 layout: page
+section-id: resources
 title: Events
 ---
 
 <div class="events">
   {% for event in site.data.events %}
   <ul class="event">
-    <li class="event__item--date">{{ event.date }}</h2>
-    <li class="event__item--name">{{ event.name }}</h2>
-    <li class="event__item--sponsor">{{ event.sponsor }}</h2>
-    <li class="event__item--location">{{ event.location }}</h2>
-    <li class="event__item--topic">{{ event.topic }}</h2>
-    <li class="event__item--speaker">{{ event.speaker }}</h2>
+    <li class="event__item--date">{{ event.date }}</li>
+    <li class="event__item--name">{{ event.name }}</li>
+    <li class="event__item--sponsor">{{ event.sponsor }}</li>
+    <li class="event__item--location">{{ event.location }}</li>
+    <li class="event__item--topic">{{ event.topic }}</li>
+    <li class="event__item--speaker">{{ event.speaker }}</li>
   </ul>
   {% endfor %}
 </div>
