@@ -1,0 +1,1 @@
+OFAC stands for the Office of Foreign Assets Control under the US Department of Treasury. OFAC manages and enforces economic and trade sanctions against targeted foreign countries, terrorists, narcotics traffickers, and weapons traders. OFAC has the ability to freeze foreign assets under US jurisdiction.

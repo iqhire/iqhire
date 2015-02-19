@@ -1,0 +1,1 @@
+Business acquisitions and mergers are becoming a common method for business expansion into new geographies or markets. All acquisitions involve the integration of personnel into a new organization. There may be hidden liabilities in the absorption of unfamiliar staff into a larger organization.

@@ -1,0 +1,1 @@
+Conducting an historical check of an applicant's prior worker's compensation claims can be an effective background investigation component for some positions. However there are a number of limitations that employers must be aware of before requesting and utilizing this information. 

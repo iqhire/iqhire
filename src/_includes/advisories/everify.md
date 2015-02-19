@@ -1,0 +1,1 @@
+Effective January 15, 2009, Federal contractors and subcontractors will be required to begin using the U.S. Citizenship and Immigration Services' E-Verify system to verify their employees' eligibility to legally work in the United States.

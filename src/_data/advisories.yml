@@ -1,0 +1,26 @@
+- id: everify
+  name: "E-Verify Federal and Sub-Contractor Rules"
+
+- id: shredding
+  name: "FCRA Compliance/Mandates Document Disposal"
+
+- id: acquisition
+  name: "Acquisitions"
+
+- id: healthcare
+  name: "HIPPA Requirements for Healthcare Providers"
+
+- id: fbi
+  name: "FBI Criminal Background Checks"
+
+- id: ofac
+  name: "OFAC Requirements for Auto Dealerships"
+
+- id: workers-comp
+  name: "Worker's Compensation Claims Check"
+
+- id: nonemployee-check
+  name: "Non-employee Background Checks"
+
+- id: false-education
+  name: "False Education Claims"

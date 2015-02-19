@@ -1,0 +1,1 @@
+The practice of lying in our society has become all too commonplace. In a recent study 42 percent of young people said "a person has to lie or cheat sometimes in order to get ahead." In a separate study, 95 percent of college-age respondents were willing to lie to get a job. 41 percent reported that they had already done so. 

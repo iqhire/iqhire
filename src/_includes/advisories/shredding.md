@@ -1,0 +1,1 @@
+On June 1, 2005, a new administrative rule came into effect under the Fair and Accurate Credit Transactions Act (FACTA). This rule requires every employer that employs one or more employees to follow a disposal rule to shred any and all documents that contain information derived from a credit report.

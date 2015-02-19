@@ -1,0 +1,1 @@
+Many employers have implemented an effective pre-employment screening program to minimize risk in their hiring process. However, employers still face another important question. What about contractors, temporary workers, or vendor personnel who have access to the workplace, business records, and IT systems?
