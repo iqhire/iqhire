@@ -1,0 +1,11 @@
+<div class="solutions">
+  {% for solution in site.data.solutions %}
+  {% if solution.page-id == page.id %}
+  <div class="solution">
+    <h2 class="solution__title">{{ solution.name }}</h2>
+    <div class="solution__description">{{ solution.description }}</div>
+    <div class="solution__cta"><a href="{{ solution.url }}">Learn More</a></div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
