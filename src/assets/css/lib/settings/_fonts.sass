@@ -1,0 +1,28 @@
+@mixin camingdos
+  font-family: "camingodos-web",sans-serif
+  font-style: normal
+  font-weight: 700
+
+@mixin nimbus($style:"normal", $weight:"regular")
+  font-family: "nimbus-sans",sans-serif
+
+  @if $style=="normal" and $weight=="regular"
+    font-style: normal
+    font-weight: 300
+
+  @else if $style=="italic" and $weight=="regular"
+    font-style: italic
+    font-weight: 300
+
+  @else if $style=="normal" and $weight=="bold"
+    font-style: normal
+    font-weight: 700
+
+  @else if $style=="italic" and $weight=="bold"
+    font-style: italic
+    font-weight: 700
+
+  @else
+    @warn "Hey Dorkus! `#{$style}` or `#{$weight}` are not a supported for mixin `proxima-nova`"
+    font-style: normal
+    font-weight: 300
