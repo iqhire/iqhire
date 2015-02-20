@@ -57,7 +57,7 @@ module.exports = function(grunt) {
     // =====================================
     copy: {
       css: {
-        src: './src/css/assets/styles.css',
+        src: './src/assets/css/styles.css',
         dest: './build/dev/assets/css/styles.css',
       },
     },
@@ -160,7 +160,7 @@ module.exports = function(grunt) {
     // =====================================
     watch: {
       css: {
-        files: ['./src/css/**/*.sass'],
+        files: ['./src/assets/css/**/*.sass'],
         tasks: ['sass', 'autoprefixer', 'copy'],
         options: {
           spawn: false,
