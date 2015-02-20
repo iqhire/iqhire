@@ -4,8 +4,6 @@ section-id: about
 title: About Inquirehire
 ---
 
-# About Inquirehire
-
 Inquirehire, is a leading provider of integrated hiring solutions for business, government and non-profit organizations. We offer our clients best in class solutions backed by in-depth subject matter expertise, innovative technology, and unparalleled service. This powerful combination enables our clients to transform and optimize their hiring process in order save time, money, and avoid costly hiring mistakes.
 
 ## Services
