@@ -1,7 +1,7 @@
 ---
 layout: page
-section-id: partners
 title: Partners
+id: partners
 ---
 
 <div class="partners">

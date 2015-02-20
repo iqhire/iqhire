@@ -1,7 +1,7 @@
 ---
 layout: page
-section-id: resources
 title: Legal and Compliance
+id: legal-and-compliance
 ---
 
 Use the following links to find information about the latest legal and compliance developments.

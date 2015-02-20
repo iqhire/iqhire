@@ -1,0 +1,17 @@
+<ul class="nav">
+{% for section in site.data.sections %}
+  <li class="nav__item"><a href="/{{ section.id }}" class="nav__link">{{ section.title }}</a>
+    <ul class="nav__sub">
+      {% for link in site.data.links %}
+      {% if link.section-id == section.id %}
+        {% if link.id == link.section-id %}
+          <li class="nav__item"><a href="/{{ section.id }}">{{ link.title }}</a></li>
+        {% else %}
+          <li class="nav__item"><a href="/{{ section.id }}/{{ link.id }}.html">{{ link.title }}</a></li>
+        {% endif %}
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>

@@ -1,10 +1,8 @@
 ---
 layout: page
-section-id: about
 title: Company History
+id: company-history
 ---
-
-# Company History
 
 In 1997, Inquirehire was established as a resource for those employers with a desire to identify high risk candidates with thorough, fast, and compliant background investigations.  It became Inquirehire’s mission to help employers avoid costly mistakes of a bad hiring decision.  Inquirehire has since evolved into an organization that helps manage and automate the entire hiring process while delivering the solutions that eliminate risk.
 

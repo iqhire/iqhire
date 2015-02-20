@@ -1,7 +1,7 @@
 ---
 layout: page
-section-id: resources
 title: Frequently Asked Questions
+id: faq
 ---
 
 The following are Frequently Asked Questions about our background investigations. If you would like to submit a question please email us and we will respond as soon as possible.

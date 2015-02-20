@@ -2,6 +2,7 @@
 layout: page
 section-id: about
 title: Company Values
+id: values
 ---
 
 # Values

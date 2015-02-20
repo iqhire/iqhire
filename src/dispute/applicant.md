@@ -1,7 +1,7 @@
 ---
 layout: page
-section-id: dispute
 title: Applicant Disputes
+id: applicant
 ---
 
 # Applicant Disputes

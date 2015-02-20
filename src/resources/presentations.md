@@ -1,7 +1,7 @@
 ---
 layout: page
-section-id: resources
 title: Presentations
+id: presentations
 ---
 
 ## Finding a Seat at the Table
