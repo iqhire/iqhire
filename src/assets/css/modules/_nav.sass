@@ -7,14 +7,29 @@
 
   ul li a
     display: block
-    border-bottom: 1px dotted lighten($gray, 50%)
+    border-bottom: 1px dotted $border-color
     padding: 0.5em
 
+.nav-sections
+  max-height: 0
+  overflow: auto
+
+  &.is-open
+    max-height: none
 
 .nav-sub
   max-height: 0
   overflow: auto
   background-color: #f6f6f6
 
-  .is-open &
+  &.is-open
     max-height: none
+
+.nav-menu
+  display: inline-block
+  padding: 0.5em
+  border: 1px solid $border-color
+  border-radius: 0.25em
+  font-size: rem(12)
+  text-transform: uppercase
+  line-height: 1

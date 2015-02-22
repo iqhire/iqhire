@@ -1,14 +1,14 @@
-- id: about
-  title: About
-
-- id: partners
-  title: Partners
-
-- id: resources
-  title: Resources
+- id: solutions
+  title: Solutions
 
 - id: services
   title: Services
 
-- id: solutions
-  title: Solutions
+- id: resources
+  title: Resources
+
+- id: partners
+  title: Partners
+
+- id: about
+  title: About
