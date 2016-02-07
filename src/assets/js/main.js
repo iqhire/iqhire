@@ -1,11 +1,11 @@
 $(document).ready(function(){
-  $(".nav-section").click(function(){
-    $(this).find(".nav-sub").toggleClass("is-open");
+  $(".js-nav-section > a").click(function(){
+    $(this).next().toggleClass("is-open");
     return false;
   });
 
-  $(".nav-menu").click(function(){
+  $(".js-nav-menu").click(function(){
     $(this).toggleClass("is-open");
-    $(".nav-sections").toggleClass("is-open");
+    $(".js-nav-sections").toggleClass("is-open");
   });
 });
