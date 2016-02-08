@@ -1,5 +1,7 @@
+$bp-nav-full: rem(960)
+
 .nav
-  
+
   ul
     margin: 0
     padding: 0
@@ -7,19 +9,30 @@
 
   ul li a
     display: block
-    border-bottom: 1px dotted $border-color
     padding: 0.5em
+    border-bottom: 1px dotted $border-color
+
+    @include bp($bp-nav-full)
+      border-bottom: 0
 
 .nav-sections
-  max-height: 0
   overflow: auto
+  max-height: 0
 
   &.is-open
     max-height: none
 
+  @include bp($bp-nav-full)
+    max-height: none
+
+.nav-section
+  @include bp($bp-nav-full)
+    display: inline-block
+
+
 .nav-sub
-  max-height: 0
   overflow: auto
+  max-height: 0
   background-color: #f6f6f6
 
   &.is-open
@@ -31,5 +44,8 @@
   border: 1px solid $border-color
   border-radius: 0.25em
   font-size: rem(12)
-  text-transform: uppercase
   line-height: 1
+  text-transform: uppercase
+
+  @include bp($bp-nav-full)
+    display: none
