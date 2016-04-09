@@ -1,10 +1,24 @@
+$bp-header-mid: rem(400)
+$bp-header-full: rem(840)
+
 .header
   display: flex
+  flex-direction: column
   padding: 1em
   border-bottom: 1px solid $border-color
 
+
+  @include bp($bp-header-mid)
+
+  @include bp($bp-header-full)
+    flex-direction: row
+    align-items: flex-end
+
 .header__logo
   flex-grow: 1
+
+  img
+    max-width: 100%
 
 .header__nav
   //- navigation
