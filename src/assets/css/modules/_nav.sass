@@ -14,7 +14,6 @@ $bp-nav-full: rem(840)
     border-bottom: 1px dotted $border-color
 
     @include bp($bp-nav-mid)
-      margin-bottom: -0.5em
       border-bottom: 0
 
 
@@ -43,9 +42,34 @@ $bp-nav-full: rem(840)
   max-height: 0
   background-color: #f6f6f6
 
+
   &.is-open
-    overflow: auto
+    overflow: inherit
     max-height: none
+
+    @include bp($bp-nav-mid)
+      &:before
+        content: ' '
+        position: absolute
+        bottom: 100%
+        left: 1em
+        width: 0
+        height: 0
+        border-style: solid
+        border-width: 0 0.5em 0.5em 0.5em
+        border-color: transparent transparent $border-color transparent
+
+    @include bp($bp-nav-full)
+      &:before
+        right: 1em
+        left: auto
+
+
+    @include bp($bp-nav-mid)
+      padding: 0.5em
+      border: 2px solid $border-color
+      border-radius: 0.125em
+
 
   @include bp($bp-nav-mid)
     overflow: auto
