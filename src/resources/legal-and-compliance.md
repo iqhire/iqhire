@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resource
 title: Legal and Compliance
 id: legal-and-compliance
 ---

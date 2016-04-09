@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resource
 title: Frequently Asked Questions
 id: faq
 ---

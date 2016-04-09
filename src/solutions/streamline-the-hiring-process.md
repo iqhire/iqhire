@@ -1,5 +1,5 @@
 ---
-layout: solutions
+layout: solution
 section-id: solutions
 id: streamline-the-hiring-process
 title: Simplify and Streamline the Hiring Process

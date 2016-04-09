@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resource
 title: Webinar Signup
 id: webinar-signup
 ---

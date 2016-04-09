@@ -1,5 +1,5 @@
 ---
-layout: solutions
+layout: solution
 section-id: solutions
 id: attract-better-candidates
 title: Attract Better Candidates

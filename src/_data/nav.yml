@@ -91,7 +91,7 @@
 
 # Partners
 
-- url: "/partners"
+- url: "/partners/index"
   title: "Our Partners"
   section-id: partners
 
@@ -126,7 +126,7 @@
 
 # About
 
-- url: "/about"
+- url: "/about/index"
   title: "About Us"
   section-id: about
 
@@ -145,4 +145,3 @@
 - url: "/about/contact"
   title: "Contact"
   section-id: about
-

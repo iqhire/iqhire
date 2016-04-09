@@ -1,5 +1,5 @@
 ---
-layout: solutions
+layout: solution
 section-id: solutions
 id: avoid-hiring-mistakes
 title: Avoid Hiring Mistakes

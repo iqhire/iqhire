@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resource
 title: FCRA Forms
 id: fcra-forms
 ---
@@ -9,7 +9,7 @@ The FCRA is designed primarily to protect the privacy of consumer report informa
 
 
 ## Key Provisions of the FCRA
-    
+
 ### Written Disclosure &amp; Authorization
 
 Before you can request a consumer report for [employment purposes][1], you must notify the individual in writing in a document consisting solely of this notice that a report may be used. You also must get the person's written authorization before you request the report.
@@ -20,18 +20,18 @@ Before you can request a consumer report for [employment purposes][1], you must 
 
 
 ### Adverse Action Procedures
-      
+
 If you take any [adverse action][4] based in whole or in part on information supplied by Inquirehire, you must do the following:
-      
+
 **Step 1**
-      
+
 Before you take the adverse action, you must give the individual a [pre-adverse action notice][5] that includes a copy of the individual's consumer report and a copy of [A Summary of Your Rights Under the Fair Credit Reporting Act][6] a document prescribed by the Federal Trade Commission. Inquirehire will provide you with the summary of consumer rights.
 
 [Download Pre-Adverse Action Notice][5]
 [Download Summary of Rights][6]
 
 **Step 2**
-      
+
 After you've taken an adverse action, you must give the individual notice orally, in writing, or electronically - that the action has been taken in an adverse action notice. It must include:
 
  - The name, address, and phone number of Inquirehire.
@@ -43,9 +43,9 @@ After you've taken an adverse action, you must give the individual notice orally
 
 
 ### Certifications to Consumer Reporting Agencies
-      
+
 Before giving you an individual's [consumer report][8], Inquirehire will require you to certify that you are in compliance with the FCRA and that you will not misuse any information in the report in violation of federal or state equal employment opportunity laws or regulations. A [Certification of Permissible Purpose form][9] needs to be completed and on file with Inquirehire.
-      
+
 [Download Certification of Permissible Purpose][9]
 
 
