@@ -4,6 +4,7 @@ $bp-header-full: rem(840)
 .header
   display: flex
   flex-direction: column
+  justify-content: space-between
   padding: 1em
   border-bottom: 1px solid $border-color
 
@@ -15,10 +16,11 @@ $bp-header-full: rem(840)
     align-items: flex-end
 
 .header__logo
-  flex-grow: 1
+  flex-shrink: 0
+  max-width: rem(400)
 
   img
     max-width: 100%
 
 .header__nav
-  //- navigation
+  //-
