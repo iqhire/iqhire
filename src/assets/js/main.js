@@ -1,6 +1,12 @@
 $(document).ready(function(){
   $(".js-nav-section > a").click(function(){
-    $(this).next().toggleClass("is-open");
+    var isOpen = $(this).next().hasClass("is-open");
+
+    $(".js-nav-sub").removeClass("is-open");
+
+    if (!isOpen) {
+      $(this).next().addClass("is-open");
+    }
     return false;
   });
 
