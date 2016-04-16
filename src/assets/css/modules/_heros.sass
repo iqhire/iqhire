@@ -8,7 +8,13 @@
 .hero
   display: none
   padding: 1em
-  max-width: 50%
+  max-width: 100%
+
+  @include bp(rem(600))
+    max-width: 60%
+
+  @include bp(rem(850))
+    max-width: 50%
 
   h1
     margin: 0

@@ -8,9 +8,19 @@
   background-repeat: no-repeat
   background-size: cover
   background-position: center
+  background-color: $background-tint
 
   &.is-showing--attract
-    background-image: url('/assets/img/home/attract.jpg')
+    @include bp(rem(600))
+      background-image: url('/assets/img/home/attract.jpg')
+
+  &.is-showing--avoid
+    @include bp(rem(600))
+      background-image: url('/assets/img/home/avoid.jpg')
+
+  &.is-showing--streamline
+    @include bp(rem(600))
+      background-image: url('/assets/img/home/streamline.jpg')
 
 .lo-hero__content
   flex-grow: 1
