@@ -1,5 +1,22 @@
 .quote
-  display: none
+  overflow: hidden
+  position: relative
+  max-height: 0
+  opacity: 0
+  transition: opacity 0.2s ease-in-out
 
   &.is-showing
-    display: block
+    overflow: auto
+    max-height: 100%
+    opacity: 1
+
+  &:before
+    content: 'change me'
+    position: absolute
+    top: 0
+    left: -1em
+
+
+.quote__attribution
+  font-size: rem(12)
+  margin-bottom: 0

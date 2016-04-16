@@ -38,6 +38,19 @@ $(document).ready(function(){
     return false;
   });
 
+  //- Home Page Quotes
+  setInterval(function(){
+
+    var quote = $(".js-quote.is-showing").removeClass('is-showing');
+
+    if (quote.next() && quote.next().length) {
+      quote.next().addClass("is-showing");
+    } else {
+      quote.siblings(":first").addClass("is-showing");
+    }
+  }, 9000)
+
+
 });
 
 function changeHeroBackground(hero) {
