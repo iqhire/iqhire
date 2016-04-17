@@ -7,14 +7,21 @@
   display: flex
 
 .lo-quote__wwd
-  width: 50%
-  padding-right: 3%
-  border-right: 1px solid $border-color
+  width: 100%
+
+  @include bp(rem(700))
+    width: 50%
+    padding-right: 3%
+    border-right: 1px solid $border-color
+
 
 .lo-quote__quotes
   width: 47%
   margin-left: 3%
   position: relative
 
-  display: flex
+  display: none
   align-items: center
+
+  @include bp(rem(700))
+    display: flex
