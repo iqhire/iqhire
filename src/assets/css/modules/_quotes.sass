@@ -1,21 +1,32 @@
+.quotes
+  position: relative
+
+  &:before
+    font-family: Times New Roman, serif
+    content: '“'
+    position: absolute
+    line-height: 0
+    top: 0.25em
+    left: -0.25em
+    font-size: rem(100)
+    opacity: 0.1
+
+
 .quote
   overflow: hidden
   position: relative
   max-height: 0
   opacity: 0
   transition: opacity 0.2s ease-in-out
+  font-size: rem(18)
+
+  blockquote
+    margin: 0
+    padding: 0
 
   &.is-showing
-    overflow: auto
     max-height: 100%
     opacity: 1
-
-  &:before
-    content: 'change me'
-    position: absolute
-    top: 0
-    left: -1em
-
 
 .quote__attribution
   font-size: rem(12)

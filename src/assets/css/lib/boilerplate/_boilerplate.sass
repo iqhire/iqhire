@@ -2,6 +2,11 @@ html
   color: $text-color
   font-size: 1em
   line-height: 1.4
+  box-sizing: border-box
+
+*, *:before, *:after
+  box-sizing: inherit
+
 
 ::-moz-selection
   background: $blue
@@ -31,6 +36,7 @@ img,
 svg,
 video
   vertical-align: middle
+  max-width: 100%
 
 // Remove default fieldset styles.
 
@@ -50,4 +56,3 @@ textarea
 
 h1, h2, h3, h4, h5, h6, hgroup, ul, ol, dd, p, figure, pre, table, fieldset, hr
   margin-bottom: 1.5rem
-
