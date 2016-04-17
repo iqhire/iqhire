@@ -2,8 +2,16 @@
   width: 100%
   padding: 2em 1em
 
+.lo-block--gray
+  @extend .lo-block
+  background: $background-tint
+
 .lo-block__content
   @include center(rem(1200))
+
+.lo-block__content--centered
+  @extend .lo-block__content
+  text-align: center
 
 .lo-block__half
   @include col(1/2)
