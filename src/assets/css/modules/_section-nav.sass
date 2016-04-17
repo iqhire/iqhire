@@ -1,0 +1,33 @@
+.section-navs
+  @include center(rem(1200))
+  display: none
+
+  @include bp(rem(960))
+    display: flex
+
+.section-nav
+  width: 23.5%
+  margin-right: 2%
+
+  &:last-child
+    margin-right: 0
+
+.section-nav__header
+  border-bottom: 1px solid $border-color
+  margin-bottom: 0
+  padding-bottom: 0.5em
+  color: $red
+
+.section-nav__list
+  margin: 0
+  padding: 0
+  list-style: none
+
+  li a
+    display: block
+    padding: 0.5em 0
+    color: $gray
+    border-bottom: 1px dotted $border-color
+
+    &:hover
+      color: $blue

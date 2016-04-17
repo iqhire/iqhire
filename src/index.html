@@ -138,10 +138,10 @@ description: "Inquirehire provides Applicant Tracking, I9/E-Verify, Skill Survey
 
 <div class="lo-block">
   <div class="lo-block__content">
-    <div class="lo-block__fourth">
-      <div class="section">
-        <h3>Services</h3>
-        <ul>
+    <div class="section-navs">
+      <div class="section-nav">
+        <h3 class="section-nav__header">Services</h3>
+        <ul class="section-nav__list">
           {% for link in site.data.nav %}
           {% if link.section-id == "services" %}
             <li><a href="{{ link.url }}">{{ link.title }}</a></li>
@@ -149,12 +149,9 @@ description: "Inquirehire provides Applicant Tracking, I9/E-Verify, Skill Survey
           {% endfor %}
         </ul>
       </div>
-    </div>
-
-    <div class="lo-block__fourth">
-      <div class="section">
-        <h3>Resources</h3>
-        <ul>
+      <div class="section-nav">
+        <h3 class="section-nav__header">Resources</h3>
+        <ul class="section-nav__list">
           {% for link in site.data.nav %}
           {% if link.section-id == "resources" %}
             <li><a href="{{ link.url }}">{{ link.title }}</a></li>
@@ -162,12 +159,9 @@ description: "Inquirehire provides Applicant Tracking, I9/E-Verify, Skill Survey
           {% endfor %}
         </ul>
       </div>
-    </div>
-
-    <div class="lo-block__fourth">
-      <div class="section">
-        <h3>Partners</h3>
-        <ul>
+      <div class="section-nav">
+        <h3 class="section-nav__header">Partners</h3>
+        <ul class="section-nav__list">
           {% for link in site.data.nav %}
           {% if link.section-id == "partners" %}
             <li><a href="{{ link.url }}">{{ link.title }}</a></li>
@@ -175,12 +169,9 @@ description: "Inquirehire provides Applicant Tracking, I9/E-Verify, Skill Survey
           {% endfor %}
         </ul>
       </div>
-    </div>
-
-    <div class="lo-block__fourth">
-      <div class="section">
-        <h3>About</h3>
-        <ul>
+      <div class="section-nav">
+        <h3 class="section-nav__header">About</h3>
+        <ul class="section-nav__list">
           {% for link in site.data.nav %}
           {% if link.section-id == "about" %}
             <li><a href="{{ link.url }}">{{ link.title }}</a></li>
