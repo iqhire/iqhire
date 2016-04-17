@@ -1,0 +1,46 @@
+.features
+  display: flex
+  flex-direction: column
+
+
+  @include bp(rem(560))
+    flex-direction: row
+
+  @include bp(rem(880))
+    flex-direction: row
+
+.feature
+  width: 100%
+  margin-bottom: 3em
+  border: 1px solid $border-color
+
+  &:last-child
+    display: none
+
+
+  @include bp(rem(560))
+    width: 47.5%
+    margin-right: 5%
+    margin-bottom: 0
+
+    &:nth-child(2)
+      margin-right: 0
+
+
+  @include bp(rem(880))
+    width: 30%
+    margin-right: 5%
+
+    &:nth-child(2)
+      margin-right: 5%
+
+    &:last-child
+      display: block
+      margin-right: 0
+
+.feature__image
+  margin-bottom: 2em
+
+
+.feature__text
+  padding: 0 1em 1em 1em
