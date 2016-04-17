@@ -9,6 +9,17 @@ layout: base
     {{ content }}
   </div>
   <div class="lo-page__sidebar">
-    Sidebar!
+    {% case page.section %}
+    {% when "solutions" %}
+      Solutions!
+    {% when "services" %}
+      Services!
+    {% when "resources" %}
+      Resources!
+    {% when "partners" %}
+      Partners!
+    {% when "about" %}
+      About!
+    {% endcase %}
   </div>
 </div>

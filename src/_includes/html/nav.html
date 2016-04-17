@@ -9,7 +9,7 @@
           {% if link.id == link.section-id %}
             <li class="nav-sub__item"><a href="/{{ section.id }}">{{ link.title }}</a></li>
           {% else %}
-            <li class="nav-sub__item"><a href="{{ link.url }}.html">{{ link.title }}</a></li>
+            <li class="nav-sub__item"><a href="{{ link.url }}">{{ link.title }}</a></li>
           {% endif %}
         {% endif %}
         {% endfor %}

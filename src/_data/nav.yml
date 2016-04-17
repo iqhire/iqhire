@@ -1,49 +1,49 @@
 # Solutions
 
-- url: "/solutions/attract-better-candidates"
+- url: "/solutions/attract-better-candidates.html"
   title: "Attract Better Candidates"
   section-id: solutions
 
-- url: "/solutions/avoid-hiring-mistakes"
+- url: "/solutions/avoid-hiring-mistakes.html"
   title: "Avoid Hiring Mistakes"
   section-id: solutions
 
-- url: "/solutions/streamline-the-hiring-process"
+- url: "/solutions/streamline-the-hiring-process.html"
   title: "Streamline the Hiring Process"
   section-id: solutions
 
 
 # Services
 
-- url: "/services/background-screening"
+- url: "/services/background-screening.html"
   title: "Background Screening"
   section-id: services
 
-- url: "/services/social-media-screening"
+- url: "/services/social-media-screening.html"
   title: "Social Media Screening"
   section-id: services
 
-- url: "/services/aptitude-assessments"
+- url: "/services/aptitude-assessments.html"
   title: "Aptitude Assessments"
   section-id: services
 
-- url: "/services/professional-reference-checks"
+- url: "/services/professional-reference-checks.html"
   title: "Professional Reference Checks"
   section-id: services
 
-- url: "/services/selectech-applicant-tracking-system"
+- url: "/services/selectech-applicant-tracking-system.html"
   title: "Selectech® Applicant Tracking System"
   section-id: services
 
-- url: "/services/selectech-verification-system"
+- url: "/services/selectech-verification-system.html"
   title: "Selectech® Verification System"
   section-id: services
 
-- url: "/services/drug-testing"
+- url: "/services/drug-testing.html"
   title: "Drug Testing"
   section-id: services
 
-- url: "/services/post-hire-services"
+- url: "/services/post-hire-services.html"
   title: "Post Hire Services"
   section-id: services
 
@@ -51,35 +51,35 @@
 
 # Resources
 
-- url: "/resources/legal-and-compliance"
+- url: "/resources/legal-and-compliance.html"
   title: "Legal and Compliance"
   section-id: resources
 
-- url: "/resources/advisories"
+- url: "/resources/advisories.html"
   title: "Advisories"
   section-id: resources
 
-- url: "/resources/fcra-forms"
+- url: "/resources/fcra-forms.html"
   title: "FCRA Forms"
   section-id: resources
 
-- url: "/resources/glossary"
+- url: "/resources/glossary.html"
   title: "Glossary"
   section-id: resources
 
-- url: "/resources/faq"
+- url: "/resources/faq.html"
   title: "Frequently Asked Questions"
   section-id: resources
 
-- url: "/resources/events"
+- url: "/resources/events.html"
   title: "Events"
   section-id: resources
 
-- url: "/resources/presentations"
+- url: "/resources/presentations.html"
   title: "Presentations"
   section-id: resources
 
-- url: "/resources/webinars"
+- url: "/resources/webinars.html"
   title: "Webinars"
   section-id: resources
 
@@ -91,7 +91,7 @@
 
 # Partners
 
-- url: "/partners/index"
+- url: "/partners"
   title: "Our Partners"
   section-id: partners
 
@@ -126,22 +126,22 @@
 
 # About
 
-- url: "/about/index"
+- url: "/about"
   title: "About Us"
   section-id: about
 
-- url: "/about/history"
+- url: "/about/history.html"
   title: "Company History"
   section-id: about
 
-- url: "/about/values"
+- url: "/about/values.html"
   title: "Company Values"
   section-id: about
 
-- url: "/http://inquirehire.com/about/careers"
+- url: "https://inquirehire.pstprod.peoplestrategy.com/clients/inquirehire/"
   title: "Careers"
   section-it: about
 
-- url: "/about/contact"
+- url: "/about/contact.html"
   title: "Contact"
   section-id: about

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Company History
 id: company-history
 ---

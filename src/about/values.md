@@ -1,6 +1,5 @@
 ---
-layout: page
-section-id: about
+layout: about
 title: Company Values
 id: values
 ---
