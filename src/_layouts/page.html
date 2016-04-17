@@ -9,17 +9,15 @@ layout: base
     {{ content }}
   </div>
   <div class="lo-page__sidebar">
-    {% case page.section %}
-    {% when "solutions" %}
-      Solutions!
-    {% when "services" %}
-      Services!
-    {% when "resources" %}
-      Resources!
-    {% when "partners" %}
-      Partners!
-    {% when "about" %}
-      About!
-    {% endcase %}
+    <div class="section-nav--full">
+      <h3 class="section-nav__header">{{ page.section }}</h3>
+      <ul class="section-nav__list">
+        {% for link in site.data.nav %}
+        {% if link.section-id == page.section %}
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
   </div>
 </div>
