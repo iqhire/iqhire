@@ -13,3 +13,15 @@ button.button
 
   &:active
     background: $red
+
+.button--red,
+a.button--red,
+button.button--red
+  @extend .button
+  background: $red
+
+  &:hover
+    background: darken($red, 10%)
+
+  &:active
+    background: $blue

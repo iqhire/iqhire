@@ -28,6 +28,32 @@
 
     {{ content }}
 
+    <div class="footer">
+      <div class="footer__copyright">
+        &copy;{{ site.time | date: "%Y" }} Inquirehire. All Rights Reserved.
+        <a href="/privacy-policy.html">Privacy Policy</a>.
+      </div>
+      <div class="footer__social">
+        <ul class="social-links">
+          <li class="social-link">
+            <a href="https://www.facebook.com/inquirehire">
+              <img src="/assets/img/icon-facebook.png" alt="Facebook">
+            </a>
+          </li>
+          <li class="social-link">
+            <a href="https://twitter.com/inquirehire">
+              <img src="/assets/img/icon-twitter.png" alt="Twitter">
+            </a>
+          </li>
+          <li class="social-link">
+            <a href="http://inquirehire.com/about/contact">
+              <img src="/assets/img/icon-contact.png" alt="Contact Us">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
     <script src="/assets/js/plugins.js"></script>
