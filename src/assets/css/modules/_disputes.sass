@@ -1,9 +1,18 @@
 .disputes
   display: flex
+  flex-direction: column
   justify-content: center
 
+  @include bp(rem(500))
+    flex-direction: row
+
 .dispute
-  margin-right: 1em
+  margin-bottom: 1em
+
+  @include bp(rem(500))
+    margin-right: 1em
+    margin-bottom: 0
 
   &:last-child
     margin-right: 0
+    margin-bottom: 0
