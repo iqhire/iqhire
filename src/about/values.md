@@ -4,8 +4,6 @@ title: Company Values
 id: values
 ---
 
-# Values
-
 ## Expertise
 Inquirehire is known for deep and substantial expertise in enterprise level security, risk management, and loss prevention. Our investigative expertise spans not only U.S. jurisdictions, but includes international capabilities.
 
