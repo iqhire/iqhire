@@ -1,0 +1,34 @@
+---
+layout: resource
+title: Webinar Signup
+id: webinar-signup
+---
+
+<div class="form">
+  <form action="https://formspree.io/inbox@inquirehire.com" method="POST">
+    <div class="form__group">
+      <label for="" class="form__label">Your Name</label>
+      <input type="text" name="name" required>
+    </div>
+    <div class="form__group">
+      <label for="" class="form__label">Company</label>
+      <input type="text" name="company" required>
+    </div>
+    <div class="form__group">
+      <label for="" class="form__label">Email</label>
+      <input type="text" name="_replyto" required>
+    </div>
+    <div class="form__group">
+      <label for="" class="form__label">Phone</label>
+      <input type="text" name="phone" required>
+    </div>
+    <div class="form__group">
+      <label for="" class="form__label">What Are You Hoping to Learn via Webinar?</label>
+      <textarea name="comment"></textarea>
+    </div>
+    <input type="hidden" name="_next" value="//inquirehire.com/about/contact-thanks.html" />
+    <div class="form__submit">
+      <input type="submit" class="button" value="Register for a Webinar">
+    </div>
+</form>
+</div>
