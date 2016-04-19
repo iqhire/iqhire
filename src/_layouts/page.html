@@ -9,9 +9,9 @@ layout: base
     {{ content }}
   </div>
   <div class="lo-page__sidebar">
-    <div class="section-nav--full">
-      <h3 class="section-nav__header">{{ page.section }}</h3>
-      <ul class="section-nav__list">
+    <div class="sidebar">
+      <h3 class="sidebar__header">{{ page.section }}</h3>
+      <ul class="sidebar__list">
         {% for link in site.data.nav %}
         {% if link.section-id == page.section %}
           <li><a href="{{ link.url }}">{{ link.title }}</a></li>
