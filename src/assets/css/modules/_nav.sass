@@ -1,5 +1,5 @@
 $bp-nav-mid: rem(500)
-$bp-nav-full: rem(840)
+$bp-nav-full: rem(900)
 
 .nav
 
@@ -42,6 +42,16 @@ $bp-nav-full: rem(840)
     display: block
     float: left
 
+.nav-section--login
+  @extend .nav-section
+
+  @include bp($bp-nav-mid)
+    margin-left: 0.75em
+
+  //- yuk
+  .button--red
+    padding-left: 1em
+    padding-right: 1em
 
 .nav-sub
   overflow: hidden
