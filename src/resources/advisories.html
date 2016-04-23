@@ -13,7 +13,7 @@ id: advisories
   <div class="advisory">
     <h2 class="advisory__name">{{ advisory.name }}</h2>
     <div class="advisory__description">{{ description | markdownify }}</div>
-    <div class="advisory__cta"><a href="/assets/files/advisories/{{ advisory.id }}.pdf">Read More</a></div>
+    <div class="advisory__cta"><a href="/assets/files/advisories/{{ advisory.id }}.pdf" class="button">Read More</a></div>
   </div>
   {% endfor %}
 </div>
