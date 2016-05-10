@@ -59,4 +59,4 @@ Before giving you an individual's [consumer report][8], Inquirehire will require
   [2]: /assets/files/fcra/disclosure-and-authorization-nov-2015.doc
   [3]: /assets/files/fcra/disclosure-and-authorization-tenant-nov-2015.doc
   [5]: /assets/files/fcra/sample-pre-adverse-action-notice-2012.doc
-  [6]: /assets/files/fcra/summary-of-rights.pdf
+  [6]: /assets/files/fcra/summary-of-rights.docx
