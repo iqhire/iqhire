@@ -87,6 +87,10 @@
   title: "Banking"
   section-id: resources
 
+- url: "/resources/schools.html"
+  title: "Iowa Schools"
+  section-id: resources
+
 - url: "/assets/files/searches-and-product-library.doc"
   title:  "Searches and Product Catalog [Doc]"
   section-id: resources
