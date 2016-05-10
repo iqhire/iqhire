@@ -1,14 +1,14 @@
 ---
 layout: resource
-title: Events
+title: Glossary
 id: glossary
 ---
 
-<dd class="definitions">
+<div class="definitions">
   {% for definition in site.data.definitions %}
   <div class="definition">
-    <dt class="definition__title">{{ definition.term }}</div>
-    <dd class="definition__definition">
+    <div class="definition__title">{{ definition.term }}</div>
+    <div class="definition__definition">
       {% if definition.definition %}
         {{ definition.definition }}
       {% endif %}
@@ -20,4 +20,4 @@ id: glossary
     </div>
   </div>
   {% endfor %}
-</dd>
+</div>
