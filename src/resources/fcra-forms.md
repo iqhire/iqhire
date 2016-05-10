@@ -55,7 +55,7 @@ Before giving you an individual's [consumer report][8], Inquirehire will require
   [8]: /resources/glossary#consumer_report
 
   [7]: /assets/files/fcra/adverse-action-letter-2012.docx
-  [9]: /assets/files/fcra/certificate-of-permissable-purpose-2012.docx
+  [9]: /assets/files/fcra/certificate-of-permissable-purpose-2016.docx
   [2]: /assets/files/fcra/disclosure-and-authorization-nov-2015.doc
   [3]: /assets/files/fcra/disclosure-and-authorization-tenant-nov-2015.doc
   [5]: /assets/files/fcra/sample-pre-adverse-action-notice-2012.doc
