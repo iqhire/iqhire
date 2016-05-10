@@ -4,6 +4,13 @@ title: Presentations
 id: presentations
 ---
 
+## Inquirehire Automation Solutions
+
+Automating paper processes saves time and money, increases efficiency, and improves consistency and compliance. Inquirehire offers 3 powerful and easy to use methods for automating your screening or hiring process.</p>
+
+[Download Inquirehire Automation Solutions (PDF)][7]
+
+
 ## Finding a Seat at the Table
 
 Participants in the session will learn how to broaden their view of organizational strategy to be more in line with CEOs and CFOs. Participants will learn how to identify specific areas where their knowledge and ability can be leveraged to improve their strategic value to their organization. They will also learn how to identify key organizational performance drivers where more in depth knowledge can improve their ability to make an important strategic contribution.
@@ -60,3 +67,4 @@ This is one of our most popular training classes. In this session attendees will
 [4]: /assets/files/presentations/employment-branding.pdf
 [5]: /assets/files/presentations/top-10-background-check-mistakes.pdf
 [6]: /assets/files/presentations/skill-survey-professional-references-banking.pptx
+[7]: /assets/files/presentations/inquirehire-automation.pdf
