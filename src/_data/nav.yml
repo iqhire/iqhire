@@ -83,6 +83,10 @@
   title: "Webinars"
   section-id: resources
 
+- url: "/resources/banking.html"
+  title: "Banking"
+  section-id: resources
+
 - url: "/assets/files/searches-and-product-library.doc"
   title:  "Searches and Product Catalog [Doc]"
   section-id: resources
