@@ -4,6 +4,17 @@ title: Presentations
 id: presentations
 ---
 
+## Three Important Questions
+
+Three Important Questions about Your Employment Screening Practices
+
+[Download PDF](/assets/files/presentations/three-important-questions.pdf)
+
+## Recruiting and Hiring Top Talent
+
+[Download Powerpoint](/assets/files/presentations/recruiting-and-hiring-top-talent.pptx)
+
+
 ## Inquirehire Automation Solutions
 
 Automating paper processes saves time and money, increases efficiency, and improves consistency and compliance. Inquirehire offers 3 powerful and easy to use methods for automating your screening or hiring process.</p>
