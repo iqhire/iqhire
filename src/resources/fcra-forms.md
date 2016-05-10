@@ -46,7 +46,8 @@ After you've taken an adverse action, you must give the individual notice orally
 
 Before giving you an individual's [consumer report][8], Inquirehire will require you to certify that you are in compliance with the FCRA and that you will not misuse any information in the report in violation of federal or state equal employment opportunity laws or regulations. A [Certification of Permissible Purpose form][9] needs to be completed and on file with Inquirehire.
 
-**[Download Certification of Permissible Purpose][9]**
+- **[Download Certification of Permissible Purpose][9]**
+- **[Download Sample CCP Cover Sheet][10]**
 
 
 
@@ -60,3 +61,4 @@ Before giving you an individual's [consumer report][8], Inquirehire will require
   [3]: /assets/files/fcra/disclosure-and-authorization-tenant-nov-2015.doc
   [5]: /assets/files/fcra/sample-pre-adverse-action-notice-2012.doc
   [6]: /assets/files/fcra/summary-of-rights.docx
+  [10]: /assets/files/fcra/sample-ccp-cover-sheet-2016.docx
