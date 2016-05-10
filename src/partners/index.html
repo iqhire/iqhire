@@ -11,10 +11,10 @@ id: partners
   {% capture description %}{% include {{descriptionpath}} %}{% endcapture %}
 
   <div class="partner">
-    <h2 class="partner__name">{{ partner.name }}</h2>
+    <a name="{{partner.id}}"></a>
     <div class="partner__logo"><img src="/assets/img/partners/{{ partner.id }}.png" alt="{{ partner.name }} Logo"></div>
     <div class="partner__description">{{ description | markdownify }}</div>
-    <div class="partner__cta"><a href="{{ partner.url }}">{{ partner.name }}'s Website</a></div>
+    <div class="partner__cta"><a href="{{ partner.url }}" class="button">{{ partner.name }}'s Website</a></div>
   </div>
   {% endfor %}
 </div>
