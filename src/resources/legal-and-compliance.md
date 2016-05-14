@@ -34,21 +34,21 @@ Use the following links to find information about the latest legal and complianc
 [11]: http://www.eeoc.gov/policy/cra91.html
 [12]: http://www.eeoc.gov/laws/guidance/arrest_conviction.cfm
 
-## Other FCRA Related Forms
+## Other Forms
 
 - [Adverse Action Protocol][13]
 - [Notice To Users of Consumer Reports][14]
 - [Remedying the Effects of Identity Theft][15]
 - [Notice to Furnishers of Information][16]
 - [2014 Compliance Packet - Employment with credit][17]
-- [Disclosure &amp; Authorization][19]
+- [Individual States Rights][18]
 
 [13]: /assets/files/fcra/protocol-for-adverse-action-2012.docx
 [14]: /assets/files/fcra/notice-to-users-of-consumer-reports-2013.docx
 [15]: /assets/files/fcra/remedying-the-effects-of-identity-theft-2013.docx
 [16]: /assets/files/fcra/notice-to-furnishers-2013.docx
 [17]: /assets/files/fcra/2015-compliance-packet-employment-with-credit.pdf
-[19]: /assets/files/fcra/disclosure-and-authorization-nov-2015.doc
+[18]: /assets/files/fcra/individual-states-rights.docx
 
 ## En Español
 
