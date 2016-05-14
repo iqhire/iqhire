@@ -1,20 +1,14 @@
 ---
-layout: contact
-title: Contact Inquirehire
-id: contact
+layout: dispute
+title: Applicant Form
+id: applicant-form
 ---
-
-<p>We would like to hear from you! If you have comments or questions feel free to contact us by phone or the form below.</p>
 
 <div class="form">
   <form action="https://formspree.io/inbox@inquirehire.com" method="POST">
     <div class="form__group">
       <label for="" class="form__label">Your Name</label>
       <input type="text" name="name" required>
-    </div>
-    <div class="form__group">
-      <label for="" class="form__label">Company</label>
-      <input type="text" name="company" required>
     </div>
     <div class="form__group">
       <label for="" class="form__label">Email</label>
@@ -25,11 +19,16 @@ id: contact
       <input type="text" name="phone" required>
     </div>
     <div class="form__group">
-      <label for="" class="form__label">How Can We Help?</label>
+      <label for="" class="form__label">Mailing Address (Include City, State, Zip)</label>
+      <textarea name="address" rows="2" style="height: auto"></textarea>
+    </div>
+    <div class="form__group">
+      <label for="" class="form__label">Comment</label>
       <textarea name="comment"></textarea>
     </div>
-    <input type="hidden" name="_next" value="//inquirehire.com/about/contact-thanks.html" />
-    <input type="hidden" name="_subject" value="New Contact Form Submission" />
+    <input type="hidden" name="_next" value="//inquirehire.com/dispute/applicant-form-thanks.html" />
+    <input type="hidden" name="_subject" value="New Consumer Report Dispute" />
+
     <div class="form__submit">
       <input type="submit" class="button" value="Send">
       &#8203; or call <strong><a href="tel:1-800-494-5922">(800) 494-5922</a></strong>

@@ -1,5 +1,5 @@
 <div class="nav">
-  <a class="nav-menu js-nav-menu" href="#menu">Menu</a>
+  <a class="nav-menu js-nav-menu">Menu</a>
   <ul class="nav-sections js-nav-sections">
   {% for section in site.data.sections %}
     <li class="nav-section js-nav-section"><a href="/{{ section.id }}" class="nav-section__link">{{ section.title }}</a>
@@ -16,7 +16,7 @@
       </ul>
     </li>
   {% endfor %}
-    <li class="nav-section--login js-nav-section"><a href="#" class="nav-section__link button--red">Login</a>
+    <li class="nav-section--login js-nav-section"><a class="nav-section__link button--red">Login</a>
       <ul class="nav-sub js-nav-sub">
         <li class="nav-sub__item"><a href="https://inquirehire.instascreen.net/">Background Screening</a></li>
         <li class="nav-sub__item"><a href="https://inquirehire.pstprod.peoplestrategy.com/">ATS/Assessments</a></li>

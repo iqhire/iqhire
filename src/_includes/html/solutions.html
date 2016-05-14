@@ -4,7 +4,7 @@
   <div class="solution">
     <h2 class="solution__title">{{ solution.name }}</h2>
     <div class="solution__description">{{ solution.description }}</div>
-    <div class="solution__cta"><a href="{{ solution.url }}" class="button">Learn More</a></div>
+    {% if solution.url %}<div class="solution__cta"><a href="{{ solution.url }}" class="button">Learn More</a></div>{% endif %}
   </div>
   {% endif %}
   {% endfor %}

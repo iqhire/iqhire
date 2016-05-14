@@ -3,85 +3,85 @@
 - name: Branded Career Site
   description: "Employers can post job openings to a branded career site linked to their company website(s)."
   page-id: attract-better-candidates
-  url: /services/
+  url: /services/selectech-applicant-tracking-system.html
 
 - name: Job Board Integration
   description: "Employers extend their employment brand through convenient job board integration that seamlessly connects to thousands of job boards."
   page-id: attract-better-candidates
-  url: /services/
+  url: /services/selectech-applicant-tracking-system.html
 
 - name: Auto Outreach
   description: "This feature enables employers to automatically notify dozens of organizations such as educators or community groups about job openings"
   page-id: attract-better-candidates
-  url: /services/
+  url: /services/selectech-applicant-tracking-system.html
 
 - name: Employee Referrals
   description: "The Selectech® system tracks employee referrals, helping the employer recognize and reward successful referrals."
   page-id: attract-better-candidates
-  url: /services/
+  url: /services/selectech-applicant-tracking-system.html
 
 - name: Recruiter Candidates
   description: "The Selectech® system helps employers manage and control recruiter provided candidates so this expense can be more effectively managed."
   page-id: attract-better-candidates
-  url: /services/
+  url: /services/selectech-applicant-tracking-system.html
 
 # Avoid Hiring Mistakes
 
 - name: Aptitude and Behavioral Assessments
   description: "Inquirehire provides a number of validated assessments. Assessments are more predictive of future success than education or work history. Custom assessments are also available."
-  url: /services/aptitude-assessments
+  url: /services/aptitude-assessments.html
   page-id: avoid-hiring-mistakes
 
 - name: Professional References
   description: "Through our partner Skill Survey, Inquirehire offers the best method for evaluating a candidate’s prior work performance. With the Skill Survey reference check, employers receive up to eight comprehensive work history assessments, usually in 1 or 2 business days."
-  url: /services/professional-reference-checks
+  url: /services/professional-reference-checks.html
   page-id: avoid-hiring-mistakes
 
 - name: Identity Validation
   description: "A good background check begins with establishing the validity of the candidate’s social security number as well as prior addresses and alias names."
-  url: /services/background-screening
+  url: /services/background-screening.html
   page-id: avoid-hiring-mistakes
 
 - name: Criminal Record Check
   description: "Inquirehire offers a full range of domestic and international criminal record check options."
-  url: /services/background-screening
+  url: /services/background-screening.html
   page-id: avoid-hiring-mistakes
 
 - name: Credentials Checks
   description: "Validating prior employment and education is an important part of assessing applicant suitability."
-  url: /services/background-screening
+  url: /services/background-screening.html
   page-id: avoid-hiring-mistakes
 
 - name: Position Specific Checks
   description: "Certain positions require additional background screening which can include driving record checks, credit checks, and licensing."
-  url: /services/background-screening
+  url: /services/background-screening.html
   page-id: avoid-hiring-mistakes
 
 - name: Drug Testing
   description: "Though out partner, eScreen, Inquirehire offers a comprehensive list of drug testing options and collection site choices."
-  url: /services/drug-testing
+  url: /services/drug-testing.html
   page-id: avoid-hiring-mistakes
 
 - name: Employment Tax Credits
   description: "Inquirehire partners with Honkamp Krueger &amp; Co. P.C. to provide employment tax credit processing. On average 15% of new hires qualify for a tax credit that can be worth $9,000.00 for taxable employers."
-  url: /services/post-hire-services
+  url: /services/post-hire-services.html
   page-id: avoid-hiring-mistakes
 
 # Streamline the Hiring Process
 
 - name: Electronic I9s
   description: "A pre-built integration to the Selectech® Verification System which manages electronic I9s and is integrated with the federal E-Verify system."
-  url: /services/selectech-verification-system
+  url: /services/selectech-verification-system.html
   page-id: streamline-the-hiring-process
 
 - name: Assessment Integration
   description: "A pre-built integration to Inquirehire assessments services"
-  url: /services/selectech-verification-system
+  url: /services/selectech-verification-system.html
   page-id: streamline-the-hiring-process
 
 - name: Background Screening
   description: "A pre-built integration to Inquirehire background screening services"
-  url: /services/background-screening
+  url: /services/background-screening.html
   page-id: streamline-the-hiring-process
 
 - name: Payroll Integration

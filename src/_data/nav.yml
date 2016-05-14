@@ -148,8 +148,22 @@
 
 - url: "https://inquirehire.pstprod.peoplestrategy.com/clients/inquirehire/"
   title: "Careers"
-  section-it: about
+  section-id: about
 
 - url: "/about/contact.html"
   title: "Contact"
   section-id: about
+
+
+# Dispute
+- url: "/dispute/consumer-report.html"
+  title: "Dispute Your Consumer Report"
+  section-id: dispute
+
+- url: "/dispute/applicant.html"
+  title: "Applicant Dispute"
+  section-id: dispute
+
+- url: "/dispute/applicant-form.html"
+  title: "Applicant Dispute Online Form"
+  section-id: dispute

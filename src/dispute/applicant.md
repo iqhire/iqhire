@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: dispute
 title: Applicant Disputes
 id: applicant
 ---
-
-# Applicant Disputes
 
 You have the right to dispute incomplete or inaccurate information. If you identify information in your consumer report that is incomplete or inaccurate you should contact Inquirehire immediately. Inquirehire is obligated to re-investigate unless it is determined that your dispute is frivolous.
 
@@ -12,18 +10,18 @@ With Inquirehire, you have three options for submitting a dispute:
 
 ## 1. Online Dispute Form
 
-[Fill out the form here](/dispute/applicant-form)
+[Fill out the form here](/dispute/applicant-form.html)
 
 
 ## 2. Mail your dispute
-  
+
 Please mail your dispute to:
 
 Inquirehire  
 Attn: Compliance Officer  
 320 LeClaire St  
 Davenport, IA 52801
-  
+
 All requests must include:
 
  - Name
