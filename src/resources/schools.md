@@ -25,12 +25,12 @@ Inquirehire has features available that are advantageous to school districts to 
 
 # Iowa References
 
-  - Muscatine Community Schools - [Wes Fowler](mailto:wafowler@muscatine.k12.ia.us)
-  - Davenport Community Schools – [Deb Miller](mailto:millerd@mail.davenport.k12.ia.us)
-  - Bettendorf Community Schools - [Danell Randall](mailto:drandall@bettendorf.k12.ia.us)
-  - Pleasant Valley Community Schools – [Kelly Hatler](mailto:hatlerk@pleasval.k12.ia.us)
-  - North Scott Community Schools – [Nancy Case](mailto:nancy.case@north-scott.k12.ia.us)
-  - Cedar Rapids Community Schools – [Jill Cirivello](mailto:jcirivello@cr.k12.ia.us)
-  - Ottumwa Community Schools – [Dawn Thompson](mailto:dawn.thompson@ottumwaschools.com	)
+  - Muscatine Community Schools - <a href="mailto:wafowler@muscatine.k12.ia.us">Wes Fowler</a>
+  - Davenport Community Schools – <a href="mailto:millerd@mail.davenport.k12.ia.us">Deb Miller</a>
+  - Bettendorf Community Schools - <a href="mailto:drandall@bettendorf.k12.ia.us">Danell Randall</a>
+  - Pleasant Valley Community Schools – <a href="mailto:hatlerk@pleasval.k12.ia.us">Kelly Hatler</a>
+  - North Scott Community Schools – <a href="mailto:nancy.case@north-scott.k12.ia.us">Nancy Case</a>
+  - Cedar Rapids Community Schools – <a href="mailto:jcirivello@cr.k12.ia.us">Jill Cirivello</a>
+  - Ottumwa Community Schools – <a href="mailto:dawn.thompson@ottumwaschools.com">Dawn Thompson</a>
 
 [Contact Us to Find Out More](/about/contact.html)
