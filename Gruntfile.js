@@ -131,7 +131,8 @@ module.exports = function(grunt) {
     linkChecker: {
       // Use a large amount of concurrency to speed up check
       options: {
-        maxConcurrency: 20
+        maxConcurrency: 20,
+        noFragment: true
       },
       dev: {
         site: 'localhost',
