@@ -40,15 +40,13 @@ Use the following links to find information about the latest legal and complianc
 - [Notice To Users of Consumer Reports][14]
 - [Remedying the Effects of Identity Theft][15]
 - [Notice to Furnishers of Information][16]
-- [2014 Compliance Packet - Employment with credit][17]
-- [Individual States Rights][18]
+- [Individual States Rights][17]
 
 [13]: /assets/files/fcra/protocol-for-adverse-action-2012.docx
 [14]: /assets/files/fcra/notice-to-users-of-consumer-reports-2013.docx
 [15]: /assets/files/fcra/remedying-the-effects-of-identity-theft-2013.docx
 [16]: /assets/files/fcra/notice-to-furnishers-2013.docx
-[17]: /assets/files/fcra/2015-compliance-packet-employment-with-credit.pdf
-[18]: /assets/files/fcra/individual-states-rights.docx
+[17]: /assets/files/fcra/individual-states-rights.docx
 
 ## En Español
 
