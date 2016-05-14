@@ -4,6 +4,12 @@ title: Presentations
 id: presentations
 ---
 
+## Legal Landmines in Employment Screening
+
+The FCRA includes hyper-technical requirements and ambiguous guidance. These factors can lead to unintentional, but serious violations.
+
+[Download Legal Landmines PowerPoint](/assets/files/presentations/legal-landmines.pptx)
+
 ## Three Important Questions
 
 Three Important Questions about Your Employment Screening Practices
