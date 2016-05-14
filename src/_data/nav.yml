@@ -103,31 +103,31 @@
   title: "Our Partners"
   section-id: partners
 
-- url: "/partners/#escreen"
+- url: "/partners/index.html#escreen"
   title: "eScreen"
   section-id: partners
 
-- url: "/partners/#honkamp"
+- url: "/partners/index.html#honkamp"
   title: "Honkamp Krueger & Co."
   section-id: partners
 
-- url: "/partners/#hrtesting"
+- url: "/partners/index.html#hrtesting"
   title: "HR Testing"
   section-id: partners
 
-- url: "/partners/#jobtarget"
+- url: "/partners/index.html#jobtarget"
   title: "JobTarget"
   section-id: partners
 
-- url: "/partners/#peoplestrategy"
+- url: "/partners/index.html#peoplestrategy"
   title: "PeopleStrategy"
   section-id: partners
 
-- url: "/partners/#skillsurvey"
+- url: "/partners/index.html#skillsurvey"
   title: "SkillSurvey"
   section-id: partners
 
-- url: "/partners/#tazworks"
+- url: "/partners/index.html#tazworks"
   title: "TazWorks"
   section-id: partners
 
