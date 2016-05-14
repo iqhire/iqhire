@@ -1,14 +1,27 @@
 .affiliations
   display: flex
-  max-width: rem(800)
+  flex-wrap: wrap
+  align-items: center
+  max-width: rem(1000)
   margin: auto
   margin-bottom: 2em
 
+
 .affiliation
-  margin-right: 1em
+  width: 47.5%
+  margin-right: 5%
+  margin-bottom: 2em
 
-  @include bp(rem(600))
-    margin-right: 4em
 
-  &:last-child
+  &:nth-child(2n)
     margin-right: 0
+
+  @include bp(rem(650))
+    width: 22%
+    margin-right: 4%
+
+    &:nth-child(2n)
+      margin-right: 4%
+
+    &:last-child
+      margin-right: 0
