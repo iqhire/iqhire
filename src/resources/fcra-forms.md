@@ -51,13 +51,13 @@ Before giving you an individual's [consumer report][8], Inquirehire will require
 
 
 
-  [1]: /resources/glossary#employment_purposes
+  [1]: /resources/glossary.html#employment_purposes
   [2]: /assets/files/fcra/disclosure-2016.doc
   [3]: /assets/files/fcra/written-authorization-form-2016.doc
-  [4]: /resources/glossary#adverse_action
+  [4]: /resources/glossary.html#adverse_action
   [5]: /assets/files/fcra/sample-pre-adverse-action-notice-2012.doc
   [6]: /assets/files/fcra/summary-of-rights.docx
   [7]: /assets/files/fcra/adverse-action-letter-2012.docx
-  [8]: /resources/glossary#consumer_report
+  [8]: /resources/glossary.html#consumer_report
   [9]: /assets/files/fcra/certificate-of-permissable-purpose-2016.docx
   [10]: /assets/files/fcra/sample-ccp-cover-sheet-2016.docx
