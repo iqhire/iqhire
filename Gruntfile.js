@@ -126,6 +126,21 @@ module.exports = function(grunt) {
       }
     },
 
+    // Link Checker
+    // =====================================
+    linkChecker: {
+      // Use a large amount of concurrency to speed up check
+      options: {
+        maxConcurrency: 20
+      },
+      dev: {
+        site: 'localhost',
+        options: {
+          initialPort: 4000
+        }
+      }
+    },
+
 
     // Build Sass Files
     // =====================================
@@ -186,8 +201,10 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-ftp-deploy');
   grunt.loadNpmTasks('grunt-jekyll');
+  grunt.loadNpmTasks('grunt-link-checker');
 
   grunt.registerTask('dev', ['clean:dev', 'sass:dev', 'autoprefixer', 'jekyll:dev', 'concurrent:dev']);
   grunt.registerTask('prod', ['clean:prod', 'sass:prod', 'autoprefixer', 'jekyll:prod']);
+  grunt.registerTask('check-links', 'linkChecker:dev');
 
 };
