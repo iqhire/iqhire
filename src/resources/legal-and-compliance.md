@@ -34,7 +34,7 @@ Use the following links to find information about the latest legal and complianc
 [11]: http://www.eeoc.gov/policy/cra91.html
 [12]: http://www.eeoc.gov/laws/guidance/arrest_conviction.cfm
 
-## Other Forms
+## Additional Forms
 
 - [Adverse Action Protocol][13]
 - [Notice To Users of Consumer Reports][14]
