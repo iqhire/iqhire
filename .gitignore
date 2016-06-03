@@ -4,8 +4,11 @@ codekit-config.json
 _old-php
 node_modules
 build
-.sass-cache/
 src/assets/css/styles.css
 src/assets/css/vendor/jeet/.svn
 Gemfile.lock
 src/assets/css/styles.css.map
+.sass-cache
+.sass-cache/8b651c1c6c31d5371ab706eb5e336ed55bf8eee5/_bootstrap-responsive.scssc
+.sass-cache/8b651c1c6c31d5371ab706eb5e336ed55bf8eee5/_bootstrap.scssc
+.sass-cache/8b651c1c6c31d5371ab706eb5e336ed55bf8eee5/style.scssc
