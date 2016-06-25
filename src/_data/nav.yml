@@ -131,6 +131,11 @@
   title: "TazWorks"
   section-id: partners
 
+# Careers
+
+- url: "https://inquirehire.pstprod.peoplestrategy.com/clients/inquirehire/"
+  title: "Careers at Inquirehire"
+  section-id: careers
 
 # About
 
@@ -144,10 +149,6 @@
 
 - url: "/about/values.html"
   title: "Company Values"
-  section-id: about
-
-- url: "https://inquirehire.pstprod.peoplestrategy.com/clients/inquirehire/"
-  title: "Careers"
   section-id: about
 
 - url: "/about/contact.html"
