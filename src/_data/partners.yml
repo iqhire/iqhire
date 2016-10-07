@@ -6,10 +6,6 @@
   name: "Honkamp Krueger & Co., P.C."
   url: http://www.honkamp.com
 
-- id: hrtesting
-  name: HR Testing
-  url: http://www.hrtesting.com
-
 - id: jobtarget
   name: JobTarget
   url: http://www.jobtarget.com
@@ -17,6 +13,10 @@
 - id: peoplestrategy
   name: PeopleStrategy
   url: http://www.peoplestrategy.com/
+
+- id: psymetrics
+  name: PsyMetrics
+  url: http://psymetricsworld.com/
 
 - id: skillsurvey
   name: SkillSurvey

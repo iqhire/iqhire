@@ -111,16 +111,16 @@
   title: "Honkamp Krueger & Co."
   section-id: partners
 
-- url: "/partners/index.html#hrtesting"
-  title: "HR Testing"
-  section-id: partners
-
 - url: "/partners/index.html#jobtarget"
   title: "JobTarget"
   section-id: partners
 
 - url: "/partners/index.html#peoplestrategy"
   title: "PeopleStrategy"
+  section-id: partners
+
+- url: "/partners/index.html#psymetrics"
+  title: "PsyMetrics"
   section-id: partners
 
 - url: "/partners/index.html#skillsurvey"
