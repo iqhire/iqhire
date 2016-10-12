@@ -3,27 +3,22 @@
 - name: Branded Career Site
   description: "Employers can post job openings to a branded career site linked to their company website(s)."
   page-id: attract-better-candidates
-  url: /services/selectech-applicant-tracking-system.html
 
 - name: Job Board Integration
   description: "Employers extend their employment brand through convenient job board integration that seamlessly connects to thousands of job boards."
   page-id: attract-better-candidates
-  url: /services/selectech-applicant-tracking-system.html
 
 - name: Auto Outreach
   description: "This feature enables employers to automatically notify dozens of organizations such as educators or community groups about job openings"
   page-id: attract-better-candidates
-  url: /services/selectech-applicant-tracking-system.html
 
 - name: Employee Referrals
   description: "The Selectech® system tracks employee referrals, helping the employer recognize and reward successful referrals."
   page-id: attract-better-candidates
-  url: /services/selectech-applicant-tracking-system.html
 
 - name: Recruiter Candidates
   description: "The Selectech® system helps employers manage and control recruiter provided candidates so this expense can be more effectively managed."
   page-id: attract-better-candidates
-  url: /services/selectech-applicant-tracking-system.html
 
 # Avoid Hiring Mistakes
 
