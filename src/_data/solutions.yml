@@ -32,6 +32,22 @@
   url: /services/professional-reference-checks.html
   page-id: avoid-hiring-mistakes
 
+- name: Drug Testing
+  description: "Though out partner, eScreen, Inquirehire offers a comprehensive list of drug testing options and collection site choices."
+  url: /services/drug-testing.html
+  page-id: avoid-hiring-mistakes
+
+- name: Employment Tax Credits
+  description: "Inquirehire partners with Honkamp Krueger &amp; Co. P.C. to provide employment tax credit processing. On average 15% of new hires qualify for a tax credit that can be worth $9,000.00 for taxable employers."
+  url: /services/post-hire-services.html
+  page-id: avoid-hiring-mistakes
+
+  # Hacky; these kinds sections rely on this docs ordering and that's it
+
+- section: true
+  name: Background Screening
+  page-id: avoid-hiring-mistakes
+
 - name: Identity Validation
   description: "A good background check begins with establishing the validity of the candidate’s social security number as well as prior addresses and alias names."
   url: /services/background-screening.html
@@ -50,16 +66,6 @@
 - name: Position Specific Checks
   description: "Certain positions require additional background screening which can include driving record checks, credit checks, and licensing."
   url: /services/background-screening.html
-  page-id: avoid-hiring-mistakes
-
-- name: Drug Testing
-  description: "Though out partner, eScreen, Inquirehire offers a comprehensive list of drug testing options and collection site choices."
-  url: /services/drug-testing.html
-  page-id: avoid-hiring-mistakes
-
-- name: Employment Tax Credits
-  description: "Inquirehire partners with Honkamp Krueger &amp; Co. P.C. to provide employment tax credit processing. On average 15% of new hires qualify for a tax credit that can be worth $9,000.00 for taxable employers."
-  url: /services/post-hire-services.html
   page-id: avoid-hiring-mistakes
 
 # Streamline the Hiring Process

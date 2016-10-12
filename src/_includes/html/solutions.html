@@ -1,11 +1,17 @@
 <div class="solutions">
   {% for solution in site.data.solutions %}
   {% if solution.page-id == page.id %}
-  <div class="solution">
-    <h2 class="solution__title">{{ solution.name }}</h2>
-    <div class="solution__description">{{ solution.description }}</div>
-    {% if solution.url %}<div class="solution__cta"><a href="{{ solution.url }}" class="button">Learn More</a></div>{% endif %}
-  </div>
+
+    {% if solution.section %}
+    <div class="solutions__section">{{ solution.name }}</div>
+
+    {% else %}
+    <div class="solution">
+      <h2 class="solution__title">{{ solution.name }}</h2>
+      <div class="solution__description">{{ solution.description }}</div>
+      {% if solution.url %}<div class="solution__cta"><a href="{{ solution.url }}" class="button">Learn More</a></div>{% endif %}
+    </div>
+    {% endif %}
   {% endif %}
   {% endfor %}
 </div>
