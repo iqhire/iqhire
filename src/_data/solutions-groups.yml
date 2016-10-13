@@ -1,0 +1,13 @@
+- id: applicant-tracking
+  name: "Applicant Tracking Services"
+  url: "/services/selectech-applicant-tracking-system.html"
+
+- id: hiring-services
+  name: "Hiring Services"
+
+- id: background-screening
+  name: "Background Screening Services"
+  url: "/services/background-screening.html"
+
+- id: integrated-solutions
+  name: "Our Integrated Solutions"

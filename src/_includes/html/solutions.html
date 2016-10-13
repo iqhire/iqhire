@@ -1,17 +1,25 @@
 <div class="solutions">
-  {% for solution in site.data.solutions %}
-  {% if solution.page-id == page.id %}
+  {% for group in site.data.solutions-groups %}
+    {% if group.id == include.group-id %}
 
-    {% if solution.section %}
-    <div class="solutions__section">{{ solution.name }}</div>
+      <div class="solutions__group">{{ group.name }}</div>
 
-    {% else %}
-    <div class="solution">
-      <h2 class="solution__title">{{ solution.name }}</h2>
-      <div class="solution__description">{{ solution.description }}</div>
-      {% if solution.url %}<div class="solution__cta"><a href="{{ solution.url }}" class="button">Learn More</a></div>{% endif %}
-    </div>
+      {% for solution in site.data.solutions %}
+        {% if solution.group-id == include.group-id %}
+
+        <div class="solution">
+          <h2 class="solution__title">{{ solution.name }}</h2>
+          <div class="solution__description">{{ solution.description }}</div>
+          {% if solution.url %}<div class="solution__cta"><a href="{{ solution.url }}" class="button">Learn More</a></div>{% endif %}
+        </div>
+
+        {% endif %}
+      {% endfor %}
+      {% if group.url %}
+        <div class="solutions__group-url">
+          <a href="/services/selectech-applicant-tracking-system.html" class="button">Learn More About {{ group.name }}</a>
+        </div>
+      {% endif %}
     {% endif %}
-  {% endif %}
   {% endfor %}
 </div>
