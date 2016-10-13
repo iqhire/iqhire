@@ -57,7 +57,7 @@
   group-id: background-screening
 
 - name: Criminal Record Check
-  description: "Inquirehire offers a full range of domestic and international criminal record check options."
+  description: "Inquirehire offers a full range of domestic criminal search options including county searches, statewide searches, nationwide searches and federal district court searches. International criminal searches are also available."
   page-id: avoid-hiring-mistakes
   group-id: background-screening
 
