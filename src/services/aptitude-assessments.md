@@ -13,5 +13,5 @@ Inquirehire assessments are designed to accurately predict employee performance 
  - Professionally validated and legally defensible
  - Secure, web-based delivery
  - In-depth reporting with follow-up interview questions
- - Pre-integrated with the Selectech® Applicant Tracking System
- - Pre-built and custom assessments available
+ - More than 30 pre-built assessments including personality profiling, emotional intelligence, mechanical aptitude safety attitudes and many more
+ - More than 100 validated scales can be used to build custom assessments for specific requirements
