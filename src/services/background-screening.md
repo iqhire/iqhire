@@ -50,17 +50,15 @@ A search of court records in federal judicial districts is conducted. Jurisdicti
 
 Federal and state jurisdictions are selected based on the applicant's current and previous addresses. Reports include court, case number, date filed, complaint filed, plaintiff, defendant, date of disposition, and disposition.
 
-### Global Report
-
-A name search is conducted in a database comprised of U.S. and foreign sanctions and watch lists.
-
+### Global Report/Federal Agency Restricted Lists
+A name search is conducted in a database comprised of U.S. and foreign sanctions and several federal agency restricted lists that pertain to banking, health care, and other industries.
 
 
 ## Credit and Driving History
 
 ### Credit Report
 
-A credit report will be obtained from one of the national reporting organizations. Tax liens, judgments, and civil suits will be noted. Employers should always follow state regulations regarding the use of credit reports for employment purposes. Credit reports should only be used where credit history is clearly relevant to the job in question. 
+A credit report will be obtained from one of the national reporting organizations. Tax liens, judgments, and civil suits will be noted. Employers should always follow state regulations regarding the use of credit reports for employment purposes. Credit reports should only be used where credit history is clearly relevant to the job in question.
 
 ### Motor Vehicle Records
 
@@ -83,11 +81,6 @@ License verification is conducted with the appropriate regulatory body. Validity
 ### Medcheck – Medical Fraud, Abuse, and Sanctions Check
 
 A search will be conducted across 800 state and federal sources which list health care related exclusions, terminations of license, suspension, revocation, probation, and deportments. Medcheck is the single most comprehensive database available to the health care industry, and is an essential component for all health care related hiring.
-
-### Civil Monetary Penalty – Cease and Desist Check
-
-This search is recommended for all financial institutions. It includes a search of several financial industry databases of individuals who have been sanctioned for inappropriate behavior.
-
 
 
 
