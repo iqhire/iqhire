@@ -81,7 +81,7 @@
 
 - name: Assessment Integration
   description: "A pre-built integration to Inquirehire assessments services"
-  url: /services/selectech-verification-system.html
+  url: /services/aptitude-assessments.html
   page-id: streamline-the-hiring-process
   group-id: integrated-solutions
 
