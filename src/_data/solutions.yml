@@ -75,7 +75,7 @@
 
 - name: Electronic I9s
   description: "A pre-built integration to the Selectech® Verification System which manages electronic I9s and is integrated with the federal E-Verify system."
-  url: /services/selectech-verification-system.html
+  url: /services/verification-system.html
   page-id: streamline-the-hiring-process
   group-id: integrated-solutions
 

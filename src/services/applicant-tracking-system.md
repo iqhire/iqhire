@@ -1,10 +1,10 @@
 ---
 layout: service
 section-id: service
-title: Selectech® Applicant Tracking System
+title: Applicant Tracking System
 ---
 
-Selectech® ATS is a web-based solution that is powerful, modular, and user-friendly. With the Selectech® ATS, employers can fully automate their hiring process, resulting in lower cost of hiring, shorter time to hire, and improved quality of hire. Standard features include:
+The Inquirehire applicant tracking system is a web-based solution that is powerful, modular, and user-friendly. With the ATS, employers can fully automate their hiring process, resulting in lower cost of hiring, shorter time to hire, and improved quality of hire. Standard features include:
 
 ![ATS](/assets/img/services/ats.png)
 
@@ -14,7 +14,7 @@ Selectech® ATS is a web-based solution that is powerful, modular, and user-frie
  - Data Mining + Candidate Flagging
  - Employee Referral Source Collection
  - Recruiter Candidate Management
- - EEO/Veteran Status Collection
+ - EEO/Disability/Veteran Status Collection
  - Employee Referral Program and Reporting
  - Pre-Screening Questioning with Knock-out and Scoring
  - Online Application, Cover Letter and Resume +  Online Resume Builder
@@ -34,7 +34,7 @@ Selectech® ATS is a web-based solution that is powerful, modular, and user-frie
  - Job Board Integration
  - Automated Interview Scheduling
  - Automated Onboarding Notification
- - Selectech® Verification System - Electronic I9/E-Verify Integration
+ - E-Verify Integration
  - Custom Job Application
  - Custom Process/Document Step
  - Separate Internal Applicant Workflow with Internal Applicant Landing Page
