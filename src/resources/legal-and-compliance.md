@@ -6,6 +6,13 @@ id: legal-and-compliance
 
 Use the following links to find information about the latest legal and compliance developments.
 
+## Ban-the-box Update
+
+- [Ban-the-Box List][22]
+
+[22]: /assets/files/fcra/ban-the-box-list-jan-2017.doc
+
+
 ## FCRA Links
 
 - [Drivers Privacy Protection Act][1]
