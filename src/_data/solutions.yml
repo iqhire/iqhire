@@ -1,30 +1,3 @@
-# Attract Better Candidates
-
-- name: Branded Career Site
-  description: "Employers can post job openings to a branded career site linked to their company website(s)."
-  page-id: attract-better-candidates
-  group-id: applicant-tracking
-
-- name: Job Board Integration
-  description: "Employers extend their employment brand through convenient job board integration that seamlessly connects to thousands of job boards."
-  page-id: attract-better-candidates
-  group-id: applicant-tracking
-
-- name: Auto Outreach
-  description: "This feature enables employers to automatically notify dozens of organizations such as educators or community groups about job openings"
-  page-id: attract-better-candidates
-  group-id: applicant-tracking
-
-- name: Employee Referrals
-  description: "The Selectech® system tracks employee referrals, helping the employer recognize and reward successful referrals."
-  page-id: attract-better-candidates
-  group-id: applicant-tracking
-
-- name: Recruiter Candidates
-  description: "The Selectech® system helps employers manage and control recruiter provided candidates so this expense can be more effectively managed."
-  page-id: attract-better-candidates
-  group-id: applicant-tracking
-
 # Avoid Hiring Mistakes
 
 - name: Aptitude and Behavioral Assessments
@@ -73,25 +46,22 @@
 
 # Streamline the Hiring Process
 
-- name: Electronic I9s
-  description: "A pre-built integration to the Selectech® Verification System which manages electronic I9s and is integrated with the federal E-Verify system."
-  url: /services/verification-system.html
+- name: "Job Boards"
+  description: "With ApplicantList it only takes a few clicks and your job is live and ready for your applicants to apply. You can even specify state workforce sites and paid job boards as well.  With ApplicantList, getting your openings in front of more people requires so little effort on your part."
   page-id: streamline-the-hiring-process
   group-id: integrated-solutions
 
-- name: Assessment Integration
-  description: "A pre-built integration to Inquirehire assessments services"
-  url: /services/aptitude-assessments.html
+- name: "Social Media"
+  description: "Using social media to attract candidates is smart recruiting. On a daily basis, your future candidates use these sites to interact with friends and family but also to look for jobs. We help you advertise openings through Facebook, LinkedIn and Twitter without interfering with company marketing efforts."
   page-id: streamline-the-hiring-process
   group-id: integrated-solutions
 
-- name: Background Screening
-  description: "A pre-built integration to Inquirehire background screening services"
-  url: /services/background-screening.html
+- name: "Background Screening"
+  description: "ApplicantList is fully integrated with Inquirehire background screening services, making the process more efficient and secure for everyone involved."
   page-id: streamline-the-hiring-process
   group-id: integrated-solutions
 
-- name: Payroll Integration
-  description: "The Selectech® system can be integrated with an employer’s payroll or HRIS system"
+- name: "Optional Video Interviewing"
+  description: "Eliminate phone tag and scheduling problems with integrated video interviewing."
   page-id: streamline-the-hiring-process
   group-id: integrated-solutions

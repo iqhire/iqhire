@@ -8,35 +8,35 @@ The Inquirehire applicant tracking system is a web-based solution that is powerf
 
 ![ATS](/assets/img/services/ats.png)
 
- - Branded Job Seeker Landing Page
- - Job Seeker Site Supports Audio and Streaming Video
- - Smart Search Candidate Searching
- - Data Mining + Candidate Flagging
- - Employee Referral Source Collection
- - Recruiter Candidate Management
- - EEO/Disability/Veteran Status Collection
- - Employee Referral Program and Reporting
- - Pre-Screening Questioning with Knock-out and Scoring
- - Online Application, Cover Letter and Resume +  Online Resume Builder
- - Secure Applicant Communications Portal
- - Branded Electronic Offer Letter + Accept/Reject
- - Electronic/Digital Signature Background Check Authorization
- - Standard Management Reporting including EEO + One Click Export to Excel OFCCP Compliant
- - Inquirehire Background Screening Integration
- - Inquirehire Assessments Integration
- - Requisition Approval Management
- - Auto Outreach Communications
- - Configurable Workflow Design
- - Configurable User Security and Rights
+ - Free 30 Day Trial Period
+ - Fully Branded Career Site
+ - Job Alerts and Social Following
+ - Additional Pages and External Links
+ - Mobile Optimized
+ - Internal Job Board
+ - Passive Recruiting Widget
+ - Standard Application
+ - Custom External Application
+ - Custom Internal Application
+ - Default Statuses/Sources
+ - Race, Gender, and Veteran Status Tracking
+ - Default Screening Questions
+ - Unlimited Job Screening Questions
+ - Auto Disqualification
+ - Question Scoring and Weighting
+ - Unlimited HR and Manager Logins
+ - Push to Free Job Aggregators
+ - Social Media Integration
+ - Limited Paid Job Board Push
+ - Default Email Templates
+ - Unlimited Custom Templates
+ - Job Based Reporting
+ - Standard Report Library
+ - Custom Report Builder
+ - Traffic Analytics Reports
+ - Auto Assigned Application Statuses
 
 ### Optional Features Include:
 
- - Job Board Integration
- - Automated Interview Scheduling
- - Automated Onboarding Notification
- - E-Verify Integration
- - Custom Job Application
- - Custom Process/Document Step
- - Separate Internal Applicant Workflow with Internal Applicant Landing Page
- - 2 Step Background Check Process
- - HRIS/Payroll Integration
+ - Multiple Career Sites
+ - Multiple External Applications
