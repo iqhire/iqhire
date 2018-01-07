@@ -51,17 +51,19 @@
   page-id: streamline-the-hiring-process
   group-id: integrated-solutions
 
-- name: "Social Media"
-  description: "Using social media to attract candidates is smart recruiting. On a daily basis, your future candidates use these sites to interact with friends and family but also to look for jobs. We help you advertise openings through Facebook, LinkedIn and Twitter without interfering with company marketing efforts."
-  page-id: streamline-the-hiring-process
-  group-id: integrated-solutions
-
 - name: "Background Screening"
   description: "ApplicantList is fully integrated with Inquirehire background screening services, making the process more efficient and secure for everyone involved."
+  url: "/services/background-screening.html"
   page-id: streamline-the-hiring-process
   group-id: integrated-solutions
 
 - name: "Optional Video Interviewing"
   description: "Eliminate phone tag and scheduling problems with integrated video interviewing."
+  page-id: streamline-the-hiring-process
+  group-id: integrated-solutions
+
+- name: "Onboarding"
+  description: "Inquirehire Onboarding takes the paper out of new hire paperwork, streamlining your new hire onboarding and allowing new hires to get on the job fast."
+  url: /services/onboarding.html
   page-id: streamline-the-hiring-process
   group-id: integrated-solutions

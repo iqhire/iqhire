@@ -19,10 +19,6 @@
   title: "Background Screening"
   section-id: services
 
-- url: "/services/social-media-screening.html"
-  title: "Social Media Screening"
-  section-id: services
-
 - url: "/services/aptitude-assessments.html"
   title: "Aptitude Assessments"
   section-id: services
@@ -47,6 +43,9 @@
   title: "Post Hire Services"
   section-id: services
 
+- url: "/services/onboarding.html"
+  title: "Onboarding"
+  section-id: services
 
 
 # Resources
