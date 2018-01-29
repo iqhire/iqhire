@@ -4,6 +4,11 @@ title: Presentations
 id: presentations
 ---
 
+## Human Capital Management
+
+[Download PowerPoint](/assets/files/presentations/human-capital-management.pptx)
+
+
 ## Legal Landmines in Employment Screening
 
 The FCRA includes hyper-technical requirements and ambiguous guidance. These factors can lead to unintentional, but serious violations.
