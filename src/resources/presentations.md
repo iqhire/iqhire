@@ -4,6 +4,11 @@ title: Presentations
 id: presentations
 ---
 
+## Top 10 Reasons for Employment Denial
+
+[Download PowerPoint](/assets/files/presentations/employment-denial-reasons.pptx)
+
+
 ## Human Capital Management
 
 [Download PowerPoint](/assets/files/presentations/human-capital-management.pptx)
