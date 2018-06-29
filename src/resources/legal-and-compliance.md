@@ -6,6 +6,12 @@ id: legal-and-compliance
 
 Use the following links to find information about the latest legal and compliance developments.
 
+## Privacy Policy
+
+- [Consumer Information Privacy Policy (2017)][23]
+
+[23]: /assets/files/consumer-information-privacy-policy-2017.doc
+
 ## Ban-the-box Update
 
 - [Ban-the-Box List][22]
