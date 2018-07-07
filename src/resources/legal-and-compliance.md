@@ -8,9 +8,9 @@ Use the following links to find information about the latest legal and complianc
 
 ## Privacy Policy
 
-- [Consumer Information Privacy Policy (2017)][23]
+- [Consumer Information Privacy Policy (2018)][23]
 
-[23]: /assets/files/consumer-information-privacy-policy-2017.doc
+[23]: /assets/files/consumer-information-privacy-policy-2018.doc
 
 ## Ban-the-box Update
 
