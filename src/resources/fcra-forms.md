@@ -29,6 +29,7 @@ Before you take the adverse action, you must give the individual a [pre-adverse 
 
 - **[Download Pre-Adverse Action Notice][5]**
 - **[Download Summary of Rights][6]**
+- **[Download Summary of Rights - Spanish][11]**
 
 **Step 2**
 
@@ -61,3 +62,4 @@ Before giving you an individual's [consumer report][8], Inquirehire will require
   [8]: /resources/glossary.html#consumer_report
   [9]: /assets/files/fcra/certificate-of-permissable-purpose-2016.docx
   [10]: /assets/files/fcra/sample-ccp-cover-sheet-2016.docx
+  [11]: /assets/files/fcra/summary-of-rights-spanish.docx

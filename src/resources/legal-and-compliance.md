@@ -51,20 +51,24 @@ Use the following links to find information about the latest legal and complianc
 
 - [Adverse Action Protocol][13]
 - [Notice To Users of Consumer Reports][14]
-- [Remedying the Effects of Identity Theft][15]
+- [Remedying the Effects of Identity Theft][22]
 - [Notice to Furnishers of Information][16]
 - [Individual States Rights][17]
 
 [13]: /assets/files/fcra/protocol-for-adverse-action-2012.docx
 [14]: /assets/files/fcra/notice-to-users-of-consumer-reports-2013.docx
-[15]: /assets/files/fcra/remedying-the-effects-of-identity-theft-2013.docx
 [16]: /assets/files/fcra/notice-to-furnishers-2013.docx
 [17]: /assets/files/fcra/individual-states-rights.docx
+[22]: /assets/files/fcra/remedying-the-effects-of-identity-theft.docx
+
 
 ## En Español
 
 - [Adverse Action Notice (en Español)][20]
 - [Pre-Adverse Action Notice (en Español)][21]
+- [Remedying the Effects of Identity Theft (en Español)][23]
+
 
 [20]: /assets/files/fcra/adverse-action-notice-2015--spanish.doc
 [21]: /assets/files/fcra/pre-adverse-action-notice-2015--spanish.doc
+[23]: /assets/files/fcra/remedying-the-effects-of-identity-theft-spanish.docx
